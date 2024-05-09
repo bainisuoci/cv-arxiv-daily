@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -28,5 +28,7 @@ keywords:
         filters: ["object detect", "object detection"]
     "Remote Sensing Image":
         filters: ["object detect", "object detection","Remote Sensing Image Target Detection"]
+    "Ship detection":
+        filters: ["Ship detection"]
         
 
