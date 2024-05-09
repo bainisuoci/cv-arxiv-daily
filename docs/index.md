@@ -2900,6 +2900,96 @@ layout: default
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
 |**2024-02-22**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Peng Gao et.al.|[2402.14309](http://arxiv.org/abs/2402.14309)|null|
 |**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641](http://arxiv.org/abs/2402.12641)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
+|**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
+|**2024-01-16**|**Robust Tiny Object Detection in Aerial Images amidst Label Noise**|Haoran Zhu et.al.|[2401.08056](http://arxiv.org/abs/2401.08056)|null|
+|**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017](http://arxiv.org/abs/2401.08017)|null|
+|**2024-03-30**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|**[link](https://github.com/coolbay/Dr2Net)**|
+|**2023-12-15**|**Small Bird Detection using YOLOv7 with Test-Time Augmentation**|Kosuke Shigematsu et.al.|[2401.01018](http://arxiv.org/abs/2401.01018)|null|
+|**2024-02-29**|**Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline**|Xiaoqi Zhao et.al.|[2312.02528](http://arxiv.org/abs/2312.02528)|**[link](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd)**|
+|**2023-11-15**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955](http://arxiv.org/abs/2311.07955)|null|
+|**2023-11-13**|**Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications**|Liam Boyle et.al.|[2311.07163](http://arxiv.org/abs/2311.07163)|null|
+|**2023-11-08**|**S $^3$ AD: Semi-supervised Small Apple Detection in Orchard Environments**|Robert Johanson et.al.|[2311.05029](http://arxiv.org/abs/2311.05029)|null|
+|**2023-10-22**|**The Importance of Anti-Aliasing in Tiny Object Detection**|Jinlai Ning et.al.|[2310.14221](http://arxiv.org/abs/2310.14221)|**[link](https://github.com/freshn/anti-aliasing-tiny-object-detection)**|
+|**2023-10-13**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768](http://arxiv.org/abs/2310.05768)|null|
+|**2023-11-09**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tang et.al.|[2309.16393](http://arxiv.org/abs/2309.16393)|**[link](https://github.com/Jacoo-ai/HIC-Yolov5)**|
+|**2023-09-27**|**Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps**|Vipin Gautam et.al.|[2309.15782](http://arxiv.org/abs/2309.15782)|null|
+|**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264](http://arxiv.org/abs/2309.13264)|null|
+|**2023-09-20**|**Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection**|Son The Nguyen et.al.|[2309.11069](http://arxiv.org/abs/2309.11069)|null|
+|**2023-09-13**|**Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances**|Xiangrong Zhang et.al.|[2309.06751](http://arxiv.org/abs/2309.06751)|null|
+|**2023-09-10**|**Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art**|Aref Miri Rekavandi et.al.|[2309.04902](http://arxiv.org/abs/2309.04902)|**[link](https://github.com/arekavandi/transformer-sod)**|
+|**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534](http://arxiv.org/abs/2308.09534)|**[link](https://github.com/shaunyuan22/cfinet)**|
+|**2023-07-21**|**BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation**|Yosuke Shinya et.al.|[2307.11748](http://arxiv.org/abs/2307.11748)|**[link](https://github.com/shinya7y/UniverseNet)**|
+|**2023-07-17**|**Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime**|Pierre Le Jeune et.al.|[2307.09562](http://arxiv.org/abs/2307.09562)|null|
+|**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143](http://arxiv.org/abs/2307.09143)|**[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)**|
+|**2024-03-08**|**3D Small Object Detection with Dynamic Spatial Pruning**|Xiuwei Xu et.al.|[2305.03716](http://arxiv.org/abs/2305.03716)|**[link](https://github.com/xuxw98/dspdet3d)**|
+|**2023-04-18**|**Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection**|Chang Xu et.al.|[2304.08876](http://arxiv.org/abs/2304.08876)|**[link](https://github.com/chasel-tsui/mmrotate-dcfl)**|
+|**2023-04-07**|**High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection**|Yifan Yin et.al.|[2304.03812](http://arxiv.org/abs/2304.03812)|null|
+|**2023-04-07**|**TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors**|Shaoyu Chen et.al.|[2304.03428](http://arxiv.org/abs/2304.03428)|null|
+|**2023-03-31**|**Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm**|Hongen Liu et.al.|[2304.00018](http://arxiv.org/abs/2304.00018)|null|
+|**2023-03-27**|**A novel Multi to Single Module for small object detection**|Xiaohui Guo et.al.|[2303.14977](http://arxiv.org/abs/2303.14977)|null|
+|**2023-03-20**|**Rethinking the backbone architecture for tiny object detection**|Jinlai Ning et.al.|[2303.11267](http://arxiv.org/abs/2303.11267)|null|
+|**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747](http://arxiv.org/abs/2303.08747)|**[link](https://github.com/akhilpm/dronedetectron2)**|
+|**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
+|**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
+|**2023-03-02**|**Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection**|Alina Ciocarlan et.al.|[2303.01363](http://arxiv.org/abs/2303.01363)|null|
+|**2023-03-08**|**Local Contrast and Global Contextual Information Make Infrared Small Object Salient Again**|Chenyi Wang et.al.|[2301.12093](http://arxiv.org/abs/2301.12093)|**[link](https://github.com/wcyjerry/UCFnet)**|
+|**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
+|**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
+|**2023-06-29**|**iSmallNet: Densely Nested Network with Label Decoupling for Infrared Small Target Detection**|Zhiheng Hu et.al.|[2210.16561](http://arxiv.org/abs/2210.16561)|null|
+|**2022-10-26**|**PSA-Det3D: Pillar Set Abstraction for 3D object Detection**|Zhicong Huang et.al.|[2210.10983](http://arxiv.org/abs/2210.10983)|null|
+|**2023-04-08**|**SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery**|Jiaqing Zhang et.al.|[2209.13351](http://arxiv.org/abs/2209.13351)|**[link](https://github.com/icey-zhang/SuperYOLO)**|
+|**2022-09-11**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796](http://arxiv.org/abs/2209.04796)|null|
+|**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
+|**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
+|**2022-09-02**|**Chosen methods of improving small object recognition with weak recognizable features**|Magdalena Stachoń et.al.|[2208.13591](http://arxiv.org/abs/2208.13591)|null|
+|**2022-10-17**|**RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection**|Chang Xu et.al.|[2208.08738](http://arxiv.org/abs/2208.08738)|**[link](https://github.com/chasel-tsui/mmdet-rfla)**|
+|**2023-04-11**|**Towards Large-Scale Small Object Detection: Survey and Benchmarks**|Gong Cheng et.al.|[2207.14096](http://arxiv.org/abs/2207.14096)|null|
+|**2022-07-26**|**A Guide to Image and Video based Small Object Detection using Deep Learning : Case Study of Maritime Surveillance**|Aref Miri Rekavandi et.al.|[2207.12926](http://arxiv.org/abs/2207.12926)|null|
+|**2022-06-28**|**Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark**|Chang Xu et.al.|[2206.13996](http://arxiv.org/abs/2206.13996)|**[link](https://github.com/Chasel-Tsui/mmdet-aitod)**|
+|**2023-10-09**|**Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders**|Chen Min et.al.|[2206.09900](http://arxiv.org/abs/2206.09900)|**[link](https://github.com/chaytonmin/occupancy-mae)**|
+|**2022-06-07**|**DETR++: Taming Your Multi-Scale Detection Transformer**|Chi Zhang et.al.|[2206.02977](http://arxiv.org/abs/2206.02977)|null|
+|**2022-05-12**|**Enhanced Single-shot Detector for Small Object Detection in Remote Sensing Images**|Pourya Shamsolmoali et.al.|[2205.05927](http://arxiv.org/abs/2205.05927)|null|
+|**2022-05-02**|**RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds**|Tzu-Hsuan Chen et.al.|[2205.01570](http://arxiv.org/abs/2205.01570)|null|
+|**2022-04-27**|**Prescriptive and Descriptive Approaches to Machine-Learning Transparency**|David Adkins et.al.|[2204.13582](http://arxiv.org/abs/2204.13582)|null|
+|**2022-04-18**|**TOD-CNN: An Effective Convolutional Neural Network for Tiny Object Detection in Sperm Videos**|Shuojia Zou et.al.|[2204.08166](http://arxiv.org/abs/2204.08166)|null|
+|**2022-03-29**|**Interactive Multi-Class Tiny-Object Detection**|Chunggi Lee et.al.|[2203.15266](http://arxiv.org/abs/2203.15266)|**[link](https://github.com/chungyi347/interactive-multi-class-tiny-object-detection)**|
+|**2022-03-24**|**Focus-and-Detect: A Small Object Detection Framework for Aerial Images**|Onur Can Koyun et.al.|[2203.12976](http://arxiv.org/abs/2203.12976)|null|
+|**2022-03-09**|**Evaluation of YOLO Models with Sliced Inference for Small Object Detection**|Muhammed Can Keles et.al.|[2203.04799](http://arxiv.org/abs/2203.04799)|null|
+|**2022-02-21**|**Colonoscopy polyp detection with massive endoscopic images**|Jialin Yu et.al.|[2202.08730](http://arxiv.org/abs/2202.08730)|null|
+|**2022-10-24**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934](http://arxiv.org/abs/2202.06934)|**[link](https://github.com/fcakyon/sahi-benchmark)**|
+|**2022-01-10**|**Small Object Detection using Deep Learning**|Aleena Ajaz et.al.|[2201.03243](http://arxiv.org/abs/2201.03243)|null|
+|**2023-01-03**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumea et.al.|[2112.11798](http://arxiv.org/abs/2112.11798)|null|
+|**2021-12-13**|**Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images**|Dong Liang et.al.|[2112.06701](http://arxiv.org/abs/2112.06701)|**[link](https://github.com/qxgeng/dea-net)**|
+|**2021-11-05**|**Remote Sensing Image Super-resolution and Object Detection: Benchmark and State of the Art**|Yi Wang et.al.|[2111.03260](http://arxiv.org/abs/2111.03260)|null|
+|**2022-06-14**|**A Normalized Gaussian Wasserstein Distance for Tiny Object Detection**|Jinwang Wang et.al.|[2110.13389](http://arxiv.org/abs/2110.13389)|**[link](https://github.com/jwwangchn/NWD)**|
+|**2021-09-04**|**A Comprehensive Approach for UAV Small Object Detection with Simulation-based Transfer Learning and Adaptive Fusion**|Chen Rui et.al.|[2109.01800](http://arxiv.org/abs/2109.01800)|**[link](https://github.com/mlcaepiee/simuav)**|
+|**2021-10-11**|**FOVEA: Foveated Image Magnification for Autonomous Navigation**|Chittesh Thavamani et.al.|[2108.12102](http://arxiv.org/abs/2108.12102)|**[link](https://github.com/tchittesh/fovea)**|
+|**2021-08-25**|**Detecting Small Objects in Thermal Images Using Single-Shot Detector**|Hao Zhang et.al.|[2108.11101](http://arxiv.org/abs/2108.11101)|null|
+|**2021-08-24**|**Small Object Detection Based on Modified FSSD and Model Compression**|Qingcai Wang et.al.|[2108.10503](http://arxiv.org/abs/2108.10503)|null|
+|**2021-07-16**|**A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets**|Muhammed Muzammul et.al.|[2107.07927](http://arxiv.org/abs/2107.07927)|null|
+|**2021-06-11**|**Small Object Detection for Near Real-Time Egocentric Perception in a Manual Assembly Scenario**|Hooman Tavakoli et.al.|[2106.06403](http://arxiv.org/abs/2106.06403)|null|
+|**2022-03-24**|**QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection**|Chenhongyi Yang et.al.|[2103.09136](http://arxiv.org/abs/2103.09136)|**[link](https://github.com/ChenhongyiYang/QueryDet-PyTorch)**|
+|**2022-04-18**|**Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss**|Xue Yang et.al.|[2101.11952](http://arxiv.org/abs/2101.11952)|**[link](https://github.com/yangxue0827/RotationDetection)**|
+|**2020-11-11**|**LittleYOLO-SPP: A Delicate Real-Time Vehicle Detection Algorithm**|Sri Jamiya S et.al.|[2011.05940](http://arxiv.org/abs/2011.05940)|**[link](https://github.com/srijamiya/LittleYOLO-SPP)**|
+|**2020-11-09**|**Effective Fusion Factor in FPN for Tiny Object Detection**|Yuqi Gong et.al.|[2011.02298](http://arxiv.org/abs/2011.02298)|null|
+|**2022-03-13**|**SWIPENET: Object detection in noisy underwater images**|Long Chen et.al.|[2010.10006](http://arxiv.org/abs/2010.10006)|null|
+|**2020-10-05**|**Mind the Pad -- CNNs can Develop Blind Spots**|Bilal Alsallakh et.al.|[2010.02178](http://arxiv.org/abs/2010.02178)|null|
+|**2020-10-06**|**The 1st Tiny Object Detection Challenge:Methods and Results**|Xuehui Yu et.al.|[2009.07506](http://arxiv.org/abs/2009.07506)|**[link](https://github.com/ucas-vg/TinyBenchmark)**|
+|**2020-09-02**|**Intrinsic Relationship Reasoning for Small Object Detection**|Kui Fu et.al.|[2009.00833](http://arxiv.org/abs/2009.00833)|null|
+|**2020-08-04**|**1st Place Solutions of Waymo Open Dataset Challenge 2020 -- 2D Object Detection Track**|Zehao Huang et.al.|[2008.01365](http://arxiv.org/abs/2008.01365)|null|
+|**2020-08-13**|**Reducing Label Noise in Anchor-Free Object Detection**|Nermin Samet et.al.|[2008.01167](http://arxiv.org/abs/2008.01167)|**[link](https://github.com/nerminsamet/ppdet)**|
+|**2020-06-13**|**HRDNet: High-resolution Detection Network for Small Objects**|Ziming Liu et.al.|[2006.07607](http://arxiv.org/abs/2006.07607)|null|
+|**2020-06-10**|**MultiResolution Attention Extractor for Small Object Detection**|Fan Zhang et.al.|[2006.05941](http://arxiv.org/abs/2006.05941)|null|
+|**2020-05-23**|**Underwater object detection using Invert Multi-Class Adaboost with deep learning**|Long Chen et.al.|[2005.11552](http://arxiv.org/abs/2005.11552)|null|
+|**2020-11-06**|**Spatio-temporal Tubelet Feature Aggregation and Object Linking in Videos**|Daniel Cores et.al.|[2004.00451](http://arxiv.org/abs/2004.00451)|null|
+|**2020-03-22**|**Review of data analysis in vision inspection of power lines with an in-depth discussion of deep learning technology**|Xinyu Liu et.al.|[2003.09802](http://arxiv.org/abs/2003.09802)|null|
+|**2020-04-28**|**Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network**|Jakaria Rabbi et.al.|[2003.09085](http://arxiv.org/abs/2003.09085)|**[link](https://github.com/Jakaria08/Filter_Enhance_Detect)**|
+|**2020-04-09**|**Extended Feature Pyramid Network for Small Object Detection**|Chunfang Deng et.al.|[2003.07021](http://arxiv.org/abs/2003.07021)|null|
+|**2020-03-03**|**DeepSperm: A robust and real-time bull sperm-cell detection in densely populated semen videos**|Priyanto Hidayatullah et.al.|[2003.01395](http://arxiv.org/abs/2003.01395)|null|
+|**2019-12-23**|**Scale Match for Tiny Person Detection**|Xuehui Yu et.al.|[1912.10664](http://arxiv.org/abs/1912.10664)|**[link](https://github.com/ucas-vg/TinyBenchmark)**|
+|**2019-12-16**|**Small Object Detection using Context and Attention**|Jeong-Seon Lim et.al.|[1912.06319](http://arxiv.org/abs/1912.06319)|null|
+|**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
+|**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
 ## object detection
 
@@ -2915,6 +3005,96 @@ layout: default
 |**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
 |**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
 |**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906](http://arxiv.org/abs/2405.02906)|null|
+|**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
+|**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785](http://arxiv.org/abs/2405.02785)|null|
+|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
+|**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|**[link](https://github.com/yash2629/s.o.a.r)**|
+|**2024-05-02**|**Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**|Dr. Selva Kumar S et.al.|[2405.01310](http://arxiv.org/abs/2405.01310)|null|
+|**2024-05-02**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al.|[2405.01258](http://arxiv.org/abs/2405.01258)|**[link](https://github.com/xifen523/cod)**|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|null|
+|**2024-05-01**|**Object detection under the linear subspace model with application to cryo-EM images**|Amitay Eldar et.al.|[2405.00364](http://arxiv.org/abs/2405.00364)|null|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
+|**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
+|**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
+|**2024-04-30**|**Physical Backdoor: Towards Temperature-based Backdoor Attacks in the Physical World**|Wen Yin et.al.|[2404.19417](http://arxiv.org/abs/2404.19417)|null|
+|**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401](http://arxiv.org/abs/2404.19401)|null|
+|**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|null|
+|**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|**[link](https://github.com/yuanyunshuang/cosense3d)**|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426](http://arxiv.org/abs/2404.18426)|null|
+|**2024-04-29**|**Multi-modal Perception Dataset of In-water Objects for Autonomous Surface Vehicles**|Mingi Jeong et.al.|[2404.18411](http://arxiv.org/abs/2404.18411)|null|
+|**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245](http://arxiv.org/abs/2404.18245)|null|
+|**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150](http://arxiv.org/abs/2404.18150)|null|
+|**2024-04-27**|**Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection**|Farzad Nozarian et.al.|[2404.17910](http://arxiv.org/abs/2404.17910)|**[link](https://github.com/fnozarian/ReliableStudent)**|
+|**2024-04-30**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888](http://arxiv.org/abs/2404.17888)|null|
+|**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
+|**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|null|
+|**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|**[link](https://github.com/bella-jy/mmemp)**|
+|**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020](http://arxiv.org/abs/2404.17020)|**[link](https://github.com/cmcin019/tm-evo)**|
+|**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
+|**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
+|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
+|**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
+|**2024-04-24**|**Observational parameters of Blue Large-Amplitude Pulsators**|P. Pietrukowicz et.al.|[2404.16089](http://arxiv.org/abs/2404.16089)|null|
+|**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
+|**2024-04-24**|**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**|Michael Kösel et.al.|[2404.15879](http://arxiv.org/abs/2404.15879)|**[link](https://github.com/uulm-mrm/mmood3d)**|
+|**2024-04-24**|**Vision Transformer-based Adversarial Domain Adaptation**|Yahan Li et.al.|[2404.15817](http://arxiv.org/abs/2404.15817)|**[link](https://github.com/lluckyyh/vt-ada)**|
+|**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451](http://arxiv.org/abs/2404.15451)|null|
+|**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
+|**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244](http://arxiv.org/abs/2404.15244)|null|
+|**2024-04-23**|**Gallbladder Cancer Detection in Ultrasound Images based on YOLO and Faster R-CNN**|Sara Dadjouy et.al.|[2404.15129](http://arxiv.org/abs/2404.15129)|null|
+|**2024-04-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al.|[2404.15008](http://arxiv.org/abs/2404.15008)|null|
+|**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
+|**2024-04-23**|**Unified Unsupervised Salient Object Detection via Knowledge Transfer**|Yao Yuan et.al.|[2404.14759](http://arxiv.org/abs/2404.14759)|**[link](https://github.com/I2-Multimedia-Lab/A2S-v3)**|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
+|**2024-05-05**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
+|**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
+|**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868](http://arxiv.org/abs/2404.13868)|null|
+|**2024-04-22**|**Toward Robust LiDAR based 3D Object Detection via Density-Aware Adaptive Thresholding**|Eunho Lee et.al.|[2404.13852](http://arxiv.org/abs/2404.13852)|null|
+|**2024-04-21**|**A Nasal Cytology Dataset for Object Detection and Deep Learning**|Mauro Camporeale et.al.|[2404.13745](http://arxiv.org/abs/2404.13745)|null|
+|**2024-04-29**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|**[link](https://github.com/mit-spark/clio)**|
+|**2024-04-27**|**FisheyeDetNet: 360° Surround view Fisheye Camera based Object Detection System for Autonomous Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|
+|**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
+|**2024-04-19**|**A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics**|David Rapado-Rincon et.al.|[2404.12963](http://arxiv.org/abs/2404.12963)|null|
+|**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856](http://arxiv.org/abs/2404.12856)|null|
+|**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839](http://arxiv.org/abs/2404.12839)|null|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al.|[2404.12606](http://arxiv.org/abs/2404.12606)|null|
+|**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
+|**2024-04-18**|**Simultaneous Detection and Interaction Reasoning for Object-Centric Action Recognition**|Xunsong Li et.al.|[2404.11903](http://arxiv.org/abs/2404.11903)|null|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803](http://arxiv.org/abs/2404.11803)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[2404.11764](http://arxiv.org/abs/2404.11764)|null|
+|**2024-04-17**|**Equivariant Spatio-Temporal Self-Supervision for LiDAR Object Detection**|Deepti Hegde et.al.|[2404.11737](http://arxiv.org/abs/2404.11737)|null|
+|**2024-04-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al.|[2404.11488](http://arxiv.org/abs/2404.11488)|**[link](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**|
+|**2024-04-17**|**EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems**|Meghana Tedla et.al.|[2404.11411](http://arxiv.org/abs/2404.11411)|null|
+|**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
+|**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226](http://arxiv.org/abs/2404.11226)|null|
+|**2024-04-19**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
+|**2024-04-22**|**GhostNetV3: Exploring the Training Strategies for Compact Models**|Zhenhua Liu et.al.|[2404.11202](http://arxiv.org/abs/2404.11202)|null|
+|**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
+|**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
+|**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
+|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
+|**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
+|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
+|**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
+|**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
+|**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431](http://arxiv.org/abs/2404.09431)|null|
+|**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
+|**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
 ## Remote Sensing Image
 
@@ -2930,6 +3110,146 @@ layout: default
 |**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
 |**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
 |**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906](http://arxiv.org/abs/2405.02906)|null|
+|**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
+|**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785](http://arxiv.org/abs/2405.02785)|null|
+|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
+|**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|**[link](https://github.com/yash2629/s.o.a.r)**|
+|**2024-05-02**|**Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**|Dr. Selva Kumar S et.al.|[2405.01310](http://arxiv.org/abs/2405.01310)|null|
+|**2024-05-02**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al.|[2405.01258](http://arxiv.org/abs/2405.01258)|**[link](https://github.com/xifen523/cod)**|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|null|
+|**2024-05-01**|**Object detection under the linear subspace model with application to cryo-EM images**|Amitay Eldar et.al.|[2405.00364](http://arxiv.org/abs/2405.00364)|null|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
+|**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
+|**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654](http://arxiv.org/abs/2404.19654)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
+|**2024-04-30**|**Physical Backdoor: Towards Temperature-based Backdoor Attacks in the Physical World**|Wen Yin et.al.|[2404.19417](http://arxiv.org/abs/2404.19417)|null|
+|**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401](http://arxiv.org/abs/2404.19401)|null|
+|**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849](http://arxiv.org/abs/2404.18849)|null|
+|**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|**[link](https://github.com/yuanyunshuang/cosense3d)**|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426](http://arxiv.org/abs/2404.18426)|null|
+|**2024-04-29**|**Multi-modal Perception Dataset of In-water Objects for Autonomous Surface Vehicles**|Mingi Jeong et.al.|[2404.18411](http://arxiv.org/abs/2404.18411)|null|
+|**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245](http://arxiv.org/abs/2404.18245)|null|
+|**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150](http://arxiv.org/abs/2404.18150)|null|
+|**2024-04-27**|**Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection**|Farzad Nozarian et.al.|[2404.17910](http://arxiv.org/abs/2404.17910)|**[link](https://github.com/fnozarian/ReliableStudent)**|
+|**2024-04-30**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888](http://arxiv.org/abs/2404.17888)|null|
+|**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
+|**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|null|
+|**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|**[link](https://github.com/bella-jy/mmemp)**|
+|**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020](http://arxiv.org/abs/2404.17020)|**[link](https://github.com/cmcin019/tm-evo)**|
+|**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
+|**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
+|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
+|**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
+|**2024-04-24**|**Observational parameters of Blue Large-Amplitude Pulsators**|P. Pietrukowicz et.al.|[2404.16089](http://arxiv.org/abs/2404.16089)|null|
+|**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
+|**2024-04-24**|**Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection**|Michael Kösel et.al.|[2404.15879](http://arxiv.org/abs/2404.15879)|**[link](https://github.com/uulm-mrm/mmood3d)**|
+|**2024-04-24**|**Vision Transformer-based Adversarial Domain Adaptation**|Yahan Li et.al.|[2404.15817](http://arxiv.org/abs/2404.15817)|**[link](https://github.com/lluckyyh/vt-ada)**|
+|**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451](http://arxiv.org/abs/2404.15451)|null|
+|**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
+|**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244](http://arxiv.org/abs/2404.15244)|null|
+|**2024-04-23**|**Gallbladder Cancer Detection in Ultrasound Images based on YOLO and Faster R-CNN**|Sara Dadjouy et.al.|[2404.15129](http://arxiv.org/abs/2404.15129)|null|
+|**2024-04-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al.|[2404.15008](http://arxiv.org/abs/2404.15008)|null|
+|**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
+|**2024-04-23**|**Unified Unsupervised Salient Object Detection via Knowledge Transfer**|Yao Yuan et.al.|[2404.14759](http://arxiv.org/abs/2404.14759)|**[link](https://github.com/I2-Multimedia-Lab/A2S-v3)**|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
+|**2024-05-05**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
+|**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
+|**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868](http://arxiv.org/abs/2404.13868)|null|
+|**2024-04-22**|**Toward Robust LiDAR based 3D Object Detection via Density-Aware Adaptive Thresholding**|Eunho Lee et.al.|[2404.13852](http://arxiv.org/abs/2404.13852)|null|
+|**2024-04-21**|**A Nasal Cytology Dataset for Object Detection and Deep Learning**|Mauro Camporeale et.al.|[2404.13745](http://arxiv.org/abs/2404.13745)|null|
+|**2024-04-29**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|**[link](https://github.com/mit-spark/clio)**|
+|**2024-04-27**|**FisheyeDetNet: 360° Surround view Fisheye Camera based Object Detection System for Autonomous Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|
+|**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
+|**2024-04-19**|**A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics**|David Rapado-Rincon et.al.|[2404.12963](http://arxiv.org/abs/2404.12963)|null|
+|**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856](http://arxiv.org/abs/2404.12856)|null|
+|**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839](http://arxiv.org/abs/2404.12839)|null|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
+|**2024-04-19**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al.|[2404.12606](http://arxiv.org/abs/2404.12606)|null|
+|**2024-04-18**|**The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**|Cheng Shi et.al.|[2404.11957](http://arxiv.org/abs/2404.11957)|**[link](https://github.com/chengshiest/zip-your-clip)**|
+|**2024-04-18**|**Simultaneous Detection and Interaction Reasoning for Object-Centric Action Recognition**|Xunsong Li et.al.|[2404.11903](http://arxiv.org/abs/2404.11903)|null|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803](http://arxiv.org/abs/2404.11803)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[2404.11764](http://arxiv.org/abs/2404.11764)|null|
+|**2024-04-17**|**Equivariant Spatio-Temporal Self-Supervision for LiDAR Object Detection**|Deepti Hegde et.al.|[2404.11737](http://arxiv.org/abs/2404.11737)|null|
+|**2024-04-17**|**Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**|Luca Bompani et.al.|[2404.11488](http://arxiv.org/abs/2404.11488)|**[link](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**|
+|**2024-04-17**|**EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems**|Meghana Tedla et.al.|[2404.11411](http://arxiv.org/abs/2404.11411)|null|
+|**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
+|**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226](http://arxiv.org/abs/2404.11226)|null|
+|**2024-04-19**|**Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**|Chuheng Wei et.al.|[2404.11214](http://arxiv.org/abs/2404.11214)|null|
+|**2024-04-22**|**GhostNetV3: Exploring the Training Strategies for Compact Models**|Zhenhua Liu et.al.|[2404.11202](http://arxiv.org/abs/2404.11202)|null|
+|**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
+|**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
+|**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
+|**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
+|**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
+|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
+|**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
+|**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
+|**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431](http://arxiv.org/abs/2404.09431)|null|
+|**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
+|**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
+
+## Ship detection
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Automatic Detection of Dark Ship-to-Ship Transfers using Deep Learning and Satellite Imagery**|Ollie Ballinger et.al.|[2404.07607](http://arxiv.org/abs/2404.07607)|null|
+|**2024-03-26**|**EcoSense: Energy-Efficient Intelligent Sensing for In-Shore Ship Detection through Edge-Cloud Collaboration**|Wenjun Huang et.al.|[2403.14027](http://arxiv.org/abs/2403.14027)|null|
+|**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
+|**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790](http://arxiv.org/abs/2403.03790)|null|
+|**2024-01-11**|**Wilcoxon Nonparametric CFAR Scheme for Ship Detection in SAR Image**|Xiangwei Meng et.al.|[2402.18579](http://arxiv.org/abs/2402.18579)|null|
+|**2024-01-24**|**AMANet: Advancing SAR Ship Detection with Adaptive Multi-Hierarchical Attention Network**|Xiaolin Ma et.al.|[2401.13214](http://arxiv.org/abs/2401.13214)|null|
+|**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213](http://arxiv.org/abs/2401.08213)|null|
+|**2023-11-21**|**AR Visualization System for Ship Detection and Recognition Based on AI**|Ziqi Ye et.al.|[2311.12430](http://arxiv.org/abs/2311.12430)|null|
+|**2023-11-18**|**Low-Precision Floating-Point for Efficient On-Board Deep Neural Network Processing**|Cédric Gernigon et.al.|[2311.11172](http://arxiv.org/abs/2311.11172)|null|
+|**2023-11-15**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955](http://arxiv.org/abs/2311.07955)|null|
+|**2023-04-07**|**High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection**|Yifan Yin et.al.|[2304.03812](http://arxiv.org/abs/2304.03812)|null|
+|**2023-04-07**|**Anomalous NO2 emitting ship detection with TROPOMI satellite data and machine learning**|Solomiia Kurchaba et.al.|[2302.12744](http://arxiv.org/abs/2302.12744)|null|
+|**2022-12-12**|**Optimizing ship detection efficiency in SAR images**|Arthur Van Meerbeeck et.al.|[2212.05843](http://arxiv.org/abs/2212.05843)|null|
+|**2022-09-22**|**SimuShips -- A High Resolution Simulation Dataset for Ship Detection with Precise Annotations**|Minahil Raza et.al.|[2211.05237](http://arxiv.org/abs/2211.05237)|null|
+|**2022-09-28**|**MTU-Net: Multi-level TransUNet for Space-based Infrared Tiny Ship Detection**|Tianhao Wu et.al.|[2209.13756](http://arxiv.org/abs/2209.13756)|**[link](https://github.com/tianhaowu16/multi-level-transunet-for-space-based-infrared-tiny-ship-detection)**|
+|**2022-09-21**|**Sar Ship Detection based on Swin Transformer and Feature Enhancement Feature Pyramid Network**|Xiao Ke et.al.|[2209.10421](http://arxiv.org/abs/2209.10421)|null|
+|**2022-09-15**|**Bflier's: A Novel Butterfly Inspired Multi-robotic Model in Search of Signal Sources**|Chakravarthi J et.al.|[2209.07582](http://arxiv.org/abs/2209.07582)|null|
+|**2022-11-05**|**xView3-SAR: Detecting Dark Fishing Activity Using Synthetic Aperture Radar Imagery**|Fernando Paolo et.al.|[2206.00897](http://arxiv.org/abs/2206.00897)|**[link](https://github.com/diux-xview/xview3-reference)**|
+|**2022-03-29**|**SAR-ShipNet: SAR-Ship Detection Neural Network via Bidirectional Coordinate Attention and Multi-resolution Feature Fusion**|Yuwen Deng et.al.|[2203.15480](http://arxiv.org/abs/2203.15480)|null|
+|**2022-02-14**|**Context-Preserving Instance-Level Augmentation and Deformable Convolution Networks for SAR Ship Detection**|Taeyong Song et.al.|[2202.06513](http://arxiv.org/abs/2202.06513)|null|
+|**2021-12-07**|**A Novel Full-Polarization SAR Images Ship Detector Based on the Scattering Mechanisms and the Wave Polarization Anisotropy**|Chuan Zhang et.al.|[2112.02965](http://arxiv.org/abs/2112.02965)|null|
+|**2021-11-22**|**MidNet: An Anchor-and-Angle-Free Detector for Oriented Ship Detection in Aerial Images**|Feng Jie et.al.|[2111.10961](http://arxiv.org/abs/2111.10961)|null|
+|**2021-09-19**|**Generalized Poincaré Orthogonality: A New Approach to POLSAR Data Analysis**|Shane R. Cloude et.al.|[2109.09093](http://arxiv.org/abs/2109.09093)|**[link](https://github.com/ashlinrichardson/cloude_decom)**|
+|**2022-03-17**|**GLSD: The Global Large-Scale Ship Database and Baseline Evaluations**|Zhenfeng Shao et.al.|[2106.02773](http://arxiv.org/abs/2106.02773)|**[link](https://github.com/jiaming-wang/GLSD)**|
+|**2021-04-28**|**Automated System for Ship Detection from Medium Resolution Satellite Optical Imagery**|Dejan Stepec et.al.|[2104.13923](http://arxiv.org/abs/2104.13923)|null|
+|**2021-03-24**|**Learning Polar Encodings for Arbitrary-Oriented Ship Detection in SAR Images**|Yishan He et.al.|[2103.13151](http://arxiv.org/abs/2103.13151)|null|
+|**2021-03-17**|**ShipSRDet: An End-to-End Remote Sensing Ship Detector Using Super-Resolved Feature Representation**|Shitian He et.al.|[2103.09699](http://arxiv.org/abs/2103.09699)|null|
+|**2021-04-25**|**The QXS-SAROPT Dataset for Deep Learning in SAR-Optical Data Fusion**|Meiyu Huang et.al.|[2103.08259](http://arxiv.org/abs/2103.08259)|**[link](https://github.com/yaoxu008/QXS-SAROPT)**|
+|**2021-03-15**|**Boosting ship detection in SAR images with complementary pretraining techniques**|Wei Bao et.al.|[2103.08251](http://arxiv.org/abs/2103.08251)|null|
+|**2021-10-13**|**Arbitrary-Oriented Ship Detection through Center-Head Point Extraction**|Feng Zhang et.al.|[2101.11189](http://arxiv.org/abs/2101.11189)|**[link](https://github.com/zf020114/CHPDet)**|
+|**2020-12-11**|**A Simulation Study to Evaluate the Performance of the Cauchy Proximal Operator in Despeckling SAR Images of the Sea Surface**|Oktay Karakuş et.al.|[2012.06657](http://arxiv.org/abs/2012.06657)|null|
+|**2020-12-02**|**Ship Detection: Parameter Server Variant**|Benjamin Smith et.al.|[2012.00953](http://arxiv.org/abs/2012.00953)|null|
+|**2020-08-28**|**Fast Single-shot Ship Instance Segmentation Based on Polar Template Mask in Remote Sensing Images**|Zhenhang Huang et.al.|[2008.12447](http://arxiv.org/abs/2008.12447)|null|
+|**2020-07-24**|**Locality-Aware Rotated Ship Detection in High-Resolution Remote Sensing Imagery Based on Multi-Scale Convolutional Network**|Lingyi Liu et.al.|[2007.12326](http://arxiv.org/abs/2007.12326)|null|
+|**2020-09-21**|**Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images**|Tianwen Zhang et.al.|[2007.10714](http://arxiv.org/abs/2007.10714)|null|
+|**2020-05-08**|**A Novel CNN-based Method for Accurate Ship Detection in HR Optical Remote Sensing Images via Rotated Bounding Box**|Linhao Li et.al.|[2004.07124](http://arxiv.org/abs/2004.07124)|**[link](https://github.com/lilinhao/ShipDetection)**|
+|**2020-03-15**|**FGSD: A Dataset for Fine-Grained Ship Detection in High Resolution Satellite Images**|Kaiyan Chen et.al.|[2003.06832](http://arxiv.org/abs/2003.06832)|null|
+|**2020-02-20**|**Robust Marine Buoy Placement for Ship Detection Using Dropout K-Means**|Yuting Ng et.al.|[2001.00564](http://arxiv.org/abs/2001.00564)|null|
+|**2019-10-27**|**Segmenting Ships in Satellite Imagery With Squeeze and Excitation U-Net**|Venkatesh R et.al.|[1910.12206](http://arxiv.org/abs/1910.12206)|null|
+|**2020-05-27**|**Target-Tailored Source-Transformation for Scene Graph Generation**|Wentong Liao et.al.|[1904.02104](http://arxiv.org/abs/1904.02104)|null|
+|**2018-12-09**|**Deep Learning Approach in Automatic Iceberg - Ship Detection with SAR Remote Sensing Data**|Cheng Zhan et.al.|[1812.07367](http://arxiv.org/abs/1812.07367)|null|
+|**2018-11-17**|**Position Detection and Direction Prediction for Arbitrary-Oriented Ships via Multitask Rotation Region Convolutional Neural Network**|Xue Yang et.al.|[1806.04828](http://arxiv.org/abs/1806.04828)|null|
+|**2018-06-12**|**Automatic Ship Detection of Remote Sensing Images from Google Earth in Complex Scenes Based on Multi-Scale Rotation Dense Feature Pyramid Networks**|Xue Yang et.al.|[1806.04331](http://arxiv.org/abs/1806.04331)|null|
+|**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
+|**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
