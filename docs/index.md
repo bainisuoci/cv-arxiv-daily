@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3091,7 +3091,7 @@ layout: default
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
 |**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
-|**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
+|**2024-05-09**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
 |**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
 |**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
 |**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
@@ -3199,7 +3199,7 @@ layout: default
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
 |**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
-|**2024-04-16**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
+|**2024-05-09**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
 |**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
 |**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
 |**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
