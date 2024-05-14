@@ -3021,9 +3021,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
+|**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
+|**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653](http://arxiv.org/abs/2405.07653)|null|
+|**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600](http://arxiv.org/abs/2405.07600)|null|
+|**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595](http://arxiv.org/abs/2405.07595)|null|
+|**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479](http://arxiv.org/abs/2405.07479)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194](http://arxiv.org/abs/2405.07194)|null|
+|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|null|
+|**2024-05-11**|**Replication Study and Benchmarking of Real-Time Object Detection Models**|Pierre-Luc Asselin et.al.|[2405.06911](http://arxiv.org/abs/2405.06911)|**[link](https://github.com/Don767/segdet_mlcr2024)**|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
+|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|null|
+|**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[2405.06782](http://arxiv.org/abs/2405.06782)|null|
+|**2024-05-10**|**Common Corruptions for Enhancing and Evaluating Robustness in Air-to-Air Visual Object Detection**|Anastasios Arsenos et.al.|[2405.06765](http://arxiv.org/abs/2405.06765)|null|
+|**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
 |**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
 |**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260](http://arxiv.org/abs/2405.06260)|null|
-|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
+|**2024-05-13**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick Nikzad et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-09**|**The object detection model uses combined extraction with KNN and RF classification**|Florentina Tatrin Kurniati et.al.|[2405.05551](http://arxiv.org/abs/2405.05551)|null|
 |**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039](http://arxiv.org/abs/2405.05039)|null|
@@ -3133,9 +3149,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
+|**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
+|**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653](http://arxiv.org/abs/2405.07653)|null|
+|**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600](http://arxiv.org/abs/2405.07600)|null|
+|**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595](http://arxiv.org/abs/2405.07595)|null|
+|**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479](http://arxiv.org/abs/2405.07479)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
+|**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194](http://arxiv.org/abs/2405.07194)|null|
+|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|null|
+|**2024-05-11**|**Replication Study and Benchmarking of Real-Time Object Detection Models**|Pierre-Luc Asselin et.al.|[2405.06911](http://arxiv.org/abs/2405.06911)|**[link](https://github.com/Don767/segdet_mlcr2024)**|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
+|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|null|
+|**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[2405.06782](http://arxiv.org/abs/2405.06782)|null|
+|**2024-05-10**|**Common Corruptions for Enhancing and Evaluating Robustness in Air-to-Air Visual Object Detection**|Anastasios Arsenos et.al.|[2405.06765](http://arxiv.org/abs/2405.06765)|null|
+|**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
 |**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
 |**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260](http://arxiv.org/abs/2405.06260)|null|
-|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
+|**2024-05-13**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick Nikzad et.al.|[2405.05755](http://arxiv.org/abs/2405.05755)|null|
 |**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/abs/2405.05614)|null|
 |**2024-05-09**|**The object detection model uses combined extraction with KNN and RF classification**|Florentina Tatrin Kurniati et.al.|[2405.05551](http://arxiv.org/abs/2405.05551)|null|
 |**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039](http://arxiv.org/abs/2405.05039)|null|
