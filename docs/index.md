@@ -2995,6 +2995,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
+|**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483](http://arxiv.org/abs/2405.08483)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
+|**2024-05-14**|**Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**|Xin Wu et.al.|[2405.08251](http://arxiv.org/abs/2405.08251)|**[link](https://github.com/shank2358/mudet)**|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
 |**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
 |**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
@@ -3121,6 +3124,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
+|**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483](http://arxiv.org/abs/2405.08483)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
+|**2024-05-14**|**Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**|Xin Wu et.al.|[2405.08251](http://arxiv.org/abs/2405.08251)|**[link](https://github.com/shank2358/mudet)**|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
 |**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
 |**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
