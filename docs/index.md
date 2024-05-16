@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3000,17 +3000,17 @@ layout: default
 |**2024-05-14**|**Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**|Xin Wu et.al.|[2405.08251](http://arxiv.org/abs/2405.08251)|**[link](https://github.com/shank2358/mudet)**|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
 |**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
-|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|**[link](https://github.com/Lx-Bao/QSFNet)**|
 |**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653](http://arxiv.org/abs/2405.07653)|null|
 |**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600](http://arxiv.org/abs/2405.07600)|null|
 |**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595](http://arxiv.org/abs/2405.07595)|null|
 |**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479](http://arxiv.org/abs/2405.07479)|null|
 |**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
 |**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194](http://arxiv.org/abs/2405.07194)|null|
-|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|null|
+|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|**[link](https://github.com/visual-conception-group/localized-perception-constrained-vision-systems)**|
 |**2024-05-11**|**Replication Study and Benchmarking of Real-Time Object Detection Models**|Pierre-Luc Asselin et.al.|[2405.06911](http://arxiv.org/abs/2405.06911)|**[link](https://github.com/Don767/segdet_mlcr2024)**|
-|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
-|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|**[link](https://github.com/SLDGroup/GreedyViG)**|
+|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|**[link](https://github.com/fedezocco/2MMUsMed)**|
 |**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[2405.06782](http://arxiv.org/abs/2405.06782)|null|
 |**2024-05-10**|**Common Corruptions for Enhancing and Evaluating Robustness in Air-to-Air Visual Object Detection**|Anastasios Arsenos et.al.|[2405.06765](http://arxiv.org/abs/2405.06765)|null|
 |**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
@@ -3129,17 +3129,17 @@ layout: default
 |**2024-05-14**|**Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**|Xin Wu et.al.|[2405.08251](http://arxiv.org/abs/2405.08251)|**[link](https://github.com/shank2358/mudet)**|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698](http://arxiv.org/abs/2405.07698)|null|
 |**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
-|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655](http://arxiv.org/abs/2405.07655)|**[link](https://github.com/Lx-Bao/QSFNet)**|
 |**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653](http://arxiv.org/abs/2405.07653)|null|
 |**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600](http://arxiv.org/abs/2405.07600)|null|
 |**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595](http://arxiv.org/abs/2405.07595)|null|
 |**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479](http://arxiv.org/abs/2405.07479)|null|
 |**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201](http://arxiv.org/abs/2405.07201)|null|
 |**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194](http://arxiv.org/abs/2405.07194)|null|
-|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|null|
+|**2024-05-12**|**Resource Efficient Perception for Vision Systems**|A V Subramanyam et.al.|[2405.07166](http://arxiv.org/abs/2405.07166)|**[link](https://github.com/visual-conception-group/localized-perception-constrained-vision-systems)**|
 |**2024-05-11**|**Replication Study and Benchmarking of Real-Time Object Detection Models**|Pierre-Luc Asselin et.al.|[2405.06911](http://arxiv.org/abs/2405.06911)|**[link](https://github.com/Don767/segdet_mlcr2024)**|
-|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|null|
-|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|null|
+|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849](http://arxiv.org/abs/2405.06849)|**[link](https://github.com/SLDGroup/GreedyViG)**|
+|**2024-05-10**|**Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials**|Federico Zocco et.al.|[2405.06821](http://arxiv.org/abs/2405.06821)|**[link](https://github.com/fedezocco/2MMUsMed)**|
 |**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[2405.06782](http://arxiv.org/abs/2405.06782)|null|
 |**2024-05-10**|**Common Corruptions for Enhancing and Evaluating Robustness in Air-to-Air Visual Object Detection**|Anastasios Arsenos et.al.|[2405.06765](http://arxiv.org/abs/2405.06765)|null|
 |**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
