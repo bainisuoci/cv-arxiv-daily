@@ -2914,6 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
@@ -2939,6 +2940,7 @@
 |**2023-09-27**|**Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps**|Vipin Gautam et.al.|[2309.15782](http://arxiv.org/abs/2309.15782)|null|
 |**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264](http://arxiv.org/abs/2309.13264)|null|
 |**2023-09-20**|**Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection**|Son The Nguyen et.al.|[2309.11069](http://arxiv.org/abs/2309.11069)|null|
+|**2024-05-18**|**OccupancyDETR: Using DETR for Mixed Dense-sparse 3D Occupancy Prediction**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|null|
 |**2023-09-13**|**Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances**|Xiangrong Zhang et.al.|[2309.06751](http://arxiv.org/abs/2309.06751)|null|
 |**2023-09-10**|**Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art**|Aref Miri Rekavandi et.al.|[2309.04902](http://arxiv.org/abs/2309.04902)|**[link](https://github.com/arekavandi/transformer-sod)**|
 |**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534](http://arxiv.org/abs/2308.09534)|**[link](https://github.com/shaunyuan22/cfinet)**|
@@ -3021,6 +3023,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
+|**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
+|**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization**|Jialong Guo et.al.|[2405.11582](http://arxiv.org/abs/2405.11582)|**[link](https://github.com/xinghaochen/slab)**|
+|**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
+|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577](http://arxiv.org/abs/2405.10577)|null|
 |**2024-05-16**|**Drone-type-Set: Drone types detection benchmark for drone detection and tracking**|Kholoud AlDosari et.al.|[2405.10398](http://arxiv.org/abs/2405.10398)|null|
@@ -3166,6 +3177,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
+|**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
+|**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization**|Jialong Guo et.al.|[2405.11582](http://arxiv.org/abs/2405.11582)|**[link](https://github.com/xinghaochen/slab)**|
+|**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293](http://arxiv.org/abs/2405.11293)|null|
+|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577](http://arxiv.org/abs/2405.10577)|null|
 |**2024-05-16**|**Drone-type-Set: Drone types detection benchmark for drone detection and tracking**|Kholoud AlDosari et.al.|[2405.10398](http://arxiv.org/abs/2405.10398)|null|
