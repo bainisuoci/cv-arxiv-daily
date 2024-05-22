@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2998,7 +2998,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|**[link](https://github.com/bipin-saha/bnvd)**|
 |**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -3012,8 +3012,8 @@ layout: default
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
-|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|null|
-|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
 |**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
@@ -3092,7 +3092,7 @@ layout: default
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
-|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-05-21**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
 |**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
@@ -3150,7 +3150,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|**[link](https://github.com/bipin-saha/bnvd)**|
 |**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -3164,8 +3164,8 @@ layout: default
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
-|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|null|
-|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
 |**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
@@ -3244,7 +3244,7 @@ layout: default
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
-|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-05-21**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
 |**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|

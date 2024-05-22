@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## 小目标
 
@@ -3017,14 +3017,14 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|**[link](https://github.com/bipin-saha/bnvd)**|
 |**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -3038,8 +3038,8 @@
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
-|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|null|
-|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
 |**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
@@ -3118,7 +3118,7 @@
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
-|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-05-21**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
 |**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
@@ -3171,14 +3171,14 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Remote Sensing Image
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/abs/2405.12200)|null|
-|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150](http://arxiv.org/abs/2405.12150)|**[link](https://github.com/bipin-saha/bnvd)**|
 |**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855](http://arxiv.org/abs/2405.11855)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -3192,8 +3192,8 @@
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
-|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|null|
-|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|null|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
 |**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
@@ -3272,7 +3272,7 @@
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633](http://arxiv.org/abs/2404.16633)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
 |**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
-|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-05-21**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493](http://arxiv.org/abs/2404.16493)|**[link](https://github.com/hailanyi/cpd)**|
 |**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331](http://arxiv.org/abs/2404.16331)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
@@ -3325,7 +3325,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 ## Ship detection
 
@@ -3377,7 +3377,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
