@@ -3013,7 +3013,7 @@ layout: default
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577](http://arxiv.org/abs/2405.10577)|null|
 |**2024-05-16**|**Drone-type-Set: Drone types detection benchmark for drone detection and tracking**|Kholoud AlDosari et.al.|[2405.10398](http://arxiv.org/abs/2405.10398)|null|
-|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
+|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|**[link](https://github.com/OpenRobotLab/Grounded_3D-LLM)**|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
 |**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
@@ -3169,7 +3169,7 @@ layout: default
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577](http://arxiv.org/abs/2405.10577)|null|
 |**2024-05-16**|**Drone-type-Set: Drone types detection benchmark for drone detection and tracking**|Kholoud AlDosari et.al.|[2405.10398](http://arxiv.org/abs/2405.10398)|null|
-|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
+|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|**[link](https://github.com/OpenRobotLab/Grounded_3D-LLM)**|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300](http://arxiv.org/abs/2405.10300)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244](http://arxiv.org/abs/2405.10244)|**[link](https://github.com/adeandrade/research)**|
 |**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148](http://arxiv.org/abs/2405.10148)|**[link](https://github.com/zhaoxuli123/specdetr)**|
