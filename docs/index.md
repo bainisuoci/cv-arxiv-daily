@@ -2997,6 +2997,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422](http://arxiv.org/abs/2405.17422)|**[link](https://github.com/wzzheng/hass)**|
+|**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu et.al.|[2405.17323](http://arxiv.org/abs/2405.17323)|null|
+|**2024-05-27**|**Enhanced Automotive Radar Collaborative Sensing By Exploiting Constructive Interference**|Lifan Xu et.al.|[2405.17297](http://arxiv.org/abs/2405.17297)|null|
+|**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
+|**2024-05-27**|**Collective Perception Datasets for Autonomous Driving: A Comprehensive Review**|Sven Teufel et.al.|[2405.16973](http://arxiv.org/abs/2405.16973)|null|
+|**2024-05-27**|**OED: Towards One-stage End-to-End Dynamic Scene Graph Generation**|Guan Wang et.al.|[2405.16925](http://arxiv.org/abs/2405.16925)|**[link](https://github.com/guanw-pku/oed)**|
+|**2024-05-27**|**ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2405.16873](http://arxiv.org/abs/2405.16873)|null|
+|**2024-05-27**|**A re-calibration method for object detection with multi-modal alignment bias in autonomous driving**|Zhihang Song et.al.|[2405.16848](http://arxiv.org/abs/2405.16848)|null|
+|**2024-05-26**|**A Study on Unsupervised Anomaly Detection and Defect Localization using Generative Model in Ultrasonic Non-Destructive Testing**|Yusaku Ando et.al.|[2405.16580](http://arxiv.org/abs/2405.16580)|null|
+|**2024-05-25**|**GreenCOD: A Green Camouflaged Object Detection Method**|Hong-Shuo Chen et.al.|[2405.16144](http://arxiv.org/abs/2405.16144)|null|
+|**2024-05-25**|**Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2405.16116](http://arxiv.org/abs/2405.16116)|**[link](https://github.com/maelic/sgg-benchmark)**|
+|**2024-05-25**|**MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects**|Kunye Shen et.al.|[2405.16096](http://arxiv.org/abs/2405.16096)|**[link](https://github.com/kunye-shen/minet)**|
+|**2024-05-25**|**Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection**|Xue Zhang et.al.|[2405.16038](http://arxiv.org/abs/2405.16038)|**[link](https://github.com/xuez-phd/efficient-rgb-t-early-fusion-detection)**|
+|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
+|**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
+|**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
 |**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|null|
 |**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
 |**2024-05-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
@@ -3044,7 +3060,7 @@ layout: default
 |**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
-|**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
+|**2024-05-27**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
 |**2024-05-22**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Yachan Guo et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 |**2024-05-15**|**Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**|Guozhang Liu et.al.|[2405.09024](http://arxiv.org/abs/2405.09024)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
@@ -3177,6 +3193,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422](http://arxiv.org/abs/2405.17422)|**[link](https://github.com/wzzheng/hass)**|
+|**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu et.al.|[2405.17323](http://arxiv.org/abs/2405.17323)|null|
+|**2024-05-27**|**Enhanced Automotive Radar Collaborative Sensing By Exploiting Constructive Interference**|Lifan Xu et.al.|[2405.17297](http://arxiv.org/abs/2405.17297)|null|
+|**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
+|**2024-05-27**|**Collective Perception Datasets for Autonomous Driving: A Comprehensive Review**|Sven Teufel et.al.|[2405.16973](http://arxiv.org/abs/2405.16973)|null|
+|**2024-05-27**|**OED: Towards One-stage End-to-End Dynamic Scene Graph Generation**|Guan Wang et.al.|[2405.16925](http://arxiv.org/abs/2405.16925)|**[link](https://github.com/guanw-pku/oed)**|
+|**2024-05-27**|**ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2405.16873](http://arxiv.org/abs/2405.16873)|null|
+|**2024-05-27**|**A re-calibration method for object detection with multi-modal alignment bias in autonomous driving**|Zhihang Song et.al.|[2405.16848](http://arxiv.org/abs/2405.16848)|null|
+|**2024-05-26**|**A Study on Unsupervised Anomaly Detection and Defect Localization using Generative Model in Ultrasonic Non-Destructive Testing**|Yusaku Ando et.al.|[2405.16580](http://arxiv.org/abs/2405.16580)|null|
+|**2024-05-25**|**GreenCOD: A Green Camouflaged Object Detection Method**|Hong-Shuo Chen et.al.|[2405.16144](http://arxiv.org/abs/2405.16144)|null|
+|**2024-05-25**|**Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2405.16116](http://arxiv.org/abs/2405.16116)|**[link](https://github.com/maelic/sgg-benchmark)**|
+|**2024-05-25**|**MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects**|Kunye Shen et.al.|[2405.16096](http://arxiv.org/abs/2405.16096)|**[link](https://github.com/kunye-shen/minet)**|
+|**2024-05-25**|**Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection**|Xue Zhang et.al.|[2405.16038](http://arxiv.org/abs/2405.16038)|**[link](https://github.com/xuez-phd/efficient-rgb-t-early-fusion-detection)**|
+|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
+|**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
+|**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
 |**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|null|
 |**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
 |**2024-05-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
@@ -3224,7 +3256,7 @@ layout: default
 |**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053](http://arxiv.org/abs/2405.10053)|**[link](https://github.com/naver/shine)**|
 |**2024-05-19**|**FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**|Siliang Ma et.al.|[2405.09942](http://arxiv.org/abs/2405.09942)|null|
 |**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[2405.09828](http://arxiv.org/abs/2405.09828)|null|
-|**2024-05-16**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
+|**2024-05-27**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al.|[2405.09782](http://arxiv.org/abs/2405.09782)|**[link](https://github.com/ferry-li/si-sod)**|
 |**2024-05-22**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Yachan Guo et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
 |**2024-05-15**|**Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**|Guozhang Liu et.al.|[2405.09024](http://arxiv.org/abs/2405.09024)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
