@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3013,7 +3013,7 @@ layout: default
 |**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|null|
 |**2024-05-22**|**Two Heads are Better Than One: Neural Networks Quantization with 2D Hilbert Curve-based Output Representation**|Mykhailo Uss et.al.|[2405.14024](http://arxiv.org/abs/2405.14024)|null|
 |**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|
-|**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
+|**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Adaptive Wireless Image Semantic Transmission and Over-The-Air Testing**|Jiarun Ding et.al.|[2405.13403](http://arxiv.org/abs/2405.13403)|null|
 |**2024-05-22**|**Collaboration of Teachers for Semi-supervised Object Detection**|Liyu Chen et.al.|[2405.13374](http://arxiv.org/abs/2405.13374)|null|
 |**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|null|
@@ -3193,7 +3193,7 @@ layout: default
 |**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|null|
 |**2024-05-22**|**Two Heads are Better Than One: Neural Networks Quantization with 2D Hilbert Curve-based Output Representation**|Mykhailo Uss et.al.|[2405.14024](http://arxiv.org/abs/2405.14024)|null|
 |**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|
-|**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
+|**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Adaptive Wireless Image Semantic Transmission and Over-The-Air Testing**|Jiarun Ding et.al.|[2405.13403](http://arxiv.org/abs/2405.13403)|null|
 |**2024-05-22**|**Collaboration of Teachers for Semi-supervised Object Detection**|Liyu Chen et.al.|[2405.13374](http://arxiv.org/abs/2405.13374)|null|
 |**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|null|
