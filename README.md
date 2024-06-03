@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## 小目标
 
@@ -2917,7 +2917,7 @@
 |**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
-|**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
+|**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|null|
 |**2024-04-09**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al.|[2404.06180](http://arxiv.org/abs/2404.06180)|null|
 |**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
 |**2024-04-11**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|null|
@@ -3017,7 +3017,7 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## object detection
 
@@ -3035,7 +3035,7 @@
 |**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387](http://arxiv.org/abs/2405.18387)|**[link](https://github.com/joangog/object-detection)**|
 |**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
 |**2024-05-28**|**Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention**|Weitai Kang et.al.|[2405.18295](http://arxiv.org/abs/2405.18295)|null|
-|**2024-05-28**|**DMT-JEPA: Discriminative Masked Targets for Joint-Embedding Predictive Architecture**|Shentong Mo et.al.|[2405.17995](http://arxiv.org/abs/2405.17995)|null|
+|**2024-05-28**|**DMT-JEPA: Discriminative Masked Targets for Joint-Embedding Predictive Architecture**|Shentong Mo et.al.|[2405.17995](http://arxiv.org/abs/2405.17995)|**[link](https://github.com/dmtjepa/dmtjepa)**|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**Boosting General Trimap-free Matting in the Real-World Image**|Leo Shan Wenzhang Zhou Grace Zhao et.al.|[2405.17916](http://arxiv.org/abs/2405.17916)|null|
 |**2024-05-28**|**The Binary Quantized Neural Network for Dense Prediction via Specially Designed Upsampling and Attention**|Xingyu Ding et.al.|[2405.17776](http://arxiv.org/abs/2405.17776)|null|
@@ -3056,20 +3056,20 @@
 |**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
 |**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
 |**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
-|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|null|
-|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
-|**2024-05-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
-|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|null|
+|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|**[link](https://github.com/tedlentsch/union)**|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|**[link](https://github.com/helhafyani/multimodal_fusion)**|
+|**2024-05-31**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
+|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|**[link](https://github.com/lhoangan/multas)**|
 |**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279](http://arxiv.org/abs/2405.15279)|null|
 |**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225](http://arxiv.org/abs/2405.15225)|null|
 |**2024-05-24**|**ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2405.15199](http://arxiv.org/abs/2405.15199)|null|
 |**2024-05-24**|**MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method**|Pan Liao et.al.|[2405.15176](http://arxiv.org/abs/2405.15176)|null|
-|**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|null|
-|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
-|**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/abs/2405.14674)|null|
+|**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|**[link](https://github.com/yihongsun/mod-uv)**|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|**[link](https://github.com/tahiya31/trash_track)**|
+|**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/abs/2405.14674)|**[link](https://github.com/wangzcbruce/dhd)**|
 |**2024-05-23**|**Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment**|Muhammad Sohail Danish et.al.|[2405.14497](http://arxiv.org/abs/2405.14497)|null|
 |**2024-05-23**|**YOLOv10: Real-Time End-to-End Object Detection**|Ao Wang et.al.|[2405.14458](http://arxiv.org/abs/2405.14458)|**[link](https://github.com/THU-MIG/yolov10)**|
-|**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|null|
+|**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|**[link](https://github.com/mohammedsb/harmony)**|
 |**2024-05-22**|**Two Heads are Better Than One: Neural Networks Quantization with 2D Hilbert Curve-based Output Representation**|Mykhailo Uss et.al.|[2405.14024](http://arxiv.org/abs/2405.14024)|null|
 |**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|
 |**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
@@ -3232,7 +3232,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Remote Sensing Image
 
@@ -3250,7 +3250,7 @@
 |**2024-05-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al.|[2405.18387](http://arxiv.org/abs/2405.18387)|**[link](https://github.com/joangog/object-detection)**|
 |**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
 |**2024-05-28**|**Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention**|Weitai Kang et.al.|[2405.18295](http://arxiv.org/abs/2405.18295)|null|
-|**2024-05-28**|**DMT-JEPA: Discriminative Masked Targets for Joint-Embedding Predictive Architecture**|Shentong Mo et.al.|[2405.17995](http://arxiv.org/abs/2405.17995)|null|
+|**2024-05-28**|**DMT-JEPA: Discriminative Masked Targets for Joint-Embedding Predictive Architecture**|Shentong Mo et.al.|[2405.17995](http://arxiv.org/abs/2405.17995)|**[link](https://github.com/dmtjepa/dmtjepa)**|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**Boosting General Trimap-free Matting in the Real-World Image**|Leo Shan Wenzhang Zhou Grace Zhao et.al.|[2405.17916](http://arxiv.org/abs/2405.17916)|null|
 |**2024-05-28**|**The Binary Quantized Neural Network for Dense Prediction via Specially Designed Upsampling and Attention**|Xingyu Ding et.al.|[2405.17776](http://arxiv.org/abs/2405.17776)|null|
@@ -3271,20 +3271,20 @@
 |**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
 |**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
 |**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
-|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|null|
-|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|null|
-|**2024-05-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
-|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|null|
+|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|**[link](https://github.com/tedlentsch/union)**|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596](http://arxiv.org/abs/2405.15596)|**[link](https://github.com/helhafyani/multimodal_fusion)**|
+|**2024-05-31**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465](http://arxiv.org/abs/2405.15465)|null|
+|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394](http://arxiv.org/abs/2405.15394)|**[link](https://github.com/lhoangan/multas)**|
 |**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279](http://arxiv.org/abs/2405.15279)|null|
 |**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225](http://arxiv.org/abs/2405.15225)|null|
 |**2024-05-24**|**ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2405.15199](http://arxiv.org/abs/2405.15199)|null|
 |**2024-05-24**|**MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method**|Pan Liao et.al.|[2405.15176](http://arxiv.org/abs/2405.15176)|null|
-|**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|null|
-|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
-|**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/abs/2405.14674)|null|
+|**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|**[link](https://github.com/yihongsun/mod-uv)**|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|**[link](https://github.com/tahiya31/trash_track)**|
+|**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/abs/2405.14674)|**[link](https://github.com/wangzcbruce/dhd)**|
 |**2024-05-23**|**Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment**|Muhammad Sohail Danish et.al.|[2405.14497](http://arxiv.org/abs/2405.14497)|null|
 |**2024-05-23**|**YOLOv10: Real-Time End-to-End Object Detection**|Ao Wang et.al.|[2405.14458](http://arxiv.org/abs/2405.14458)|**[link](https://github.com/THU-MIG/yolov10)**|
-|**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|null|
+|**2024-05-23**|**Harmony: A Joint Self-Supervised and Weakly-Supervised Framework for Learning General Purpose Visual Representations**|Mohammed Baharoon et.al.|[2405.14239](http://arxiv.org/abs/2405.14239)|**[link](https://github.com/mohammedsb/harmony)**|
 |**2024-05-22**|**Two Heads are Better Than One: Neural Networks Quantization with 2D Hilbert Curve-based Output Representation**|Mykhailo Uss et.al.|[2405.14024](http://arxiv.org/abs/2405.14024)|null|
 |**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|
 |**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
@@ -3447,7 +3447,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Ship detection
 
@@ -3499,7 +3499,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
