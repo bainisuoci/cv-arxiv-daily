@@ -2997,6 +2997,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
+|**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
+|**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
+|**2024-06-04**|**Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning**|Heather Doig et.al.|[2406.01932](http://arxiv.org/abs/2406.01932)|null|
+|**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
+|**2024-06-03**|**Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection**|Kunpeng Wang et.al.|[2406.01127](http://arxiv.org/abs/2406.01127)|**[link](https://github.com/angknpng/lafb)**|
+|**2024-06-03**|**Visual Car Brand Classification by Implementing a Synthetic Image Dataset Creation Pipeline**|Jan Lippemeier et.al.|[2406.01071](http://arxiv.org/abs/2406.01071)|null|
+|**2024-06-03**|**Multi-Object Tracking based on Imaging Radar 3D Object Detection**|Patrick Palmer et.al.|[2406.01011](http://arxiv.org/abs/2406.01011)|null|
+|**2024-06-03**|**Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark**|Kunpeng Wang et.al.|[2406.00917](http://arxiv.org/abs/2406.00917)|**[link](https://github.com/angknpng/sacnet)**|
+|**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
+|**2024-06-02**|**Eating Smart: Advancing Health Informatics with the Grounding DINO based Dietary Assistant App**|Abdelilah Nossair et.al.|[2406.00848](http://arxiv.org/abs/2406.00848)|null|
+|**2024-06-02**|**Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Yang Cao et.al.|[2406.00830](http://arxiv.org/abs/2406.00830)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
+|**2024-06-02**|**A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving**|Di Wu et.al.|[2406.00714](http://arxiv.org/abs/2406.00714)|null|
+|**2024-06-01**|**Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**|Jiaming Li et.al.|[2406.00510](http://arxiv.org/abs/2406.00510)|null|
+|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446](http://arxiv.org/abs/2406.00446)|null|
+|**2024-06-01**|**Cognitive Manipulation: Semi-supervised Visual Representation and Classroom-to-real Reinforcement Learning for Assembly in Semi-structured Environments**|Chuang Wang et.al.|[2406.00364](http://arxiv.org/abs/2406.00364)|null|
+|**2024-06-01**|**Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments**|Victor A. Kich et.al.|[2406.00315](http://arxiv.org/abs/2406.00315)|null|
+|**2024-06-01**|**Adversarial 3D Virtual Patches using Integrated Gradients**|Chengzeng You et.al.|[2406.00282](http://arxiv.org/abs/2406.00282)|null|
+|**2024-05-31**|**Fairness in Autonomous Driving: Towards Understanding Confounding Factors in Object Detection under Challenging Weather**|Bimsara Pathiraja et.al.|[2406.00219](http://arxiv.org/abs/2406.00219)|null|
 |**2024-05-31**|**Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**|Jin-Hee Lee et.al.|[2405.20720](http://arxiv.org/abs/2405.20720)|**[link](https://github.com/jh-research/multipleteachers)**|
 |**2024-05-30**|**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**|Selim Kuzucu et.al.|[2405.20459](http://arxiv.org/abs/2405.20459)|null|
 |**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
@@ -3212,6 +3234,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
+|**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
+|**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
+|**2024-06-04**|**Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning**|Heather Doig et.al.|[2406.01932](http://arxiv.org/abs/2406.01932)|null|
+|**2024-06-04**|**GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer**|Ding Jia et.al.|[2406.01210](http://arxiv.org/abs/2406.01210)|**[link](https://github.com/jiadingcn/geminifusion)**|
+|**2024-06-03**|**Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection**|Kunpeng Wang et.al.|[2406.01127](http://arxiv.org/abs/2406.01127)|**[link](https://github.com/angknpng/lafb)**|
+|**2024-06-03**|**Visual Car Brand Classification by Implementing a Synthetic Image Dataset Creation Pipeline**|Jan Lippemeier et.al.|[2406.01071](http://arxiv.org/abs/2406.01071)|null|
+|**2024-06-03**|**Multi-Object Tracking based on Imaging Radar 3D Object Detection**|Patrick Palmer et.al.|[2406.01011](http://arxiv.org/abs/2406.01011)|null|
+|**2024-06-03**|**Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark**|Kunpeng Wang et.al.|[2406.00917](http://arxiv.org/abs/2406.00917)|**[link](https://github.com/angknpng/sacnet)**|
+|**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
+|**2024-06-02**|**Eating Smart: Advancing Health Informatics with the Grounding DINO based Dietary Assistant App**|Abdelilah Nossair et.al.|[2406.00848](http://arxiv.org/abs/2406.00848)|null|
+|**2024-06-02**|**Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Yang Cao et.al.|[2406.00830](http://arxiv.org/abs/2406.00830)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
+|**2024-06-02**|**A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving**|Di Wu et.al.|[2406.00714](http://arxiv.org/abs/2406.00714)|null|
+|**2024-06-01**|**Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**|Jiaming Li et.al.|[2406.00510](http://arxiv.org/abs/2406.00510)|null|
+|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446](http://arxiv.org/abs/2406.00446)|null|
+|**2024-06-01**|**Cognitive Manipulation: Semi-supervised Visual Representation and Classroom-to-real Reinforcement Learning for Assembly in Semi-structured Environments**|Chuang Wang et.al.|[2406.00364](http://arxiv.org/abs/2406.00364)|null|
+|**2024-06-01**|**Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments**|Victor A. Kich et.al.|[2406.00315](http://arxiv.org/abs/2406.00315)|null|
+|**2024-06-01**|**Adversarial 3D Virtual Patches using Integrated Gradients**|Chengzeng You et.al.|[2406.00282](http://arxiv.org/abs/2406.00282)|null|
+|**2024-05-31**|**Fairness in Autonomous Driving: Towards Understanding Confounding Factors in Object Detection under Challenging Weather**|Bimsara Pathiraja et.al.|[2406.00219](http://arxiv.org/abs/2406.00219)|null|
 |**2024-05-31**|**Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**|Jin-Hee Lee et.al.|[2405.20720](http://arxiv.org/abs/2405.20720)|**[link](https://github.com/jh-research/multipleteachers)**|
 |**2024-05-30**|**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**|Selim Kuzucu et.al.|[2405.20459](http://arxiv.org/abs/2405.20459)|null|
 |**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854](http://arxiv.org/abs/2405.19854)|null|
