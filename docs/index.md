@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3023,7 +3023,7 @@ layout: default
 |**2024-06-02**|**Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Yang Cao et.al.|[2406.00830](http://arxiv.org/abs/2406.00830)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
 |**2024-06-02**|**A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving**|Di Wu et.al.|[2406.00714](http://arxiv.org/abs/2406.00714)|null|
 |**2024-06-01**|**Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**|Jiaming Li et.al.|[2406.00510](http://arxiv.org/abs/2406.00510)|null|
-|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-07**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
 |**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446](http://arxiv.org/abs/2406.00446)|null|
 |**2024-06-01**|**Cognitive Manipulation: Semi-supervised Visual Representation and Classroom-to-real Reinforcement Learning for Assembly in Semi-structured Environments**|Chuang Wang et.al.|[2406.00364](http://arxiv.org/abs/2406.00364)|null|
 |**2024-06-01**|**Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments**|Victor A. Kich et.al.|[2406.00315](http://arxiv.org/abs/2406.00315)|null|
@@ -3270,7 +3270,7 @@ layout: default
 |**2024-06-02**|**Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Yang Cao et.al.|[2406.00830](http://arxiv.org/abs/2406.00830)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
 |**2024-06-02**|**A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving**|Di Wu et.al.|[2406.00714](http://arxiv.org/abs/2406.00714)|null|
 |**2024-06-01**|**Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**|Jiaming Li et.al.|[2406.00510](http://arxiv.org/abs/2406.00510)|null|
-|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-07**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
 |**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446](http://arxiv.org/abs/2406.00446)|null|
 |**2024-06-01**|**Cognitive Manipulation: Semi-supervised Visual Representation and Classroom-to-real Reinforcement Learning for Assembly in Semi-structured Environments**|Chuang Wang et.al.|[2406.00364](http://arxiv.org/abs/2406.00364)|null|
 |**2024-06-01**|**Precision and Adaptability of YOLOv5 and YOLOv8 in Dynamic Robotic Environments**|Victor A. Kich et.al.|[2406.00315](http://arxiv.org/abs/2406.00315)|null|
