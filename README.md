@@ -3023,6 +3023,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
+|**2024-06-07**|**EGOR: Efficient Generated Objects Replay for incremental object detection**|Zijia An et.al.|[2406.04829](http://arxiv.org/abs/2406.04829)|null|
+|**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
+|**2024-06-06**|**CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset**|Abdelrahman Abdallah et.al.|[2406.04493](http://arxiv.org/abs/2406.04493)|**[link](https://github.com/update-for-integrated-business-ai/coru)**|
+|**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426](http://arxiv.org/abs/2406.04426)|null|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
 |**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
@@ -3272,6 +3278,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
+|**2024-06-07**|**EGOR: Efficient Generated Objects Replay for incremental object detection**|Zijia An et.al.|[2406.04829](http://arxiv.org/abs/2406.04829)|null|
+|**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/abs/2406.04648)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
+|**2024-06-06**|**CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset**|Abdelrahman Abdallah et.al.|[2406.04493](http://arxiv.org/abs/2406.04493)|**[link](https://github.com/update-for-integrated-business-ai/coru)**|
+|**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426](http://arxiv.org/abs/2406.04426)|null|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
 |**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
