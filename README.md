@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## 小目标
 
@@ -3019,7 +3019,7 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## object detection
 
@@ -3032,7 +3032,7 @@
 |**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
-|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
 |**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
@@ -3061,7 +3061,7 @@
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459](http://arxiv.org/abs/2406.03459)|**[link](https://github.com/atten4vis/lw-detr)**|
-|**2024-06-11**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
+|**2024-06-12**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
@@ -3298,7 +3298,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## Remote Sensing Image
 
@@ -3311,7 +3311,7 @@
 |**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
-|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
 |**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
@@ -3340,7 +3340,7 @@
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459](http://arxiv.org/abs/2406.03459)|**[link](https://github.com/atten4vis/lw-detr)**|
-|**2024-06-11**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
+|**2024-06-12**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
@@ -3577,7 +3577,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## Ship detection
 
@@ -3629,7 +3629,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

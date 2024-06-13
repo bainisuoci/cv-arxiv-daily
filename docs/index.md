@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3006,7 +3006,7 @@ layout: default
 |**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
-|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
 |**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
@@ -3035,7 +3035,7 @@ layout: default
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459](http://arxiv.org/abs/2406.03459)|**[link](https://github.com/atten4vis/lw-detr)**|
-|**2024-06-11**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
+|**2024-06-12**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
@@ -3283,7 +3283,7 @@ layout: default
 |**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268](http://arxiv.org/abs/2406.07268)|null|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042](http://arxiv.org/abs/2406.07042)|**[link](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032](http://arxiv.org/abs/2406.07032)|null|
-|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[2406.07023](http://arxiv.org/abs/2406.07023)|null|
 |**2024-06-11**|**Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection**|Junfei Yi et.al.|[2406.06999](http://arxiv.org/abs/2406.06999)|null|
 |**2024-06-10**|**UnSupDLA: Towards Unsupervised Document Layout Analysis**|Talha Uddin Sheikh et.al.|[2406.06236](http://arxiv.org/abs/2406.06236)|null|
 |**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230](http://arxiv.org/abs/2406.06230)|**[link](https://github.com/1e12leon/uemm-air)**|
@@ -3312,7 +3312,7 @@ layout: default
 |**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459](http://arxiv.org/abs/2406.03459)|**[link](https://github.com/atten4vis/lw-detr)**|
-|**2024-06-11**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
+|**2024-06-12**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229](http://arxiv.org/abs/2406.03229)|null|
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
