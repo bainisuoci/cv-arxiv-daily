@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3001,6 +3001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410](http://arxiv.org/abs/2406.09410)|**[link](https://github.com/yangxue0827/rsg-mmrotate)**|
+|**2024-06-13**|**Towards Evaluating the Robustness of Visual State Space Models**|Hashmat Shadab Malik et.al.|[2406.09407](http://arxiv.org/abs/2406.09407)|**[link](https://github.com/hashmatshadab/mambarobustness)**|
+|**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403](http://arxiv.org/abs/2406.09403)|null|
+|**2024-06-13**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|Peixi Wu et.al.|[2406.09201](http://arxiv.org/abs/2406.09201)|null|
+|**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
+|**2024-06-13**|**BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**|Wenjie Wang et.al.|[2406.08785](http://arxiv.org/abs/2406.08785)|null|
+|**2024-06-12**|**UnO: Unsupervised Occupancy Fields for Perception and Forecasting**|Ben Agro et.al.|[2406.08691](http://arxiv.org/abs/2406.08691)|null|
 |**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443](http://arxiv.org/abs/2406.08443)|null|
 |**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
 |**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
@@ -3285,6 +3292,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**|Yansheng Li et.al.|[2406.09410](http://arxiv.org/abs/2406.09410)|**[link](https://github.com/yangxue0827/rsg-mmrotate)**|
+|**2024-06-13**|**Towards Evaluating the Robustness of Visual State Space Models**|Hashmat Shadab Malik et.al.|[2406.09407](http://arxiv.org/abs/2406.09407)|**[link](https://github.com/hashmatshadab/mambarobustness)**|
+|**2024-06-13**|**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**|Yushi Hu et.al.|[2406.09403](http://arxiv.org/abs/2406.09403)|null|
+|**2024-06-13**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|Peixi Wu et.al.|[2406.09201](http://arxiv.org/abs/2406.09201)|null|
+|**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
+|**2024-06-13**|**BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**|Wenjie Wang et.al.|[2406.08785](http://arxiv.org/abs/2406.08785)|null|
+|**2024-06-12**|**UnO: Unsupervised Occupancy Fields for Perception and Forecasting**|Ben Agro et.al.|[2406.08691](http://arxiv.org/abs/2406.08691)|null|
 |**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443](http://arxiv.org/abs/2406.08443)|null|
 |**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
 |**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
