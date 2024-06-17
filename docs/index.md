@@ -2104,7 +2104,7 @@ layout: default
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
-|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|**[link](https://github.com/tensorflow/probability)**|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
@@ -2190,7 +2190,7 @@ layout: default
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
-|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|**[link](https://github.com/aries-iai/tt3d)**|
 |**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313](http://arxiv.org/abs/2312.09313)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
 |**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305](http://arxiv.org/abs/2312.09305)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
@@ -3131,8 +3131,8 @@ layout: default
 |**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Adaptive Wireless Image Semantic Transmission and Over-The-Air Testing**|Jiarun Ding et.al.|[2405.13403](http://arxiv.org/abs/2405.13403)|null|
 |**2024-05-22**|**Collaboration of Teachers for Semi-supervised Object Detection**|Liyu Chen et.al.|[2405.13374](http://arxiv.org/abs/2405.13374)|null|
-|**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|null|
-|**2024-05-22**|**Vision Transformer with Sparse Scan Prior**|Qihang Fan et.al.|[2405.13335](http://arxiv.org/abs/2405.13335)|null|
+|**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|**[link](https://github.com/qhfan/secvit)**|
+|**2024-05-22**|**Vision Transformer with Sparse Scan Prior**|Qihang Fan et.al.|[2405.13335](http://arxiv.org/abs/2405.13335)|**[link](https://github.com/qhfan/ssvit)**|
 |**2024-05-22**|**Deep Learning-Driven State Correction: A Hybrid Architecture for Radar-Based Dynamic Occupancy Grid Mapping**|Max Peter Ronecker et.al.|[2405.13307](http://arxiv.org/abs/2405.13307)|null|
 |**2024-05-21**|**Transfer Learning Approach for Railway Technical Map (RTM) Component Identification**|Obadage Rochana Rumalshan et.al.|[2405.13229](http://arxiv.org/abs/2405.13229)|null|
 |**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
@@ -3196,7 +3196,7 @@ layout: default
 |**2024-05-06**|**BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection**|Saket S. Chaturvedi et.al.|[2405.03884](http://arxiv.org/abs/2405.03884)|null|
 |**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
 |**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
-|**2024-05-09**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-09**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|**[link](https://github.com/nexiakele/AMSODFirst)**|
 |**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
 |**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
 |**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
@@ -3229,7 +3229,7 @@ layout: default
 |**2024-04-30**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888](http://arxiv.org/abs/2404.17888)|null|
 |**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
 |**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
-|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|**[link](https://github.com/continental/uncertainty-detection-autolabeling)**|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|**[link](https://github.com/ClarenceZSK/mmEMP)**|
 |**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020](http://arxiv.org/abs/2404.17020)|**[link](https://github.com/cmcin019/tm-evo)**|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
@@ -3422,8 +3422,8 @@ layout: default
 |**2024-05-25**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**Adaptive Wireless Image Semantic Transmission and Over-The-Air Testing**|Jiarun Ding et.al.|[2405.13403](http://arxiv.org/abs/2405.13403)|null|
 |**2024-05-22**|**Collaboration of Teachers for Semi-supervised Object Detection**|Liyu Chen et.al.|[2405.13374](http://arxiv.org/abs/2405.13374)|null|
-|**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|null|
-|**2024-05-22**|**Vision Transformer with Sparse Scan Prior**|Qihang Fan et.al.|[2405.13335](http://arxiv.org/abs/2405.13335)|null|
+|**2024-05-22**|**Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer**|Qihang Fan et.al.|[2405.13337](http://arxiv.org/abs/2405.13337)|**[link](https://github.com/qhfan/secvit)**|
+|**2024-05-22**|**Vision Transformer with Sparse Scan Prior**|Qihang Fan et.al.|[2405.13335](http://arxiv.org/abs/2405.13335)|**[link](https://github.com/qhfan/ssvit)**|
 |**2024-05-22**|**Deep Learning-Driven State Correction: A Hybrid Architecture for Radar-Based Dynamic Occupancy Grid Mapping**|Max Peter Ronecker et.al.|[2405.13307](http://arxiv.org/abs/2405.13307)|null|
 |**2024-05-21**|**Transfer Learning Approach for Railway Technical Map (RTM) Component Identification**|Obadage Rochana Rumalshan et.al.|[2405.13229](http://arxiv.org/abs/2405.13229)|null|
 |**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
@@ -3487,7 +3487,7 @@ layout: default
 |**2024-05-06**|**BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection**|Saket S. Chaturvedi et.al.|[2405.03884](http://arxiv.org/abs/2405.03884)|null|
 |**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541](http://arxiv.org/abs/2405.03541)|**[link](https://github.com/thensib/repvgg-gelan)**|
 |**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
-|**2024-05-09**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|null|
+|**2024-05-09**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352](http://arxiv.org/abs/2405.03352)|**[link](https://github.com/nexiakele/AMSODFirst)**|
 |**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
 |**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
 |**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
@@ -3520,7 +3520,7 @@ layout: default
 |**2024-04-30**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888](http://arxiv.org/abs/2404.17888)|null|
 |**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
 |**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
-|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/abs/2404.17427)|**[link](https://github.com/continental/uncertainty-detection-autolabeling)**|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|**[link](https://github.com/ClarenceZSK/mmEMP)**|
 |**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020](http://arxiv.org/abs/2404.17020)|**[link](https://github.com/cmcin019/tm-evo)**|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
