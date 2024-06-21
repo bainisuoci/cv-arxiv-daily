@@ -2914,6 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
 |**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063](http://arxiv.org/abs/2406.08063)|**[link](https://github.com/avinres/mwirstd)**|
 |**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833](http://arxiv.org/abs/2406.07833)|**[link](https://github.com/sinatayebati/radial_mae)**|
 |**2024-06-15**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755](http://arxiv.org/abs/2406.05755)|**[link](https://github.com/hoiliu-0801/dntr)**|
@@ -3028,6 +3029,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
+|**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370](http://arxiv.org/abs/2406.14370)|null|
+|**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341](http://arxiv.org/abs/2406.14341)|null|
+|**2024-06-20**|**LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection**|Lilian Hollard et.al.|[2406.14239](http://arxiv.org/abs/2406.14239)|**[link](https://github.com/LilianHollard/LeYOLO)**|
+|**2024-06-20**|**SSAD: Self-supervised Auxiliary Detection Framework for Panoramic X-ray based Dental Disease Diagnosis**|Zijian Cai et.al.|[2406.13963](http://arxiv.org/abs/2406.13963)|**[link](https://github.com/dylonsword/ssad)**|
+|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951](http://arxiv.org/abs/2406.13951)|null|
+|**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891](http://arxiv.org/abs/2406.13891)|**[link](https://github.com/jo-wang/dpo)**|
+|**2024-06-19**|**Semantic Enhanced Few-shot Object Detection**|Zheng Wang et.al.|[2406.13498](http://arxiv.org/abs/2406.13498)|null|
+|**2024-06-19**|**Snowy Scenes,Clear Detections: A Robust Model for Traffic Light Detection in Adverse Weather Conditions**|Shivank Garg et.al.|[2406.13473](http://arxiv.org/abs/2406.13473)|null|
+|**2024-06-19**|**Strengthening Layer Interaction via Dynamic Layer Attention**|Kaishen Wang et.al.|[2406.13392](http://arxiv.org/abs/2406.13392)|**[link](https://github.com/tunantu/dynamic-layer-attention)**|
+|**2024-06-19**|**Advancements in Orthopaedic Arm Segmentation: A Comprehensive Review**|Abhishek Swami et.al.|[2406.13266](http://arxiv.org/abs/2406.13266)|null|
+|**2024-06-18**|**A machine learning pipeline for automated insect monitoring**|Aditya Jain et.al.|[2406.13031](http://arxiv.org/abs/2406.13031)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Online Anchor-based Training for Image Classification Tasks**|Maria Tzelepi et.al.|[2406.12662](http://arxiv.org/abs/2406.12662)|null|
 |**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536](http://arxiv.org/abs/2406.12536)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
@@ -3112,7 +3125,7 @@
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
-|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-06-20**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
 |**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
@@ -3351,6 +3364,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
+|**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370](http://arxiv.org/abs/2406.14370)|null|
+|**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341](http://arxiv.org/abs/2406.14341)|null|
+|**2024-06-20**|**LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection**|Lilian Hollard et.al.|[2406.14239](http://arxiv.org/abs/2406.14239)|**[link](https://github.com/LilianHollard/LeYOLO)**|
+|**2024-06-20**|**SSAD: Self-supervised Auxiliary Detection Framework for Panoramic X-ray based Dental Disease Diagnosis**|Zijian Cai et.al.|[2406.13963](http://arxiv.org/abs/2406.13963)|**[link](https://github.com/dylonsword/ssad)**|
+|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951](http://arxiv.org/abs/2406.13951)|null|
+|**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891](http://arxiv.org/abs/2406.13891)|**[link](https://github.com/jo-wang/dpo)**|
+|**2024-06-19**|**Semantic Enhanced Few-shot Object Detection**|Zheng Wang et.al.|[2406.13498](http://arxiv.org/abs/2406.13498)|null|
+|**2024-06-19**|**Snowy Scenes,Clear Detections: A Robust Model for Traffic Light Detection in Adverse Weather Conditions**|Shivank Garg et.al.|[2406.13473](http://arxiv.org/abs/2406.13473)|null|
+|**2024-06-19**|**Strengthening Layer Interaction via Dynamic Layer Attention**|Kaishen Wang et.al.|[2406.13392](http://arxiv.org/abs/2406.13392)|**[link](https://github.com/tunantu/dynamic-layer-attention)**|
+|**2024-06-19**|**Advancements in Orthopaedic Arm Segmentation: A Comprehensive Review**|Abhishek Swami et.al.|[2406.13266](http://arxiv.org/abs/2406.13266)|null|
+|**2024-06-18**|**A machine learning pipeline for automated insect monitoring**|Aditya Jain et.al.|[2406.13031](http://arxiv.org/abs/2406.13031)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Online Anchor-based Training for Image Classification Tasks**|Maria Tzelepi et.al.|[2406.12662](http://arxiv.org/abs/2406.12662)|null|
 |**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536](http://arxiv.org/abs/2406.12536)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
@@ -3435,7 +3460,7 @@
 |**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-30**|**Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task**|Siavash Golkar et.al.|[2406.02585](http://arxiv.org/abs/2406.02585)|null|
-|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-06-20**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533](http://arxiv.org/abs/2406.02533)|null|
 |**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
