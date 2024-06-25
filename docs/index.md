@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3023,7 +3023,7 @@ layout: default
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 |**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
 |**2024-06-18**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362](http://arxiv.org/abs/2406.12362)|null|
-|**2024-06-18**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al.|[2406.12285](http://arxiv.org/abs/2406.12285)|null|
+|**2024-06-22**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al.|[2406.12285](http://arxiv.org/abs/2406.12285)|null|
 |**2024-06-18**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
 |**2024-06-17**|**Multi-Dimensional Pruning: Joint Channel, Layer and Block Pruning with Latency Constraint**|Xinglong Sun et.al.|[2406.12079](http://arxiv.org/abs/2406.12079)|null|
 |**2024-06-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al.|[2406.11739](http://arxiv.org/abs/2406.11739)|null|
@@ -3358,7 +3358,7 @@ layout: default
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 |**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
 |**2024-06-18**|**Certified ML Object Detection for Surveillance Missions**|Mohammed Belcaid et.al.|[2406.12362](http://arxiv.org/abs/2406.12362)|null|
-|**2024-06-18**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al.|[2406.12285](http://arxiv.org/abs/2406.12285)|null|
+|**2024-06-22**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al.|[2406.12285](http://arxiv.org/abs/2406.12285)|null|
 |**2024-06-18**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
 |**2024-06-17**|**Multi-Dimensional Pruning: Joint Channel, Layer and Block Pruning with Latency Constraint**|Xinglong Sun et.al.|[2406.12079](http://arxiv.org/abs/2406.12079)|null|
 |**2024-06-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al.|[2406.11739](http://arxiv.org/abs/2406.11739)|null|
