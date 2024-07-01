@@ -3029,6 +3029,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791](http://arxiv.org/abs/2406.19791)|null|
+|**2024-06-28**|**Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking**|Qingrui Hu et.al.|[2406.19655](http://arxiv.org/abs/2406.19655)|null|
+|**2024-06-27**|**Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**|Jack Highton et.al.|[2406.19557](http://arxiv.org/abs/2406.19557)|null|
+|**2024-06-27**|**BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases**|Muhammad Awais et.al.|[2406.19556](http://arxiv.org/abs/2406.19556)|**[link](https://github.com/awaisrauf/borg)**|
+|**2024-06-27**|**Weighted Circle Fusion: Ensembling Circle Representation from Different Object Detection Results**|Jialin Yue et.al.|[2406.19540](http://arxiv.org/abs/2406.19540)|null|
+|**2024-06-27**|**Stereo Vision Based Robot for Remote Monitoring with VR Support**|Mohamed Fazil M. S. et.al.|[2406.19498](http://arxiv.org/abs/2406.19498)|null|
+|**2024-06-12**|**YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series**|Ranjan Sapkota et.al.|[2406.19407](http://arxiv.org/abs/2406.19407)|null|
 |**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394](http://arxiv.org/abs/2406.19394)|**[link](https://github.com/shenyunhang/huwsod)**|
 |**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/abs/2406.19362)|null|
 |**2024-06-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al.|[2406.19175](http://arxiv.org/abs/2406.19175)|null|
@@ -3384,6 +3391,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791](http://arxiv.org/abs/2406.19791)|null|
+|**2024-06-28**|**Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking**|Qingrui Hu et.al.|[2406.19655](http://arxiv.org/abs/2406.19655)|null|
+|**2024-06-27**|**Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**|Jack Highton et.al.|[2406.19557](http://arxiv.org/abs/2406.19557)|null|
+|**2024-06-27**|**BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases**|Muhammad Awais et.al.|[2406.19556](http://arxiv.org/abs/2406.19556)|**[link](https://github.com/awaisrauf/borg)**|
+|**2024-06-27**|**Weighted Circle Fusion: Ensembling Circle Representation from Different Object Detection Results**|Jialin Yue et.al.|[2406.19540](http://arxiv.org/abs/2406.19540)|null|
+|**2024-06-27**|**Stereo Vision Based Robot for Remote Monitoring with VR Support**|Mohamed Fazil M. S. et.al.|[2406.19498](http://arxiv.org/abs/2406.19498)|null|
+|**2024-06-12**|**YOLOv10 to Its Genesis: A Decadal and Comprehensive Review of The You Only Look Once Series**|Ranjan Sapkota et.al.|[2406.19407](http://arxiv.org/abs/2406.19407)|null|
 |**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394](http://arxiv.org/abs/2406.19394)|**[link](https://github.com/shenyunhang/huwsod)**|
 |**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/abs/2406.19362)|null|
 |**2024-06-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al.|[2406.19175](http://arxiv.org/abs/2406.19175)|null|
