@@ -3004,6 +3004,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590](http://arxiv.org/abs/2407.04590)|**[link](https://github.com/ahmadmughees/sh17dataset)**|
+|**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381](http://arxiv.org/abs/2407.04381)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
+|**2024-07-05**|**Towards Stable 3D Object Detection**|Jiabao Wang et.al.|[2407.04305](http://arxiv.org/abs/2407.04305)|null|
+|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115](http://arxiv.org/abs/2407.04115)|null|
+|**2024-07-04**|**FIPGNet:Pyramid grafting network with feature interaction strategies**|Ziyi Ding et.al.|[2407.04085](http://arxiv.org/abs/2407.04085)|null|
+|**2024-07-04**|**Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**|Ruixiao Zhang et.al.|[2407.04061](http://arxiv.org/abs/2407.04061)|null|
+|**2024-07-04**|**The Solution for the GAIIC2024 RGB-TIR object detection Challenge**|Xiangyu Wu et.al.|[2407.03872](http://arxiv.org/abs/2407.03872)|null|
+|**2024-07-04**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2407.03825](http://arxiv.org/abs/2407.03825)|null|
+|**2024-07-04**|**CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding**|Emanuele Vivoli et.al.|[2407.03550](http://arxiv.org/abs/2407.03550)|**[link](https://github.com/emanuelevivoli/comix-dataset)**|
+|**2024-07-03**|**Comics Datasets Framework: Mix of Comics datasets for detection benchmarking**|Emanuele Vivoli et.al.|[2407.03540](http://arxiv.org/abs/2407.03540)|null|
+|**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
 |**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
 |**2024-07-03**|**Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**|Mingkui Feng et.al.|[2407.03205](http://arxiv.org/abs/2407.03205)|null|
 |**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200](http://arxiv.org/abs/2407.03200)|**[link](https://github.com/weitaikang/segvg)**|
@@ -3392,6 +3403,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590](http://arxiv.org/abs/2407.04590)|**[link](https://github.com/ahmadmughees/sh17dataset)**|
+|**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381](http://arxiv.org/abs/2407.04381)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
+|**2024-07-05**|**Towards Stable 3D Object Detection**|Jiabao Wang et.al.|[2407.04305](http://arxiv.org/abs/2407.04305)|null|
+|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115](http://arxiv.org/abs/2407.04115)|null|
+|**2024-07-04**|**FIPGNet:Pyramid grafting network with feature interaction strategies**|Ziyi Ding et.al.|[2407.04085](http://arxiv.org/abs/2407.04085)|null|
+|**2024-07-04**|**Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**|Ruixiao Zhang et.al.|[2407.04061](http://arxiv.org/abs/2407.04061)|null|
+|**2024-07-04**|**The Solution for the GAIIC2024 RGB-TIR object detection Challenge**|Xiangyu Wu et.al.|[2407.03872](http://arxiv.org/abs/2407.03872)|null|
+|**2024-07-04**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2407.03825](http://arxiv.org/abs/2407.03825)|null|
+|**2024-07-04**|**CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding**|Emanuele Vivoli et.al.|[2407.03550](http://arxiv.org/abs/2407.03550)|**[link](https://github.com/emanuelevivoli/comix-dataset)**|
+|**2024-07-03**|**Comics Datasets Framework: Mix of Comics datasets for detection benchmarking**|Emanuele Vivoli et.al.|[2407.03540](http://arxiv.org/abs/2407.03540)|null|
+|**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
 |**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
 |**2024-07-03**|**Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**|Mingkui Feng et.al.|[2407.03205](http://arxiv.org/abs/2407.03205)|null|
 |**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200](http://arxiv.org/abs/2407.03200)|**[link](https://github.com/weitaikang/segvg)**|
