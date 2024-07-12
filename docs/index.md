@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2897,7 +2897,7 @@ layout: default
 |**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833](http://arxiv.org/abs/2406.07833)|**[link](https://github.com/sinatayebati/radial_mae)**|
 |**2024-06-15**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755](http://arxiv.org/abs/2406.05755)|**[link](https://github.com/hoiliu-0801/dntr)**|
 |**2024-06-08**|**Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes**|Hao Zhang et.al.|[2406.05412](http://arxiv.org/abs/2406.05412)|**[link](https://github.com/malagoutou/select-mosaic)**|
-|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
+|**2024-07-11**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|null|
