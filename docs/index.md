@@ -3005,6 +3005,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
+|**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711](http://arxiv.org/abs/2407.08711)|null|
 |**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|**[link](https://github.com/ruiyang-061x/lise)**|
 |**2024-07-11**|**Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation**|Zeyang Zhao et.al.|[2407.08489](http://arxiv.org/abs/2407.08489)|null|
@@ -3435,6 +3438,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
+|**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711](http://arxiv.org/abs/2407.08711)|null|
 |**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|**[link](https://github.com/ruiyang-061x/lise)**|
 |**2024-07-11**|**Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation**|Zeyang Zhao et.al.|[2407.08489](http://arxiv.org/abs/2407.08489)|null|
