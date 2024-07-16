@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2931,7 +2931,7 @@ layout: default
 |**2023-07-21**|**BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation**|Yosuke Shinya et.al.|[2307.11748](http://arxiv.org/abs/2307.11748)|**[link](https://github.com/shinya7y/UniverseNet)**|
 |**2023-07-17**|**Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime**|Pierre Le Jeune et.al.|[2307.09562](http://arxiv.org/abs/2307.09562)|null|
 |**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143](http://arxiv.org/abs/2307.09143)|**[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)**|
-|**2024-03-08**|**3D Small Object Detection with Dynamic Spatial Pruning**|Xiuwei Xu et.al.|[2305.03716](http://arxiv.org/abs/2305.03716)|**[link](https://github.com/xuxw98/dspdet3d)**|
+|**2024-07-14**|**3D Small Object Detection with Dynamic Spatial Pruning**|Xiuwei Xu et.al.|[2305.03716](http://arxiv.org/abs/2305.03716)|**[link](https://github.com/xuxw98/dspdet3d)**|
 |**2023-04-18**|**Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection**|Chang Xu et.al.|[2304.08876](http://arxiv.org/abs/2304.08876)|**[link](https://github.com/chasel-tsui/mmrotate-dcfl)**|
 |**2023-04-07**|**High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection**|Yifan Yin et.al.|[2304.03812](http://arxiv.org/abs/2304.03812)|null|
 |**2023-04-07**|**TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors**|Shaoyu Chen et.al.|[2304.03428](http://arxiv.org/abs/2304.03428)|null|
