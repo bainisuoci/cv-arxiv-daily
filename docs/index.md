@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3015,7 +3015,7 @@ layout: default
 |**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296](http://arxiv.org/abs/2407.15296)|null|
 |**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|null|
 |**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
-|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923](http://arxiv.org/abs/2407.14923)|null|
+|**2024-07-23**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923](http://arxiv.org/abs/2407.14923)|null|
 |**2024-07-19**|**A New Lightweight Hybrid Graph Convolutional Neural Network -- CNN Scheme for Scene Classification using Object Detection Inference**|Ayman Beghdadi et.al.|[2407.14658](http://arxiv.org/abs/2407.14658)|null|
 |**2024-07-18**|**Learning Visual Grounding from Generative Vision and Language Model**|Shijie Wang et.al.|[2407.14563](http://arxiv.org/abs/2407.14563)|null|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
@@ -3508,7 +3508,7 @@ layout: default
 |**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296](http://arxiv.org/abs/2407.15296)|null|
 |**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|null|
 |**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
-|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923](http://arxiv.org/abs/2407.14923)|null|
+|**2024-07-23**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923](http://arxiv.org/abs/2407.14923)|null|
 |**2024-07-19**|**A New Lightweight Hybrid Graph Convolutional Neural Network -- CNN Scheme for Scene Classification using Object Detection Inference**|Ayman Beghdadi et.al.|[2407.14658](http://arxiv.org/abs/2407.14658)|null|
 |**2024-07-18**|**Learning Visual Grounding from Generative Vision and Language Model**|Shijie Wang et.al.|[2407.14563](http://arxiv.org/abs/2407.14563)|null|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
