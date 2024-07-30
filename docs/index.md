@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
 |**2024-05-17**|**Better Sampling, towards Better End-to-end Small Object Detection**|Zile Huang et.al.|[2407.06127](http://arxiv.org/abs/2407.06127)|null|
@@ -2908,7 +2909,7 @@ layout: default
 |**2024-04-11**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|null|
 |**2024-03-16**|**HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection**|Shibiao Xu et.al.|[2403.10778](http://arxiv.org/abs/2403.10778)|**[link](https://github.com/zhengshuchen/hcfnet)**|
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
-|**2024-02-22**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Peng Gao et.al.|[2402.14309](http://arxiv.org/abs/2402.14309)|null|
+|**2024-07-29**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Chun-Lin Ji et.al.|[2402.14309](http://arxiv.org/abs/2402.14309)|null|
 |**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641](http://arxiv.org/abs/2402.12641)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
 |**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
 |**2024-01-16**|**Robust Tiny Object Detection in Aerial Images amidst Label Noise**|Haoran Zhu et.al.|[2401.08056](http://arxiv.org/abs/2401.08056)|**[link](https://github.com/ZhuHaoranEIS/DN-TOD)**|
@@ -3007,6 +3008,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124](http://arxiv.org/abs/2407.20124)|**[link](https://github.com/zeyuzhangzyz/axiomvision)**|
+|**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
+|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
+|**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
+|**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
+|**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
+|**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
+|**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
+|**2024-07-27**|**Robust Multimodal 3D Object Detection via Modality-Agnostic Decoding and Proximity-based Modality Ensemble**|Juhan Cha et.al.|[2407.19156](http://arxiv.org/abs/2407.19156)|**[link](https://github.com/hanchaa/meformer)**|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956](http://arxiv.org/abs/2407.17956)|null|
@@ -3091,7 +3102,7 @@ layout: default
 |**2024-07-17**|**Augmented Neural Fine-Tuning for Efficient Backdoor Purification**|Nazmul Karim et.al.|[2407.10052](http://arxiv.org/abs/2407.10052)|**[link](https://github.com/nazmul-karim170/NFT-Augmented-Backdoor-Purification)**|
 |**2024-07-24**|**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**|Ziyue Huang et.al.|[2407.09920](http://arxiv.org/abs/2407.09920)|**[link](https://github.com/floatingstarz/mutdet)**|
 |**2024-07-13**|**Semi-supervised 3D Object Detection with PatchTeacher and PillarMix**|Xiaopei Wu et.al.|[2407.09787](http://arxiv.org/abs/2407.09787)|null|
-|**2024-07-26**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-29**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711](http://arxiv.org/abs/2407.08711)|null|
@@ -3524,6 +3535,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124](http://arxiv.org/abs/2407.20124)|**[link](https://github.com/zeyuzhangzyz/axiomvision)**|
+|**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
+|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
+|**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
+|**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
+|**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
+|**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
+|**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
+|**2024-07-27**|**Robust Multimodal 3D Object Detection via Modality-Agnostic Decoding and Proximity-based Modality Ensemble**|Juhan Cha et.al.|[2407.19156](http://arxiv.org/abs/2407.19156)|**[link](https://github.com/hanchaa/meformer)**|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956](http://arxiv.org/abs/2407.17956)|null|
@@ -3608,7 +3629,7 @@ layout: default
 |**2024-07-17**|**Augmented Neural Fine-Tuning for Efficient Backdoor Purification**|Nazmul Karim et.al.|[2407.10052](http://arxiv.org/abs/2407.10052)|**[link](https://github.com/nazmul-karim170/NFT-Augmented-Backdoor-Purification)**|
 |**2024-07-24**|**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**|Ziyue Huang et.al.|[2407.09920](http://arxiv.org/abs/2407.09920)|**[link](https://github.com/floatingstarz/mutdet)**|
 |**2024-07-13**|**Semi-supervised 3D Object Detection with PatchTeacher and PillarMix**|Xiaopei Wu et.al.|[2407.09787](http://arxiv.org/abs/2407.09787)|null|
-|**2024-07-26**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-29**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711](http://arxiv.org/abs/2407.08711)|null|
