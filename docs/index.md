@@ -3008,6 +3008,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
+|**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
+|**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
+|**2024-07-30**|**Candidate Distant Trans-Neptunian Objects Detected by the New Horizons Subaru TNO Survey**|Wesley C. Fraser et.al.|[2407.21142](http://arxiv.org/abs/2407.21142)|null|
+|**2024-07-23**|**Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2407.21052](http://arxiv.org/abs/2407.21052)|null|
 |**2024-07-30**|**What is YOLOv5: A deep look into the internal features of the popular object detector**|Rahima Khanam et.al.|[2407.20892](http://arxiv.org/abs/2407.20892)|null|
 |**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818](http://arxiv.org/abs/2407.20818)|null|
 |**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708](http://arxiv.org/abs/2407.20708)|**[link](https://github.com/biclab/spikeyolo)**|
@@ -3540,6 +3548,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
+|**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
+|**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
+|**2024-07-30**|**Candidate Distant Trans-Neptunian Objects Detected by the New Horizons Subaru TNO Survey**|Wesley C. Fraser et.al.|[2407.21142](http://arxiv.org/abs/2407.21142)|null|
+|**2024-07-23**|**Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2407.21052](http://arxiv.org/abs/2407.21052)|null|
 |**2024-07-30**|**What is YOLOv5: A deep look into the internal features of the popular object detector**|Rahima Khanam et.al.|[2407.20892](http://arxiv.org/abs/2407.20892)|null|
 |**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818](http://arxiv.org/abs/2407.20818)|null|
 |**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708](http://arxiv.org/abs/2407.20708)|**[link](https://github.com/biclab/spikeyolo)**|
