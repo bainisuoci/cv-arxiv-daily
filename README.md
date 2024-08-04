@@ -3034,6 +3034,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
+|**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
+|**2024-08-01**|**U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**|Tongtong Feng et.al.|[2408.00606](http://arxiv.org/abs/2408.00606)|null|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
+|**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
+|**2024-08-01**|**DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**|Yu Xie et.al.|[2408.00355](http://arxiv.org/abs/2408.00355)|null|
+|**2024-08-01**|**A Simple Background Augmentation Method for Object Detection with Diffusion Model**|Yuhang Li et.al.|[2408.00350](http://arxiv.org/abs/2408.00350)|null|
+|**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|null|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
 |**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
@@ -3051,7 +3060,7 @@
 |**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
 |**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
 |**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|**[link](https://github.com/RKinDLab/ros2_psd_pcb_reloc)**|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
 |**2024-08-01**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
 |**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
 |**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
@@ -3576,6 +3585,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
+|**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
+|**2024-08-01**|**U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**|Tongtong Feng et.al.|[2408.00606](http://arxiv.org/abs/2408.00606)|null|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
+|**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
+|**2024-08-01**|**DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**|Yu Xie et.al.|[2408.00355](http://arxiv.org/abs/2408.00355)|null|
+|**2024-08-01**|**A Simple Background Augmentation Method for Object Detection with Diffusion Model**|Yuhang Li et.al.|[2408.00350](http://arxiv.org/abs/2408.00350)|null|
+|**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|null|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
 |**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
@@ -3593,7 +3611,7 @@
 |**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
 |**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
 |**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|**[link](https://github.com/RKinDLab/ros2_psd_pcb_reloc)**|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
 |**2024-08-01**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
 |**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
 |**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
