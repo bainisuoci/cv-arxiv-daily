@@ -3034,6 +3034,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
+|**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|null|
+|**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
+|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|null|
+|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|null|
 |**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
 |**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
 |**2024-08-01**|**U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**|Tongtong Feng et.al.|[2408.00606](http://arxiv.org/abs/2408.00606)|null|
@@ -3585,6 +3591,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
+|**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|null|
+|**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
+|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|null|
+|**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|null|
 |**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
 |**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
 |**2024-08-01**|**U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**|Tongtong Feng et.al.|[2408.00606](http://arxiv.org/abs/2408.00606)|null|
