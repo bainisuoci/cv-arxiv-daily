@@ -3035,6 +3035,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**|Qi Song et.al.|[2408.06901](http://arxiv.org/abs/2408.06901)|null|
+|**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
+|**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
+|**2024-08-13**|**Unified-IoU: For High-Quality Object Detection**|Xiangjie Luo et.al.|[2408.06636](http://arxiv.org/abs/2408.06636)|**[link](https://github.com/lxj-drifter/uiou_files)**|
+|**2024-08-13**|**MV-DETR: Multi-modality indoor object detection by Multi-View DEtecton TRansformers**|Zichao Dong et.al.|[2408.06604](http://arxiv.org/abs/2408.06604)|null|
+|**2024-08-10**|**Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2408.06383](http://arxiv.org/abs/2408.06383)|null|
 |**2024-08-12**|**Latent Disentanglement for Low Light Image Enhancement**|Zhihao Zheng et.al.|[2408.06245](http://arxiv.org/abs/2408.06245)|null|
 |**2024-08-12**|**MR3D-Net: Dynamic Multi-Resolution 3D Sparse Voxel Grid Fusion for LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2408.06137](http://arxiv.org/abs/2408.06137)|**[link](https://github.com/ekut-es/mr3d-net)**|
 |**2024-08-12**|**DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection**|Junjie Guo et.al.|[2408.06123](http://arxiv.org/abs/2408.06123)|null|
@@ -3639,6 +3645,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**|Qi Song et.al.|[2408.06901](http://arxiv.org/abs/2408.06901)|null|
+|**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
+|**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
+|**2024-08-13**|**Unified-IoU: For High-Quality Object Detection**|Xiangjie Luo et.al.|[2408.06636](http://arxiv.org/abs/2408.06636)|**[link](https://github.com/lxj-drifter/uiou_files)**|
+|**2024-08-13**|**MV-DETR: Multi-modality indoor object detection by Multi-View DEtecton TRansformers**|Zichao Dong et.al.|[2408.06604](http://arxiv.org/abs/2408.06604)|null|
+|**2024-08-10**|**Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2408.06383](http://arxiv.org/abs/2408.06383)|null|
 |**2024-08-12**|**Latent Disentanglement for Low Light Image Enhancement**|Zhihao Zheng et.al.|[2408.06245](http://arxiv.org/abs/2408.06245)|null|
 |**2024-08-12**|**MR3D-Net: Dynamic Multi-Resolution 3D Sparse Voxel Grid Fusion for LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2408.06137](http://arxiv.org/abs/2408.06137)|**[link](https://github.com/ekut-es/mr3d-net)**|
 |**2024-08-12**|**DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection**|Junjie Guo et.al.|[2408.06123](http://arxiv.org/abs/2408.06123)|null|
