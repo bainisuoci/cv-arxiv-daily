@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
 |**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
@@ -3009,6 +3010,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
+|**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
+|**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
+|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|null|
+|**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**|Qi Song et.al.|[2408.06901](http://arxiv.org/abs/2408.06901)|null|
 |**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
@@ -3617,6 +3623,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
+|**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
+|**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
+|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|null|
+|**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**|Qi Song et.al.|[2408.06901](http://arxiv.org/abs/2408.06901)|null|
 |**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
