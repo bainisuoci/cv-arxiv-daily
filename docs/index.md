@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3037,7 +3037,7 @@ layout: default
 |**2024-07-25**|**AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet Efficient Real-Time Object Detection on the Edge**|Chao Wu et.al.|[2408.05363](http://arxiv.org/abs/2408.05363)|null|
 |**2024-08-09**|**A Recurrent YOLOv8-based framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2408.05321](http://arxiv.org/abs/2408.05321)|null|
 |**2024-08-09**|**Omobot: a low-cost mobile robot for autonomous search and fall detection**|Shihab Uddin Ahamad et.al.|[2408.05315](http://arxiv.org/abs/2408.05315)|**[link](https://github.com/shihab28/omobot_js)**|
-|**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
+|**2024-08-15**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804](http://arxiv.org/abs/2408.04804)|**[link](https://github.com/imoonlab/hyper-yolo)**|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
@@ -3650,7 +3650,7 @@ layout: default
 |**2024-07-25**|**AyE-Edge: Automated Deployment Space Search Empowering Accuracy yet Efficient Real-Time Object Detection on the Edge**|Chao Wu et.al.|[2408.05363](http://arxiv.org/abs/2408.05363)|null|
 |**2024-08-09**|**A Recurrent YOLOv8-based framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2408.05321](http://arxiv.org/abs/2408.05321)|null|
 |**2024-08-09**|**Omobot: a low-cost mobile robot for autonomous search and fall detection**|Shihab Uddin Ahamad et.al.|[2408.05315](http://arxiv.org/abs/2408.05315)|**[link](https://github.com/shihab28/omobot_js)**|
-|**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
+|**2024-08-15**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804](http://arxiv.org/abs/2408.04804)|**[link](https://github.com/imoonlab/hyper-yolo)**|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
