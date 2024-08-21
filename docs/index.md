@@ -3011,6 +3011,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
+|**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844](http://arxiv.org/abs/2408.10844)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
+|**2024-08-20**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800](http://arxiv.org/abs/2408.09800)|null|
@@ -3089,6 +3098,7 @@ layout: default
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**Domain penalisation for improved Out-of-Distribution Generalisation**|Shuvam Jena et.al.|[2408.01746](http://arxiv.org/abs/2408.01746)|null|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
+|**2024-08-20**|**An Efficient Real-Time Object Detection Framework on Resource-Constricted Hardware Devices via Software and Hardware Co-design**|Mingshuo Liu et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-18**|**Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2408.01433](http://arxiv.org/abs/2408.01433)|null|
 |**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
@@ -3645,6 +3655,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
+|**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844](http://arxiv.org/abs/2408.10844)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
+|**2024-08-20**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800](http://arxiv.org/abs/2408.09800)|null|
@@ -3723,6 +3742,7 @@ layout: default
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**Domain penalisation for improved Out-of-Distribution Generalisation**|Shuvam Jena et.al.|[2408.01746](http://arxiv.org/abs/2408.01746)|null|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
+|**2024-08-20**|**An Efficient Real-Time Object Detection Framework on Resource-Constricted Hardware Devices via Software and Hardware Co-design**|Mingshuo Liu et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-18**|**Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2408.01433](http://arxiv.org/abs/2408.01433)|null|
 |**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
