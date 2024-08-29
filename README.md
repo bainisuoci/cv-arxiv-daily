@@ -2917,7 +2917,7 @@
 |**2024-08-16**|**Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques**|Vinit Hegiste et.al.|[2408.08974](http://arxiv.org/abs/2408.08974)|null|
 |**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|null|
-|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
+|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|**[link](https://github.com/duzw9311/cfpt)**|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
 |**2024-05-17**|**Better Sampling, towards Better End-to-end Small Object Detection**|Zile Huang et.al.|[2407.06127](http://arxiv.org/abs/2407.06127)|null|
@@ -3037,6 +3037,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
+|**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
+|**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
+|**2024-08-28**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
+|**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
+|**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637](http://arxiv.org/abs/2408.15637)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**NAS-BNN: Neural Architecture Search for Binary Neural Networks**|Zhihao Lin et.al.|[2408.15484](http://arxiv.org/abs/2408.15484)|**[link](https://github.com/vdigpku/nas-bnn)**|
+|**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
 |**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
 |**2024-08-27**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020](http://arxiv.org/abs/2408.15020)|**[link](https://github.com/garyson1204/hginet)**|
@@ -3057,7 +3067,7 @@
 |**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[2408.13454](http://arxiv.org/abs/2408.13454)|null|
 |**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394](http://arxiv.org/abs/2408.13394)|null|
 |**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
-|**2024-08-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al.|[2408.13131](http://arxiv.org/abs/2408.13131)|null|
+|**2024-08-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al.|[2408.13131](http://arxiv.org/abs/2408.13131)|**[link](https://github.com/ivan-chai/hotpp-benchmark)**|
 |**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772](http://arxiv.org/abs/2408.12772)|null|
 |**2024-08-22**|**CatFree3D: Category-agnostic 3D Object Detection with Diffusion**|Wenjing Bian et.al.|[2408.12747](http://arxiv.org/abs/2408.12747)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
@@ -3717,6 +3727,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
+|**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
+|**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
+|**2024-08-28**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
+|**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
+|**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637](http://arxiv.org/abs/2408.15637)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**NAS-BNN: Neural Architecture Search for Binary Neural Networks**|Zhihao Lin et.al.|[2408.15484](http://arxiv.org/abs/2408.15484)|**[link](https://github.com/vdigpku/nas-bnn)**|
+|**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
 |**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
 |**2024-08-27**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020](http://arxiv.org/abs/2408.15020)|**[link](https://github.com/garyson1204/hginet)**|
@@ -3737,7 +3757,7 @@
 |**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[2408.13454](http://arxiv.org/abs/2408.13454)|null|
 |**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394](http://arxiv.org/abs/2408.13394)|null|
 |**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
-|**2024-08-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al.|[2408.13131](http://arxiv.org/abs/2408.13131)|null|
+|**2024-08-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al.|[2408.13131](http://arxiv.org/abs/2408.13131)|**[link](https://github.com/ivan-chai/hotpp-benchmark)**|
 |**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772](http://arxiv.org/abs/2408.12772)|null|
 |**2024-08-22**|**CatFree3D: Category-agnostic 3D Object Detection with Diffusion**|Wenjing Bian et.al.|[2408.12747](http://arxiv.org/abs/2408.12747)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
