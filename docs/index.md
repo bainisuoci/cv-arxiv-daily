@@ -3011,6 +3011,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
+|**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
+|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|null|
+|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|null|
+|**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
+|**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
+|**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
@@ -3023,7 +3030,7 @@ layout: default
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
-|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|null|
 |**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
@@ -3709,6 +3716,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
+|**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
+|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|null|
+|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|null|
+|**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
+|**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
+|**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
@@ -3721,7 +3735,7 @@ layout: default
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
-|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|null|
 |**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
