@@ -3037,12 +3037,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460](http://arxiv.org/abs/2409.03460)|**[link](https://github.com/altair199797/lowformer)**|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[2409.03320](http://arxiv.org/abs/2409.03320)|null|
+|**2024-09-05**|**Gr-IoU: Ground-Intersection over Union for Robust Multi-Object Tracking with 3D Geometric Constraints**|Keisuke Toida et.al.|[2409.03252](http://arxiv.org/abs/2409.03252)|null|
+|**2024-09-04**|**Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes**|Mehmet Kerem Turkcan et.al.|[2409.03022](http://arxiv.org/abs/2409.03022)|**[link](https://github.com/zk2172-columbia/boundless)**|
 |**2024-09-04**|**Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**|Weichao Pan et.al.|[2409.02546](http://arxiv.org/abs/2409.02546)|null|
 |**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490](http://arxiv.org/abs/2409.02490)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
 |**2024-09-04**|**Rapid Automatic Multiple Moving Objects Detection Method Based on Feature Extraction from Images with Non-sidereal Tracking**|Lei Wang et.al.|[2409.02405](http://arxiv.org/abs/2409.02405)|null|
 |**2024-09-04**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
 |**2024-09-03**|**Site Selection for the Second Flyeye Telescope: A Simulation Study for Optimizing Near-Earth Object Discovery**|D. Föhring et.al.|[2409.02329](http://arxiv.org/abs/2409.02329)|null|
-|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|null|
+|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|**[link](https://github.com/lewismmason/Thesis-Public)**|
 |**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|Sanjita Prajapati et.al.|[2409.02278](http://arxiv.org/abs/2409.02278)|null|
 |**2024-09-03**|**A Modern Take on Visual Relationship Reasoning for Grasp Planning**|Paolo Rabino et.al.|[2409.02035](http://arxiv.org/abs/2409.02035)|null|
 |**2024-09-03**|**Latent Distillation for Continual Object Detection at the Edge**|Francesco Pasti et.al.|[2409.01872](http://arxiv.org/abs/2409.01872)|**[link](https://github.com/pastifra/Continual_Nanodet)**|
@@ -3051,24 +3056,24 @@
 |**2024-09-03**|**Frequency-Spatial Entanglement Learning for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.01686](http://arxiv.org/abs/2409.01686)|**[link](https://github.com/csysi/fsel)**|
 |**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
 |**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
-|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|null|
+|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
 |**2024-09-02**|**DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios**|Yang Li et.al.|[2409.01093](http://arxiv.org/abs/2409.01093)|null|
 |**2024-09-04**|**CONDA: Condensed Deep Association Learning for Co-Salient Object Detection**|Long Li et.al.|[2409.01021](http://arxiv.org/abs/2409.01021)|null|
 |**2024-09-02**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
 |**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869](http://arxiv.org/abs/2409.00869)|null|
-|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|null|
+|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|**[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)**|
 |**2024-09-01**|**Entropy Loss: An Interpretability Amplifier of 3D Object Detection Network for Intelligent Driving**|Haobo Yang et.al.|[2409.00839](http://arxiv.org/abs/2409.00839)|**[link](https://github.com/yhbcode000/Eloss-Interpretability)**|
-|**2024-09-01**|**Real-Time Weather Image Classification with SVM**|Eden Ship et.al.|[2409.00821](http://arxiv.org/abs/2409.00821)|null|
+|**2024-09-01**|**Real-Time Weather Image Classification with SVM**|Eden Ship et.al.|[2409.00821](http://arxiv.org/abs/2409.00821)|**[link](https://github.com/eitanspi/weather-image-classification)**|
 |**2024-09-01**|**Decoupled and Interactive Regression Modeling for High-performance One-stage 3D Object Detection**|Weiping Xiao et.al.|[2409.00690](http://arxiv.org/abs/2409.00690)|null|
 |**2024-09-01**|**Study of Dropout in PointPillars with 3D Object Detection**|Xiaoxiang Sun et.al.|[2409.00673](http://arxiv.org/abs/2409.00673)|null|
 |**2024-08-31**|**FBD-SV-2024: Flying Bird Object Detection Dataset in Surveillance Video**|Zi-Wei Sun et.al.|[2409.00317](http://arxiv.org/abs/2409.00317)|null|
-|**2024-08-31**|**Toward a More Complete OMR Solution**|Guang Yang et.al.|[2409.00316](http://arxiv.org/abs/2409.00316)|null|
+|**2024-08-31**|**Toward a More Complete OMR Solution**|Guang Yang et.al.|[2409.00316](http://arxiv.org/abs/2409.00316)|**[link](https://github.com/guang-yng/completeOMR)**|
 |**2024-08-30**|**Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics**|Zhengru Fang et.al.|[2409.00146](http://arxiv.org/abs/2409.00146)|null|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
 |**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
-|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|null|
+|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|**[link](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)**|
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
@@ -3772,12 +3777,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460](http://arxiv.org/abs/2409.03460)|**[link](https://github.com/altair199797/lowformer)**|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[2409.03320](http://arxiv.org/abs/2409.03320)|null|
+|**2024-09-05**|**Gr-IoU: Ground-Intersection over Union for Robust Multi-Object Tracking with 3D Geometric Constraints**|Keisuke Toida et.al.|[2409.03252](http://arxiv.org/abs/2409.03252)|null|
+|**2024-09-04**|**Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes**|Mehmet Kerem Turkcan et.al.|[2409.03022](http://arxiv.org/abs/2409.03022)|**[link](https://github.com/zk2172-columbia/boundless)**|
 |**2024-09-04**|**Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**|Weichao Pan et.al.|[2409.02546](http://arxiv.org/abs/2409.02546)|null|
 |**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490](http://arxiv.org/abs/2409.02490)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
 |**2024-09-04**|**Rapid Automatic Multiple Moving Objects Detection Method Based on Feature Extraction from Images with Non-sidereal Tracking**|Lei Wang et.al.|[2409.02405](http://arxiv.org/abs/2409.02405)|null|
 |**2024-09-04**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
 |**2024-09-03**|**Site Selection for the Second Flyeye Telescope: A Simulation Study for Optimizing Near-Earth Object Discovery**|D. Föhring et.al.|[2409.02329](http://arxiv.org/abs/2409.02329)|null|
-|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|null|
+|**2024-09-03**|**K-Origins: Better Colour Quantification for Neural Networks**|Lewis Mason et.al.|[2409.02281](http://arxiv.org/abs/2409.02281)|**[link](https://github.com/lewismmason/Thesis-Public)**|
 |**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|Sanjita Prajapati et.al.|[2409.02278](http://arxiv.org/abs/2409.02278)|null|
 |**2024-09-03**|**A Modern Take on Visual Relationship Reasoning for Grasp Planning**|Paolo Rabino et.al.|[2409.02035](http://arxiv.org/abs/2409.02035)|null|
 |**2024-09-03**|**Latent Distillation for Continual Object Detection at the Edge**|Francesco Pasti et.al.|[2409.01872](http://arxiv.org/abs/2409.01872)|**[link](https://github.com/pastifra/Continual_Nanodet)**|
@@ -3786,24 +3796,24 @@
 |**2024-09-03**|**Frequency-Spatial Entanglement Learning for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.01686](http://arxiv.org/abs/2409.01686)|**[link](https://github.com/csysi/fsel)**|
 |**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
 |**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
-|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|null|
+|**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
 |**2024-09-02**|**DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios**|Yang Li et.al.|[2409.01093](http://arxiv.org/abs/2409.01093)|null|
 |**2024-09-04**|**CONDA: Condensed Deep Association Learning for Co-Salient Object Detection**|Long Li et.al.|[2409.01021](http://arxiv.org/abs/2409.01021)|null|
 |**2024-09-02**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
 |**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869](http://arxiv.org/abs/2409.00869)|null|
-|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|null|
+|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|**[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)**|
 |**2024-09-01**|**Entropy Loss: An Interpretability Amplifier of 3D Object Detection Network for Intelligent Driving**|Haobo Yang et.al.|[2409.00839](http://arxiv.org/abs/2409.00839)|**[link](https://github.com/yhbcode000/Eloss-Interpretability)**|
-|**2024-09-01**|**Real-Time Weather Image Classification with SVM**|Eden Ship et.al.|[2409.00821](http://arxiv.org/abs/2409.00821)|null|
+|**2024-09-01**|**Real-Time Weather Image Classification with SVM**|Eden Ship et.al.|[2409.00821](http://arxiv.org/abs/2409.00821)|**[link](https://github.com/eitanspi/weather-image-classification)**|
 |**2024-09-01**|**Decoupled and Interactive Regression Modeling for High-performance One-stage 3D Object Detection**|Weiping Xiao et.al.|[2409.00690](http://arxiv.org/abs/2409.00690)|null|
 |**2024-09-01**|**Study of Dropout in PointPillars with 3D Object Detection**|Xiaoxiang Sun et.al.|[2409.00673](http://arxiv.org/abs/2409.00673)|null|
 |**2024-08-31**|**FBD-SV-2024: Flying Bird Object Detection Dataset in Surveillance Video**|Zi-Wei Sun et.al.|[2409.00317](http://arxiv.org/abs/2409.00317)|null|
-|**2024-08-31**|**Toward a More Complete OMR Solution**|Guang Yang et.al.|[2409.00316](http://arxiv.org/abs/2409.00316)|null|
+|**2024-08-31**|**Toward a More Complete OMR Solution**|Guang Yang et.al.|[2409.00316](http://arxiv.org/abs/2409.00316)|**[link](https://github.com/guang-yng/completeOMR)**|
 |**2024-08-30**|**Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics**|Zhengru Fang et.al.|[2409.00146](http://arxiv.org/abs/2409.00146)|null|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**Hybrid Classification-Regression Adaptive Loss for Dense Object Detection**|Yanquan Huang et.al.|[2408.17182](http://arxiv.org/abs/2408.17182)|null|
 |**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
-|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|null|
+|**2024-08-30**|**PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics**|Zhengru Fang et.al.|[2408.17047](http://arxiv.org/abs/2408.17047)|**[link](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)**|
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
