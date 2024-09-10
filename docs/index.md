@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2910,7 +2910,7 @@ layout: default
 |**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
 |**2024-06-17**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al.|[2404.06180](http://arxiv.org/abs/2404.06180)|**[link](https://github.com/dawn-ech/yolc)**|
 |**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
-|**2024-08-26**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|**[link](https://github.com/katie0723/dq-detr)**|
+|**2024-09-07**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|**[link](https://github.com/katie0723/dq-detr)**|
 |**2024-03-16**|**HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection**|Shibiao Xu et.al.|[2403.10778](http://arxiv.org/abs/2403.10778)|**[link](https://github.com/zhengshuchen/hcfnet)**|
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
 |**2024-07-29**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Chun-Lin Ji et.al.|[2402.14309](http://arxiv.org/abs/2402.14309)|null|
