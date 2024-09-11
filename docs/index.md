@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3073,7 +3073,7 @@ layout: default
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
-|**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-09-10**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
@@ -3831,7 +3831,7 @@ layout: default
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
-|**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-09-10**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
