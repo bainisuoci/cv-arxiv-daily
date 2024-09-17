@@ -3014,6 +3014,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
+|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
+|**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
+|**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
+|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-16**|**LithoHoD: A Litho Simulator-Powered Framework for IC Layout Hotspot Detection**|Hao-Chiang Shao et.al.|[2409.10021](http://arxiv.org/abs/2409.10021)|null|
+|**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
+|**2024-09-15**|**Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection**|Xuanru Zhou et.al.|[2409.09621](http://arxiv.org/abs/2409.09621)|**[link](https://github.com/eureka235/stutter-solver)**|
+|**2024-09-15**|**Enhancing Weakly-Supervised Object Detection on Static Images through (Hallucinated) Motion**|Cagri Gungor et.al.|[2409.09616](http://arxiv.org/abs/2409.09616)|null|
+|**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
+|**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
+|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|null|
+|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
+|**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
 |**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
 |**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475](http://arxiv.org/abs/2409.08475)|null|
@@ -3093,7 +3107,7 @@ layout: default
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
-|**2024-09-10**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-09-15**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
@@ -3791,6 +3805,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
+|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
+|**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
+|**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
+|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-16**|**LithoHoD: A Litho Simulator-Powered Framework for IC Layout Hotspot Detection**|Hao-Chiang Shao et.al.|[2409.10021](http://arxiv.org/abs/2409.10021)|null|
+|**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
+|**2024-09-15**|**Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection**|Xuanru Zhou et.al.|[2409.09621](http://arxiv.org/abs/2409.09621)|**[link](https://github.com/eureka235/stutter-solver)**|
+|**2024-09-15**|**Enhancing Weakly-Supervised Object Detection on Static Images through (Hallucinated) Motion**|Cagri Gungor et.al.|[2409.09616](http://arxiv.org/abs/2409.09616)|null|
+|**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
+|**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
+|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|null|
+|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
+|**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
 |**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
 |**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475](http://arxiv.org/abs/2409.08475)|null|
@@ -3870,7 +3898,7 @@ layout: default
 |**2024-08-30**|**CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection**|Xuejing Li et.al.|[2408.17036](http://arxiv.org/abs/2408.17036)|null|
 |**2024-08-30**|**MakeWay: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR**|Binbin Xu et.al.|[2408.17034](http://arxiv.org/abs/2408.17034)|null|
 |**2024-08-29**|**Analyzing Errors in Controlled Turret System Given Target Location Input from Artificial Intelligence Methods in Automatic Target Recognition**|Matthew Karlson et.al.|[2408.16923](http://arxiv.org/abs/2408.16923)|null|
-|**2024-09-10**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
+|**2024-09-15**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
