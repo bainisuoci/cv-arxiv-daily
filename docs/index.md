@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3076,7 +3076,7 @@ layout: default
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
 |**2024-09-02**|**DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios**|Yang Li et.al.|[2409.01093](http://arxiv.org/abs/2409.01093)|null|
 |**2024-09-04**|**CONDA: Condensed Deep Association Learning for Co-Salient Object Detection**|Long Li et.al.|[2409.01021](http://arxiv.org/abs/2409.01021)|null|
-|**2024-09-02**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
+|**2024-09-14**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
 |**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869](http://arxiv.org/abs/2409.00869)|null|
 |**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|**[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)**|
 |**2024-09-01**|**Entropy Loss: An Interpretability Amplifier of 3D Object Detection Network for Intelligent Driving**|Haobo Yang et.al.|[2409.00839](http://arxiv.org/abs/2409.00839)|**[link](https://github.com/yhbcode000/Eloss-Interpretability)**|
@@ -3853,7 +3853,7 @@ layout: default
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
 |**2024-09-02**|**DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios**|Yang Li et.al.|[2409.01093](http://arxiv.org/abs/2409.01093)|null|
 |**2024-09-04**|**CONDA: Condensed Deep Association Learning for Co-Salient Object Detection**|Long Li et.al.|[2409.01021](http://arxiv.org/abs/2409.01021)|null|
-|**2024-09-02**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
+|**2024-09-14**|**IVGF: The Fusion-Guided Infrared and Visible General Framework**|Fangcen Liu et.al.|[2409.00973](http://arxiv.org/abs/2409.00973)|null|
 |**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869](http://arxiv.org/abs/2409.00869)|null|
 |**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863](http://arxiv.org/abs/2409.00863)|**[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)**|
 |**2024-09-01**|**Entropy Loss: An Interpretability Amplifier of 3D Object Detection Network for Intelligent Driving**|Haobo Yang et.al.|[2409.00839](http://arxiv.org/abs/2409.00839)|**[link](https://github.com/yhbcode000/Eloss-Interpretability)**|
