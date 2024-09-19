@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3019,7 +3019,7 @@ layout: default
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
-|**2024-09-17**|**Context-Dependent Interactable Graphical User Interface Element Detection for VR Applications**|Shuqing Li et.al.|[2409.10811](http://arxiv.org/abs/2409.10811)|null|
+|**2024-09-18**|**Context-Dependent Interactable Graphical User Interface Element Detection for Spatial Computing Applications**|Shuqing Li et.al.|[2409.10811](http://arxiv.org/abs/2409.10811)|null|
 |**2024-09-16**|**Online Learning via Memory: Retrieval-Augmented Detector Adaptation**|Yanan Jian et.al.|[2409.10716](http://arxiv.org/abs/2409.10716)|null|
 |**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
@@ -3092,7 +3092,7 @@ layout: default
 |**2024-09-03**|**Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach**|Salah Eddine Laidoudi et.al.|[2409.01871](http://arxiv.org/abs/2409.01871)|null|
 |**2024-09-03**|**GeoBEV: Learning Geometric BEV Representation for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2409.01816](http://arxiv.org/abs/2409.01816)|null|
 |**2024-09-03**|**Frequency-Spatial Entanglement Learning for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.01686](http://arxiv.org/abs/2409.01686)|**[link](https://github.com/csysi/fsel)**|
-|**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
+|**2024-09-18**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
 |**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
 |**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
@@ -3818,7 +3818,7 @@ layout: default
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
-|**2024-09-17**|**Context-Dependent Interactable Graphical User Interface Element Detection for VR Applications**|Shuqing Li et.al.|[2409.10811](http://arxiv.org/abs/2409.10811)|null|
+|**2024-09-18**|**Context-Dependent Interactable Graphical User Interface Element Detection for Spatial Computing Applications**|Shuqing Li et.al.|[2409.10811](http://arxiv.org/abs/2409.10811)|null|
 |**2024-09-16**|**Online Learning via Memory: Retrieval-Augmented Detector Adaptation**|Yanan Jian et.al.|[2409.10716](http://arxiv.org/abs/2409.10716)|null|
 |**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
@@ -3891,7 +3891,7 @@ layout: default
 |**2024-09-03**|**Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach**|Salah Eddine Laidoudi et.al.|[2409.01871](http://arxiv.org/abs/2409.01871)|null|
 |**2024-09-03**|**GeoBEV: Learning Geometric BEV Representation for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2409.01816](http://arxiv.org/abs/2409.01816)|null|
 |**2024-09-03**|**Frequency-Spatial Entanglement Learning for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.01686](http://arxiv.org/abs/2409.01686)|**[link](https://github.com/csysi/fsel)**|
-|**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
+|**2024-09-18**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
 |**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
 |**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
