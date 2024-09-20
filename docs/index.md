@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3020,7 +3020,7 @@ layout: default
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**|Ahmet Soyyigit et.al.|[2409.11542](http://arxiv.org/abs/2409.11542)|**[link](https://github.com/csl-ku/valo)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
-|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
@@ -3031,7 +3031,7 @@ layout: default
 |**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
 |**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
-|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-16**|**LithoHoD: A Litho Simulator-Powered Framework for IC Layout Hotspot Detection**|Hao-Chiang Shao et.al.|[2409.10021](http://arxiv.org/abs/2409.10021)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
 |**2024-09-15**|**Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection**|Xuanru Zhou et.al.|[2409.09621](http://arxiv.org/abs/2409.09621)|**[link](https://github.com/eureka235/stutter-solver)**|
@@ -3824,7 +3824,7 @@ layout: default
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**|Ahmet Soyyigit et.al.|[2409.11542](http://arxiv.org/abs/2409.11542)|**[link](https://github.com/csl-ku/valo)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
-|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
@@ -3835,7 +3835,7 @@ layout: default
 |**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
 |**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
-|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-16**|**LithoHoD: A Litho Simulator-Powered Framework for IC Layout Hotspot Detection**|Hao-Chiang Shao et.al.|[2409.10021](http://arxiv.org/abs/2409.10021)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
 |**2024-09-15**|**Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection**|Xuanru Zhou et.al.|[2409.09621](http://arxiv.org/abs/2409.09621)|**[link](https://github.com/eureka235/stutter-solver)**|
