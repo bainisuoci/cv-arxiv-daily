@@ -848,7 +848,7 @@
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-28**|**Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**|Chao Chen et.al.|[2311.17940](http://arxiv.org/abs/2311.17940)|null|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|**[link](https://github.com/xsc1234/invisible-relevance-bias)**|
@@ -2760,7 +2760,7 @@
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871](http://arxiv.org/abs/2212.12871)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966](http://arxiv.org/abs/2212.11966)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|**[link](https://github.com/dreamguo/UNIKD)**|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang et.al.|[2212.10699](http://arxiv.org/abs/2212.10699)|null|
 |**2022-12-20**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735](http://arxiv.org/abs/2212.09735)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330](http://arxiv.org/abs/2212.09330)|null|
@@ -3158,7 +3158,7 @@
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
-|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|null|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
 |**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
@@ -3305,7 +3305,7 @@
 |**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
 |**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|**[link](https://github.com/huangzhe885/roco)**|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
-|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|**[link](https://github.com/advanced-vision-and-learning-lab/stn-yolo)**|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
@@ -3833,7 +3833,7 @@
 |**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
 |**2024-05-09**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
-|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
+|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|**[link](https://github.com/manjahdani/csbad)**|
 |**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
 |**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431](http://arxiv.org/abs/2404.09431)|null|
@@ -3964,7 +3964,7 @@
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
-|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|null|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
 |**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809](http://arxiv.org/abs/2408.15809)|null|
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
@@ -4111,7 +4111,7 @@
 |**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
 |**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|**[link](https://github.com/huangzhe885/roco)**|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
-|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|**[link](https://github.com/advanced-vision-and-learning-lab/stn-yolo)**|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
@@ -4639,7 +4639,7 @@
 |**2024-04-16**|**OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**|Matthew Inkawhich et.al.|[2404.10865](http://arxiv.org/abs/2404.10865)|null|
 |**2024-04-16**|**Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**|Jiangning Zhang et.al.|[2404.10760](http://arxiv.org/abs/2404.10760)|**[link](https://github.com/zhangzjn/ader)**|
 |**2024-05-09**|**Watch Your Step: Optimal Retrieval for Continual Learning at Scale**|Truman Hickok et.al.|[2404.10758](http://arxiv.org/abs/2404.10758)|null|
-|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|null|
+|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411](http://arxiv.org/abs/2404.10411)|**[link](https://github.com/manjahdani/csbad)**|
 |**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078](http://arxiv.org/abs/2404.10078)|**[link](https://github.com/daitranskku/aic2024-track4-team15)**|
 |**2024-05-03**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stress Identification**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431](http://arxiv.org/abs/2404.09431)|null|
