@@ -2936,7 +2936,7 @@
 |**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
 |**2024-06-17**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al.|[2404.06180](http://arxiv.org/abs/2404.06180)|**[link](https://github.com/dawn-ech/yolc)**|
 |**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
-|**2024-09-07**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|**[link](https://github.com/katie0723/dq-detr)**|
+|**2024-09-23**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Hou-I Liu et.al.|[2404.03507](http://arxiv.org/abs/2404.03507)|**[link](https://github.com/katie0723/dq-detr)**|
 |**2024-03-16**|**HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection**|Shibiao Xu et.al.|[2403.10778](http://arxiv.org/abs/2403.10778)|**[link](https://github.com/zhengshuchen/hcfnet)**|
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|**[link](https://github.com/AIS-Clemson/FLAME_SD)**|
 |**2024-07-29**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Chun-Lin Ji et.al.|[2402.14309](http://arxiv.org/abs/2402.14309)|null|
@@ -3054,7 +3054,7 @@
 |**2024-09-16**|**Online Learning via Memory: Retrieval-Augmented Detector Adaptation**|Yanan Jian et.al.|[2409.10716](http://arxiv.org/abs/2409.10716)|null|
 |**2024-09-20**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
-|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
+|**2024-09-22**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
 |**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
 |**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
@@ -3083,7 +3083,7 @@
 |**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689](http://arxiv.org/abs/2409.06689)|null|
 |**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617](http://arxiv.org/abs/2409.06617)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
 |**2024-09-10**|**Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception**|Xiang Zhang et.al.|[2409.06584](http://arxiv.org/abs/2409.06584)|null|
-|**2024-09-10**|**Semi-Supervised 3D Object Detection with Chanel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583](http://arxiv.org/abs/2409.06583)|null|
+|**2024-09-22**|**Semi-Supervised 3D Object Detection with Channel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583](http://arxiv.org/abs/2409.06583)|null|
 |**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443](http://arxiv.org/abs/2409.06443)|null|
 |**2024-09-10**|**An Attribute-Enriched Dataset and Auto-Annotated Pipeline for Open Detection**|Pengfei Qi et.al.|[2409.06300](http://arxiv.org/abs/2409.06300)|null|
 |**2024-09-09**|**Replay Consolidation with Label Propagation for Continual Object Detection**|Riccardo De Monte et.al.|[2409.05650](http://arxiv.org/abs/2409.05650)|null|
@@ -3860,7 +3860,7 @@
 |**2024-09-16**|**Online Learning via Memory: Retrieval-Augmented Detector Adaptation**|Yanan Jian et.al.|[2409.10716](http://arxiv.org/abs/2409.10716)|null|
 |**2024-09-20**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
-|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
+|**2024-09-22**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272](http://arxiv.org/abs/2409.10272)|null|
 |**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
 |**2024-09-19**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
@@ -3889,7 +3889,7 @@
 |**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689](http://arxiv.org/abs/2409.06689)|null|
 |**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617](http://arxiv.org/abs/2409.06617)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
 |**2024-09-10**|**Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception**|Xiang Zhang et.al.|[2409.06584](http://arxiv.org/abs/2409.06584)|null|
-|**2024-09-10**|**Semi-Supervised 3D Object Detection with Chanel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583](http://arxiv.org/abs/2409.06583)|null|
+|**2024-09-22**|**Semi-Supervised 3D Object Detection with Channel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583](http://arxiv.org/abs/2409.06583)|null|
 |**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443](http://arxiv.org/abs/2409.06443)|null|
 |**2024-09-10**|**An Attribute-Enriched Dataset and Auto-Annotated Pipeline for Open Detection**|Pengfei Qi et.al.|[2409.06300](http://arxiv.org/abs/2409.06300)|null|
 |**2024-09-09**|**Replay Consolidation with Label Propagation for Continual Object Detection**|Riccardo De Monte et.al.|[2409.05650](http://arxiv.org/abs/2409.05650)|null|
