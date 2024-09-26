@@ -2914,7 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|null|
+|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|**[link](https://github.com/caiguohui123/msdet)**|
 |**2024-08-28**|**Small Object Detection for Indoor Assistance to the Blind using YOLO NAS Small and Super Gradients**|Rashmi BN et.al.|[2409.07469](http://arxiv.org/abs/2409.07469)|null|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
 |**2024-09-06**|**BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection**|Yangguang Chen et.al.|[2409.04025](http://arxiv.org/abs/2409.04025)|null|
@@ -3041,6 +3041,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
+|**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
+|**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821](http://arxiv.org/abs/2409.16821)|null|
+|**2024-09-25**|**Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices**|Daghash K. Alqahtani et.al.|[2409.16808](http://arxiv.org/abs/2409.16808)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-25**|**TSBP: Improving Object Detection in Histology Images via Test-time Self-guided Bounding-box Propagation**|Tingting Yang et.al.|[2409.16678](http://arxiv.org/abs/2409.16678)|**[link](https://github.com/jwhgdeu/tsbp)**|
+|**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538](http://arxiv.org/abs/2409.16538)|null|
+|**2024-09-24**|**Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach**|Muhammad Mohsin et.al.|[2409.16496](http://arxiv.org/abs/2409.16496)|null|
+|**2024-09-24**|**A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation**|Avisha Kumar et.al.|[2409.16441](http://arxiv.org/abs/2409.16441)|null|
 |**2024-09-24**|**Tiny Robotics Dataset and Benchmark for Continual Object Detection**|Francesco Pasti et.al.|[2409.16215](http://arxiv.org/abs/2409.16215)|**[link](https://github.com/pastifra/TiROD_code)**|
 |**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
 |**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
@@ -3058,7 +3067,7 @@
 |**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[2409.14488](http://arxiv.org/abs/2409.14488)|null|
 |**2024-09-22**|**Low-Light Enhancement Effect on Classification and Detection: An Empirical Study**|Xu Wu et.al.|[2409.14461](http://arxiv.org/abs/2409.14461)|null|
 |**2024-09-21**|**VLM-Vac: Enhancing Smart Vacuums through VLM Knowledge Distillation and Language-Guided Experience Replay**|Reihaneh Mirjalili et.al.|[2409.14096](http://arxiv.org/abs/2409.14096)|null|
-|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|null|
+|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|**[link](https://github.com/caiguohui123/msdet)**|
 |**2024-09-20**|**Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning**|Hadi Rezvani et.al.|[2409.13688](http://arxiv.org/abs/2409.13688)|null|
 |**2024-09-20**|**A Bottom-Up Approach to Class-Agnostic Image Segmentation**|Sebastian Dille et.al.|[2409.13687](http://arxiv.org/abs/2409.13687)|null|
 |**2024-09-20**|**Time and Tokens: Benchmarking End-to-End Speech Dysfluency Detection**|Xuanru Zhou et.al.|[2409.13582](http://arxiv.org/abs/2409.13582)|null|
@@ -3076,7 +3085,7 @@
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**|Ahmet Soyyigit et.al.|[2409.11542](http://arxiv.org/abs/2409.11542)|**[link](https://github.com/csl-ku/valo)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
-|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|**[link](https://github.com/elastufka/fm4astro)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
@@ -3876,6 +3885,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
+|**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
+|**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821](http://arxiv.org/abs/2409.16821)|null|
+|**2024-09-25**|**Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices**|Daghash K. Alqahtani et.al.|[2409.16808](http://arxiv.org/abs/2409.16808)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-25**|**TSBP: Improving Object Detection in Histology Images via Test-time Self-guided Bounding-box Propagation**|Tingting Yang et.al.|[2409.16678](http://arxiv.org/abs/2409.16678)|**[link](https://github.com/jwhgdeu/tsbp)**|
+|**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538](http://arxiv.org/abs/2409.16538)|null|
+|**2024-09-24**|**Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach**|Muhammad Mohsin et.al.|[2409.16496](http://arxiv.org/abs/2409.16496)|null|
+|**2024-09-24**|**A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation**|Avisha Kumar et.al.|[2409.16441](http://arxiv.org/abs/2409.16441)|null|
 |**2024-09-24**|**Tiny Robotics Dataset and Benchmark for Continual Object Detection**|Francesco Pasti et.al.|[2409.16215](http://arxiv.org/abs/2409.16215)|**[link](https://github.com/pastifra/TiROD_code)**|
 |**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
 |**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
@@ -3893,7 +3911,7 @@
 |**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[2409.14488](http://arxiv.org/abs/2409.14488)|null|
 |**2024-09-22**|**Low-Light Enhancement Effect on Classification and Detection: An Empirical Study**|Xu Wu et.al.|[2409.14461](http://arxiv.org/abs/2409.14461)|null|
 |**2024-09-21**|**VLM-Vac: Enhancing Smart Vacuums through VLM Knowledge Distillation and Language-Guided Experience Replay**|Reihaneh Mirjalili et.al.|[2409.14096](http://arxiv.org/abs/2409.14096)|null|
-|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|null|
+|**2024-09-21**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|**[link](https://github.com/caiguohui123/msdet)**|
 |**2024-09-20**|**Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning**|Hadi Rezvani et.al.|[2409.13688](http://arxiv.org/abs/2409.13688)|null|
 |**2024-09-20**|**A Bottom-Up Approach to Class-Agnostic Image Segmentation**|Sebastian Dille et.al.|[2409.13687](http://arxiv.org/abs/2409.13687)|null|
 |**2024-09-20**|**Time and Tokens: Benchmarking End-to-End Speech Dysfluency Detection**|Xuanru Zhou et.al.|[2409.13582](http://arxiv.org/abs/2409.13582)|null|
@@ -3911,7 +3929,7 @@
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**|Ahmet Soyyigit et.al.|[2409.11542](http://arxiv.org/abs/2409.11542)|**[link](https://github.com/csl-ku/valo)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
-|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|**[link](https://github.com/elastufka/fm4astro)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
