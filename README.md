@@ -513,7 +513,7 @@
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-24**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
@@ -750,7 +750,7 @@
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
 |**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
@@ -2045,7 +2045,7 @@
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/abs/2403.11364)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/abs/2403.11222)|**[link](https://github.com/bit-vision/spikenerf)**|
 |**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/abs/2403.11134)|null|
-|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/abs/2403.11131)|**[link](https://github.com/GATECH-EIC/Omni-Recon)**|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
@@ -2063,7 +2063,7 @@
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|**[link](https://github.com/toughstonex/styledyrf)**|
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|**[link](https://github.com/AliYoussef97/SuperPoint-PrP)**|
 |**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125](http://arxiv.org/abs/2403.08125)|null|
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
@@ -2121,7 +2121,7 @@
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
-|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|**[link](https://github.com/pcl3dv/ov-nerf)**|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
@@ -3201,7 +3201,7 @@
 |**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
 |**2024-08-29**|**FA-YOLO: Research On Efficient Feature Selection YOLO Improved Algorithm Based On FMDS and AGMF Modules**|Yukang Huo et.al.|[2408.16313](http://arxiv.org/abs/2408.16313)|null|
 |**2024-08-29**|**Anno-incomplete Multi-dataset Detection**|Yiran Xu et.al.|[2408.16247](http://arxiv.org/abs/2408.16247)|null|
-|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
+|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|**[link](https://github.com/yzichen/polarbevdet)**|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
 |**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
@@ -3209,7 +3209,7 @@
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
 |**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637](http://arxiv.org/abs/2408.15637)|null|
-|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|**[link](https://github.com/suhaisheng/robosense)**|
 |**2024-08-28**|**NAS-BNN: Neural Architecture Search for Binary Neural Networks**|Zhihao Lin et.al.|[2408.15484](http://arxiv.org/abs/2408.15484)|**[link](https://github.com/vdigpku/nas-bnn)**|
 |**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
@@ -3251,7 +3251,7 @@
 |**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
 |**2024-08-21**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
-|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
 |**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
 |**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
@@ -3354,7 +3354,7 @@
 |**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|**[link](https://github.com/advanced-vision-and-learning-lab/stn-yolo)**|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
-|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|**[link](https://github.com/wkfdb/marvelovd)**|
 |**2024-07-30**|**Candidate Distant Trans-Neptunian Objects Detected by the New Horizons Subaru TNO Survey**|Wesley C. Fraser et.al.|[2407.21142](http://arxiv.org/abs/2407.21142)|null|
 |**2024-07-23**|**Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2407.21052](http://arxiv.org/abs/2407.21052)|null|
@@ -3443,7 +3443,7 @@
 |**2024-07-18**|**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**|Penghui Du et.al.|[2407.11335](http://arxiv.org/abs/2407.11335)|**[link](https://github.com/eternaldolphin/lami-detr)**|
 |**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321](http://arxiv.org/abs/2407.11321)|**[link](https://github.com/zengwang430521/tcformer)**|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
-|**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|null|
+|**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|**[link](https://github.com/franciszzj/openpsg)**|
 |**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902](http://arxiv.org/abs/2407.10902)|null|
 |**2024-07-20**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876](http://arxiv.org/abs/2407.10876)|**[link](https://github.com/jbji/repvf)**|
 |**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753](http://arxiv.org/abs/2407.10753)|**[link](https://github.com/AlmoonYsl/OPEN)**|
@@ -3509,7 +3509,7 @@
 |**2024-07-03**|**YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision**|Muhammad Hussain et.al.|[2407.02988](http://arxiv.org/abs/2407.02988)|null|
 |**2024-07-03**|**A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**|Jie Shao et.al.|[2407.02835](http://arxiv.org/abs/2407.02835)|null|
 |**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763](http://arxiv.org/abs/2407.02763)|null|
-|**2024-07-02**|**SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**|Anay Majee et.al.|[2407.02665](http://arxiv.org/abs/2407.02665)|null|
+|**2024-07-02**|**SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**|Anay Majee et.al.|[2407.02665](http://arxiv.org/abs/2407.02665)|**[link](https://github.com/amajee11us/smile-fsod)**|
 |**2024-07-02**|**Robust ADAS: Enhancing Robustness of Machine Learning-based Advanced Driver Assistance Systems for Adverse Weather**|Muhammad Zaeem Shahzad et.al.|[2407.02581](http://arxiv.org/abs/2407.02581)|null|
 |**2024-07-03**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394](http://arxiv.org/abs/2407.02394)|**[link](https://github.com/cszzshi/SimD)**|
 |**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386](http://arxiv.org/abs/2407.02386)|null|
@@ -4052,7 +4052,7 @@
 |**2024-08-29**|**High-yield large-scale suspended graphene membranes over closed cavities for sensor applications**|Sebastian Lukas et.al.|[2408.16408](http://arxiv.org/abs/2408.16408)|null|
 |**2024-08-29**|**FA-YOLO: Research On Efficient Feature Selection YOLO Improved Algorithm Based On FMDS and AGMF Modules**|Yukang Huo et.al.|[2408.16313](http://arxiv.org/abs/2408.16313)|null|
 |**2024-08-29**|**Anno-incomplete Multi-dataset Detection**|Yiran Xu et.al.|[2408.16247](http://arxiv.org/abs/2408.16247)|null|
-|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|null|
+|**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[2408.16200](http://arxiv.org/abs/2408.16200)|**[link](https://github.com/yzichen/polarbevdet)**|
 |**2024-08-28**|**microYOLO: Towards Single-Shot Object Detection on Microcontrollers**|Mark Deutel et.al.|[2408.15865](http://arxiv.org/abs/2408.15865)|null|
 |**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
 |**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
@@ -4060,7 +4060,7 @@
 |**2024-08-29**|**RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis**|Zhaoxuan Wang et.al.|[2408.15643](http://arxiv.org/abs/2408.15643)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639](http://arxiv.org/abs/2408.15639)|null|
 |**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637](http://arxiv.org/abs/2408.15637)|null|
-|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|**[link](https://github.com/suhaisheng/robosense)**|
 |**2024-08-28**|**NAS-BNN: Neural Architecture Search for Binary Neural Networks**|Zhihao Lin et.al.|[2408.15484](http://arxiv.org/abs/2408.15484)|**[link](https://github.com/vdigpku/nas-bnn)**|
 |**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428](http://arxiv.org/abs/2408.15428)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
@@ -4102,7 +4102,7 @@
 |**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
 |**2024-08-21**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
-|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
 |**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
 |**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292](http://arxiv.org/abs/2408.10292)|null|
@@ -4205,7 +4205,7 @@
 |**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|**[link](https://github.com/advanced-vision-and-learning-lab/stn-yolo)**|
 |**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
-|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|**[link](https://github.com/wkfdb/marvelovd)**|
 |**2024-07-30**|**Candidate Distant Trans-Neptunian Objects Detected by the New Horizons Subaru TNO Survey**|Wesley C. Fraser et.al.|[2407.21142](http://arxiv.org/abs/2407.21142)|null|
 |**2024-07-23**|**Table-Filling via Mean Teacher for Cross-domain Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2407.21052](http://arxiv.org/abs/2407.21052)|null|
@@ -4294,7 +4294,7 @@
 |**2024-07-18**|**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**|Penghui Du et.al.|[2407.11335](http://arxiv.org/abs/2407.11335)|**[link](https://github.com/eternaldolphin/lami-detr)**|
 |**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321](http://arxiv.org/abs/2407.11321)|**[link](https://github.com/zengwang430521/tcformer)**|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
-|**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|null|
+|**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|**[link](https://github.com/franciszzj/openpsg)**|
 |**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902](http://arxiv.org/abs/2407.10902)|null|
 |**2024-07-20**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876](http://arxiv.org/abs/2407.10876)|**[link](https://github.com/jbji/repvf)**|
 |**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753](http://arxiv.org/abs/2407.10753)|**[link](https://github.com/AlmoonYsl/OPEN)**|
@@ -4360,7 +4360,7 @@
 |**2024-07-03**|**YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision**|Muhammad Hussain et.al.|[2407.02988](http://arxiv.org/abs/2407.02988)|null|
 |**2024-07-03**|**A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**|Jie Shao et.al.|[2407.02835](http://arxiv.org/abs/2407.02835)|null|
 |**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763](http://arxiv.org/abs/2407.02763)|null|
-|**2024-07-02**|**SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**|Anay Majee et.al.|[2407.02665](http://arxiv.org/abs/2407.02665)|null|
+|**2024-07-02**|**SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**|Anay Majee et.al.|[2407.02665](http://arxiv.org/abs/2407.02665)|**[link](https://github.com/amajee11us/smile-fsod)**|
 |**2024-07-02**|**Robust ADAS: Enhancing Robustness of Machine Learning-based Advanced Driver Assistance Systems for Adverse Weather**|Muhammad Zaeem Shahzad et.al.|[2407.02581](http://arxiv.org/abs/2407.02581)|null|
 |**2024-07-03**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394](http://arxiv.org/abs/2407.02394)|**[link](https://github.com/cszzshi/SimD)**|
 |**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386](http://arxiv.org/abs/2407.02386)|null|
