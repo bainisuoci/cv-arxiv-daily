@@ -2931,7 +2931,7 @@
 |**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833](http://arxiv.org/abs/2406.07833)|**[link](https://github.com/sinatayebati/radial_mae)**|
 |**2024-06-15**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755](http://arxiv.org/abs/2406.05755)|**[link](https://github.com/hoiliu-0801/dntr)**|
 |**2024-06-08**|**Select-Mosaic: Data Augmentation Method for Dense Small Object Scenes**|Hao Zhang et.al.|[2406.05412](http://arxiv.org/abs/2406.05412)|**[link](https://github.com/malagoutou/select-mosaic)**|
-|**2024-07-11**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
+|**2024-09-30**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276](http://arxiv.org/abs/2405.11276)|null|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
 |**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944](http://arxiv.org/abs/2404.16944)|**[link](https://github.com/zk2172-columbia/constellation-dataset)**|
 |**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417](http://arxiv.org/abs/2404.13417)|**[link](https://github.com/khanhnguyenuet/GCAME)**|
@@ -3041,6 +3041,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
+|**2024-09-30**|**Training a Computer Vision Model for Commercial Bakeries with Primarily Synthetic Images**|Thomas H. Schmitt et.al.|[2409.20122](http://arxiv.org/abs/2409.20122)|null|
+|**2024-09-30**|**GearTrack: Automating 6D Pose Estimation**|Yu Deng et.al.|[2409.19986](http://arxiv.org/abs/2409.19986)|null|
+|**2024-09-30**|**TSdetector: Temporal-Spatial Self-correction Collaborative Learning for Colonoscopy Video Detection**|Kaini Wang et.al.|[2409.19983](http://arxiv.org/abs/2409.19983)|null|
+|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
+|**2024-09-30**|**HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes**|Changfeng Feng et.al.|[2409.19833](http://arxiv.org/abs/2409.19833)|**[link](https://github.com/grokcv/hazydet)**|
+|**2024-09-29**|**Applying the Lower-Biased Teacher Model in Semi-Suepervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
+|**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
+|**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
+|**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
 |**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951](http://arxiv.org/abs/2409.18951)|null|
 |**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866](http://arxiv.org/abs/2409.18866)|**[link](https://github.com/deeplite/deeplite-torch-zoo)**|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
@@ -3068,7 +3080,7 @@
 |**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
 |**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
 |**2024-09-24**|**Open-World Object Detection with Instance Representation Learning**|Sunoh Lee et.al.|[2409.16073](http://arxiv.org/abs/2409.16073)|null|
-|**2024-09-24**|**Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis**|Xianda Zhang et.al.|[2409.16057](http://arxiv.org/abs/2409.16057)|null|
+|**2024-09-30**|**Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis**|Xianda Zhang et.al.|[2409.16057](http://arxiv.org/abs/2409.16057)|null|
 |**2024-09-24**|**Automated Assessment of Multimodal Answer Sheets in the STEM domain**|Rajlaxmi Patil et.al.|[2409.15749](http://arxiv.org/abs/2409.15749)|null|
 |**2024-09-24**|**PDT: Uav Target Detection Dataset for Pests and Diseases Tree**|Mingle Zhou et.al.|[2409.15679](http://arxiv.org/abs/2409.15679)|**[link](https://github.com/ruixing123/pdt_cwc_yolo-dp)**|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
@@ -3899,6 +3911,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
+|**2024-09-30**|**Training a Computer Vision Model for Commercial Bakeries with Primarily Synthetic Images**|Thomas H. Schmitt et.al.|[2409.20122](http://arxiv.org/abs/2409.20122)|null|
+|**2024-09-30**|**GearTrack: Automating 6D Pose Estimation**|Yu Deng et.al.|[2409.19986](http://arxiv.org/abs/2409.19986)|null|
+|**2024-09-30**|**TSdetector: Temporal-Spatial Self-correction Collaborative Learning for Colonoscopy Video Detection**|Kaini Wang et.al.|[2409.19983](http://arxiv.org/abs/2409.19983)|null|
+|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
+|**2024-09-30**|**HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes**|Changfeng Feng et.al.|[2409.19833](http://arxiv.org/abs/2409.19833)|**[link](https://github.com/grokcv/hazydet)**|
+|**2024-09-29**|**Applying the Lower-Biased Teacher Model in Semi-Suepervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
+|**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
+|**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
+|**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
 |**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951](http://arxiv.org/abs/2409.18951)|null|
 |**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866](http://arxiv.org/abs/2409.18866)|**[link](https://github.com/deeplite/deeplite-torch-zoo)**|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
@@ -3926,7 +3950,7 @@
 |**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
 |**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
 |**2024-09-24**|**Open-World Object Detection with Instance Representation Learning**|Sunoh Lee et.al.|[2409.16073](http://arxiv.org/abs/2409.16073)|null|
-|**2024-09-24**|**Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis**|Xianda Zhang et.al.|[2409.16057](http://arxiv.org/abs/2409.16057)|null|
+|**2024-09-30**|**Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis**|Xianda Zhang et.al.|[2409.16057](http://arxiv.org/abs/2409.16057)|null|
 |**2024-09-24**|**Automated Assessment of Multimodal Answer Sheets in the STEM domain**|Rajlaxmi Patil et.al.|[2409.15749](http://arxiv.org/abs/2409.15749)|null|
 |**2024-09-24**|**PDT: Uav Target Detection Dataset for Pests and Diseases Tree**|Mingle Zhou et.al.|[2409.15679](http://arxiv.org/abs/2409.15679)|**[link](https://github.com/ruixing123/pdt_cwc_yolo-dp)**|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
