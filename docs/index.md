@@ -3015,6 +3015,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
+|**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270](http://arxiv.org/abs/2410.01270)|null|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
+|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
+|**2024-10-01**|**Synthetic imagery for fuzzy object detection: A comparative study**|Siavash H. Khajavi et.al.|[2410.01124](http://arxiv.org/abs/2410.01124)|null|
+|**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072](http://arxiv.org/abs/2410.01072)|null|
+|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055](http://arxiv.org/abs/2410.01055)|null|
+|**2024-10-01**|**FCE-YOLOv8: YOLOv8 with Feature Context Excitation Modules for Fracture Detection in Pediatric Wrist X-ray Images**|Rui-Yang Ju et.al.|[2410.01031](http://arxiv.org/abs/2410.01031)|**[link](https://github.com/ruiyangju/fce-yolov8)**|
+|**2024-10-01**|**OSSA: Unsupervised One-Shot Style Adaptation**|Robin Gerster et.al.|[2410.00900](http://arxiv.org/abs/2410.00900)|**[link](https://github.com/robingerster7/ossa)**|
+|**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
+|**2024-10-01**|**Descriptor: Face Detection Dataset for Programmable Threshold-Based Sparse-Vision**|Riadul Islam et.al.|[2410.00368](http://arxiv.org/abs/2410.00368)|**[link](https://github.com/riaduli/thresholded_event_vision_face_dataset)**|
+|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|null|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
@@ -3883,6 +3898,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
+|**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270](http://arxiv.org/abs/2410.01270)|null|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
+|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
+|**2024-10-01**|**Synthetic imagery for fuzzy object detection: A comparative study**|Siavash H. Khajavi et.al.|[2410.01124](http://arxiv.org/abs/2410.01124)|null|
+|**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072](http://arxiv.org/abs/2410.01072)|null|
+|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055](http://arxiv.org/abs/2410.01055)|null|
+|**2024-10-01**|**FCE-YOLOv8: YOLOv8 with Feature Context Excitation Modules for Fracture Detection in Pediatric Wrist X-ray Images**|Rui-Yang Ju et.al.|[2410.01031](http://arxiv.org/abs/2410.01031)|**[link](https://github.com/ruiyangju/fce-yolov8)**|
+|**2024-10-01**|**OSSA: Unsupervised One-Shot Style Adaptation**|Robin Gerster et.al.|[2410.00900](http://arxiv.org/abs/2410.00900)|**[link](https://github.com/robingerster7/ossa)**|
+|**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
+|**2024-10-01**|**Descriptor: Face Detection Dataset for Programmable Threshold-Based Sparse-Vision**|Riadul Islam et.al.|[2410.00368](http://arxiv.org/abs/2410.00368)|**[link](https://github.com/riaduli/thresholded_event_vision_face_dataset)**|
+|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|null|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
