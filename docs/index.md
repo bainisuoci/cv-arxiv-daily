@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3040,7 +3040,7 @@ layout: default
 |**2024-09-30**|**TSdetector: Temporal-Spatial Self-correction Collaborative Learning for Colonoscopy Video Detection**|Kaini Wang et.al.|[2409.19983](http://arxiv.org/abs/2409.19983)|null|
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
 |**2024-09-30**|**HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes**|Changfeng Feng et.al.|[2409.19833](http://arxiv.org/abs/2409.19833)|**[link](https://github.com/grokcv/hazydet)**|
-|**2024-09-29**|**Applying the Lower-Biased Teacher Model in Semi-Suepervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
+|**2024-10-04**|**Applying the Lower-Biased Teacher Model in Semi-Supervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
 |**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
 |**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
 |**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
@@ -3925,7 +3925,7 @@ layout: default
 |**2024-09-30**|**TSdetector: Temporal-Spatial Self-correction Collaborative Learning for Colonoscopy Video Detection**|Kaini Wang et.al.|[2409.19983](http://arxiv.org/abs/2409.19983)|null|
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
 |**2024-09-30**|**HazyDet: Open-source Benchmark for Drone-view Object Detection with Depth-cues in Hazy Scenes**|Changfeng Feng et.al.|[2409.19833](http://arxiv.org/abs/2409.19833)|**[link](https://github.com/grokcv/hazydet)**|
-|**2024-09-29**|**Applying the Lower-Biased Teacher Model in Semi-Suepervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
+|**2024-10-04**|**Applying the Lower-Biased Teacher Model in Semi-Supervised Object Detection**|Shuang Wang et.al.|[2409.19703](http://arxiv.org/abs/2409.19703)|null|
 |**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
 |**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
 |**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
