@@ -3041,6 +3041,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152](http://arxiv.org/abs/2410.05152)|null|
+|**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
+|**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
+|**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
+|**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
+|**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
+|**2024-10-05**|**Cross Resolution Encoding-Decoding For Detection Transformers**|Ashish Kumar et.al.|[2410.04088](http://arxiv.org/abs/2410.04088)|**[link](https://github.com/ashishkumar822/cred-detr)**|
+|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
+|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|null|
 |**2024-10-04**|**DRAFTS: A Deep Learning-Based Radio Fast Transient Search Pipeline**|Yong-Kun Zhang et.al.|[2410.03200](http://arxiv.org/abs/2410.03200)|null|
 |**2024-10-04**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646](http://arxiv.org/abs/2410.02646)|null|
 |**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
@@ -3048,8 +3059,8 @@
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
 |**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270](http://arxiv.org/abs/2410.01270)|null|
-|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
-|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|**[link](https://github.com/asu-suo-lab/hi-lo-sensing)**|
+|**2024-10-07**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
 |**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
 |**2024-10-01**|**Synthetic imagery for fuzzy object detection: A comparative study**|Siavash H. Khajavi et.al.|[2410.01124](http://arxiv.org/abs/2410.01124)|null|
 |**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072](http://arxiv.org/abs/2410.01072)|null|
@@ -3058,7 +3069,7 @@
 |**2024-10-01**|**OSSA: Unsupervised One-Shot Style Adaptation**|Robin Gerster et.al.|[2410.00900](http://arxiv.org/abs/2410.00900)|**[link](https://github.com/robingerster7/ossa)**|
 |**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
 |**2024-10-01**|**Descriptor: Face Detection Dataset for Programmable Threshold-Based Sparse-Vision**|Riadul Islam et.al.|[2410.00368](http://arxiv.org/abs/2410.00368)|**[link](https://github.com/riaduli/thresholded_event_vision_face_dataset)**|
-|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|null|
+|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|**[link](https://github.com/jacobgil/pytorch-grad-cam)**|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
@@ -3929,6 +3940,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152](http://arxiv.org/abs/2410.05152)|null|
+|**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
+|**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
+|**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
+|**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
+|**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
+|**2024-10-05**|**Cross Resolution Encoding-Decoding For Detection Transformers**|Ashish Kumar et.al.|[2410.04088](http://arxiv.org/abs/2410.04088)|**[link](https://github.com/ashishkumar822/cred-detr)**|
+|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
+|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|null|
 |**2024-10-04**|**DRAFTS: A Deep Learning-Based Radio Fast Transient Search Pipeline**|Yong-Kun Zhang et.al.|[2410.03200](http://arxiv.org/abs/2410.03200)|null|
 |**2024-10-04**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646](http://arxiv.org/abs/2410.02646)|null|
 |**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
@@ -3936,8 +3958,8 @@
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319](http://arxiv.org/abs/2410.01319)|null|
 |**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270](http://arxiv.org/abs/2410.01270)|null|
-|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
-|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|**[link](https://github.com/asu-suo-lab/hi-lo-sensing)**|
+|**2024-10-07**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
 |**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
 |**2024-10-01**|**Synthetic imagery for fuzzy object detection: A comparative study**|Siavash H. Khajavi et.al.|[2410.01124](http://arxiv.org/abs/2410.01124)|null|
 |**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072](http://arxiv.org/abs/2410.01072)|null|
@@ -3946,7 +3968,7 @@
 |**2024-10-01**|**OSSA: Unsupervised One-Shot Style Adaptation**|Robin Gerster et.al.|[2410.00900](http://arxiv.org/abs/2410.00900)|**[link](https://github.com/robingerster7/ossa)**|
 |**2024-10-01**|**Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection**|Pengxi Zeng et.al.|[2410.00582](http://arxiv.org/abs/2410.00582)|null|
 |**2024-10-01**|**Descriptor: Face Detection Dataset for Programmable Threshold-Based Sparse-Vision**|Riadul Islam et.al.|[2410.00368](http://arxiv.org/abs/2410.00368)|**[link](https://github.com/riaduli/thresholded_event_vision_face_dataset)**|
-|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|null|
+|**2024-09-30**|**KPCA-CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA**|Sachin Karmani et.al.|[2410.00267](http://arxiv.org/abs/2410.00267)|**[link](https://github.com/jacobgil/pytorch-grad-cam)**|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426](http://arxiv.org/abs/2409.20426)|null|
