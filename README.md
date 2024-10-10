@@ -3041,6 +3041,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
+|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
+|**2024-10-08**|**Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions**|Mateus Karvat et.al.|[2410.06380](http://arxiv.org/abs/2410.06380)|null|
+|**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149](http://arxiv.org/abs/2410.06149)|null|
+|**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
+|**2024-10-08**|**Learning Gaussian Data Augmentation in Feature Space for One-shot Object Detection in Manga**|Takara Taniguchi et.al.|[2410.05935](http://arxiv.org/abs/2410.05935)|null|
+|**2024-10-08**|**Unobserved Object Detection using Generative Models**|Subhransu S. Bhattacharjee et.al.|[2410.05869](http://arxiv.org/abs/2410.05869)|null|
+|**2024-10-08**|**CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection**|Mingyi Guo et.al.|[2410.05804](http://arxiv.org/abs/2410.05804)|null|
+|**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
+|**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
+|**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
+|**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
+|**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
 |**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152](http://arxiv.org/abs/2410.05152)|null|
 |**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
@@ -3940,6 +3957,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
+|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
+|**2024-10-08**|**Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions**|Mateus Karvat et.al.|[2410.06380](http://arxiv.org/abs/2410.06380)|null|
+|**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149](http://arxiv.org/abs/2410.06149)|null|
+|**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963](http://arxiv.org/abs/2410.05963)|null|
+|**2024-10-08**|**Learning Gaussian Data Augmentation in Feature Space for One-shot Object Detection in Manga**|Takara Taniguchi et.al.|[2410.05935](http://arxiv.org/abs/2410.05935)|null|
+|**2024-10-08**|**Unobserved Object Detection using Generative Models**|Subhransu S. Bhattacharjee et.al.|[2410.05869](http://arxiv.org/abs/2410.05869)|null|
+|**2024-10-08**|**CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection**|Mingyi Guo et.al.|[2410.05804](http://arxiv.org/abs/2410.05804)|null|
+|**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
+|**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
+|**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
+|**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
+|**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
 |**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152](http://arxiv.org/abs/2410.05152)|null|
 |**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096](http://arxiv.org/abs/2410.05096)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058](http://arxiv.org/abs/2410.05058)|null|
