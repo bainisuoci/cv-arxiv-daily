@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3035,7 +3035,7 @@ layout: default
 |**2024-10-21**|**Online Pseudo-Label Unified Object Detection for Multiple Datasets Training**|XiaoJun Tang et.al.|[2410.15569](http://arxiv.org/abs/2410.15569)|null|
 |**2024-10-20**|**TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.|[2410.15518](http://arxiv.org/abs/2410.15518)|null|
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|null|
-|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|null|
+|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
 |**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
@@ -3108,7 +3108,7 @@ layout: default
 |**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
 |**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
 |**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
-|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|**[link](https://github.com/pku-icst-mipl/sia-ovd_acmmm2024)**|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
@@ -4027,7 +4027,7 @@ layout: default
 |**2024-10-21**|**Online Pseudo-Label Unified Object Detection for Multiple Datasets Training**|XiaoJun Tang et.al.|[2410.15569](http://arxiv.org/abs/2410.15569)|null|
 |**2024-10-20**|**TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.|[2410.15518](http://arxiv.org/abs/2410.15518)|null|
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|null|
-|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|null|
+|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
 |**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
@@ -4100,7 +4100,7 @@ layout: default
 |**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
 |**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
 |**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
-|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|**[link](https://github.com/pku-icst-mipl/sia-ovd_acmmm2024)**|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|

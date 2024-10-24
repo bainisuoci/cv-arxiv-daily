@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## 小目标
 
@@ -3037,7 +3037,7 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## object detection
 
@@ -3061,7 +3061,7 @@
 |**2024-10-21**|**Online Pseudo-Label Unified Object Detection for Multiple Datasets Training**|XiaoJun Tang et.al.|[2410.15569](http://arxiv.org/abs/2410.15569)|null|
 |**2024-10-20**|**TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.|[2410.15518](http://arxiv.org/abs/2410.15518)|null|
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|null|
-|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|null|
+|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
 |**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
@@ -3134,7 +3134,7 @@
 |**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
 |**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
 |**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
-|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|**[link](https://github.com/pku-icst-mipl/sia-ovd_acmmm2024)**|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
@@ -4031,7 +4031,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Remote Sensing Image
 
@@ -4055,7 +4055,7 @@
 |**2024-10-21**|**Online Pseudo-Label Unified Object Detection for Multiple Datasets Training**|XiaoJun Tang et.al.|[2410.15569](http://arxiv.org/abs/2410.15569)|null|
 |**2024-10-20**|**TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.|[2410.15518](http://arxiv.org/abs/2410.15518)|null|
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|null|
-|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|null|
+|**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
 |**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
@@ -4128,7 +4128,7 @@
 |**2024-10-08**|**Guided Self-attention: Find the Generalized Necessarily Distinct Vectors for Grain Size Grading**|Fang Gao et.al.|[2410.05762](http://arxiv.org/abs/2410.05762)|null|
 |**2024-10-08**|**Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR**|Sisir Dhakal et.al.|[2410.05721](http://arxiv.org/abs/2410.05721)|null|
 |**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
-|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|null|
+|**2024-10-08**|**SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**|Zishuo Wang et.al.|[2410.05650](http://arxiv.org/abs/2410.05650)|**[link](https://github.com/pku-icst-mipl/sia-ovd_acmmm2024)**|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-07**|**Rethinking Weak-to-Strong Augmentation in Source-Free Domain Adaptive Object Detection**|Jiuzheng Yang et.al.|[2410.05557](http://arxiv.org/abs/2410.05557)|null|
 |**2024-10-07**|**SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**|Denis Davletshin et.al.|[2410.05405](http://arxiv.org/abs/2410.05405)|null|
@@ -5025,7 +5025,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Ship detection
 
@@ -5080,7 +5080,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
