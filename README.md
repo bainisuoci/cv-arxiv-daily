@@ -836,11 +836,11 @@
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
-|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
+|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|**[link](https://github.com/gongzix/lite-mind)**|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
-|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
+|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|**[link](https://github.com/cheliu-computation/g2d-neurips24)**|
 |**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950](http://arxiv.org/abs/2312.00950)|null|
 |**2023-12-05**|**Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**|Walid Bousselham et.al.|[2312.00878](http://arxiv.org/abs/2312.00878)|**[link](https://github.com/walbouss/gem)**|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
@@ -3402,7 +3402,7 @@
 |**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207](http://arxiv.org/abs/2408.11207)|**[link](https://github.com/sanjay-810/qicvt)**|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
 |**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844](http://arxiv.org/abs/2408.10844)|**[link](https://github.com/ombretta/humans-vs-detectors)**|
-|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|**[link](https://github.com/b-faye/lightmdetr)**|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
 |**2024-08-21**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
 |**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
@@ -4405,7 +4405,7 @@
 |**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207](http://arxiv.org/abs/2408.11207)|**[link](https://github.com/sanjay-810/qicvt)**|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
 |**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844](http://arxiv.org/abs/2408.10844)|**[link](https://github.com/ombretta/humans-vs-detectors)**|
-|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787](http://arxiv.org/abs/2408.10787)|**[link](https://github.com/b-faye/lightmdetr)**|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
 |**2024-08-21**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775](http://arxiv.org/abs/2408.10775)|null|
 |**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
