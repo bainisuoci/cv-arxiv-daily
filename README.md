@@ -3043,6 +3043,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
+|**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|
+|**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
+|**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
+|**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371](http://arxiv.org/abs/2410.20371)|null|
+|**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
+|**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965](http://arxiv.org/abs/2410.19965)|null|
+|**2024-10-24**|**Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey**|Kun Shi et.al.|[2410.19872](http://arxiv.org/abs/2410.19872)|null|
+|**2024-10-23**|**Breaking the Illusion: Real-world Challenges for Adversarial Patches in Object Detection**|Jakob Shack et.al.|[2410.19863](http://arxiv.org/abs/2410.19863)|null|
+|**2024-10-21**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
+|**2024-10-17**|**Comparing Surface Landmine Object Detection Models on a New Drone Flyby Dataset**|Navin Agrawal-Chung et.al.|[2410.19807](http://arxiv.org/abs/2410.19807)|null|
+|**2024-10-14**|**Developing Gridded Emission Inventory from High-Resolution Satellite Object Detection for Improved Air Quality Forecasts**|Shubham Ghosal et.al.|[2410.19773](http://arxiv.org/abs/2410.19773)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
 |**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
@@ -4052,6 +4065,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
+|**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|
+|**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
+|**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
+|**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371](http://arxiv.org/abs/2410.20371)|null|
+|**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
+|**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965](http://arxiv.org/abs/2410.19965)|null|
+|**2024-10-24**|**Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey**|Kun Shi et.al.|[2410.19872](http://arxiv.org/abs/2410.19872)|null|
+|**2024-10-23**|**Breaking the Illusion: Real-world Challenges for Adversarial Patches in Object Detection**|Jakob Shack et.al.|[2410.19863](http://arxiv.org/abs/2410.19863)|null|
+|**2024-10-21**|**YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**|Ranjan Sapkota et.al.|[2410.19846](http://arxiv.org/abs/2410.19846)|null|
+|**2024-10-17**|**Comparing Surface Landmine Object Detection Models on a New Drone Flyby Dataset**|Navin Agrawal-Chung et.al.|[2410.19807](http://arxiv.org/abs/2410.19807)|null|
+|**2024-10-14**|**Developing Gridded Emission Inventory from High-Resolution Satellite Object Detection for Improved Air Quality Forecasts**|Shubham Ghosal et.al.|[2410.19773](http://arxiv.org/abs/2410.19773)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
 |**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
