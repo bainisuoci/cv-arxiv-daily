@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3027,7 +3027,7 @@ layout: default
 |**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
 |**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|
 |**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
-|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371](http://arxiv.org/abs/2410.20371)|null|
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
@@ -4053,7 +4053,7 @@ layout: default
 |**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
 |**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|
 |**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
-|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371](http://arxiv.org/abs/2410.20371)|null|
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
