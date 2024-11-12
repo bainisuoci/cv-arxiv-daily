@@ -3045,13 +3045,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Transformers for Charged Particle Track Reconstruction in High Energy Physics**|Samuel Van Stroud et.al.|[2411.07149](http://arxiv.org/abs/2411.07149)|null|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
+|**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[2411.06851](http://arxiv.org/abs/2411.06851)|**[link](https://github.com/miguelag99/efficient-instance-prediction)**|
+|**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
+|**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702](http://arxiv.org/abs/2411.06702)|null|
+|**2024-11-11**|**LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**|Zhengyi Liu et.al.|[2411.06652](http://arxiv.org/abs/2411.06652)|null|
+|**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173](http://arxiv.org/abs/2411.06173)|**[link](https://github.com/weijiemax/lssinst)**|
+|**2024-11-09**|**AI-Compass: A Comprehensive and Effective Multi-module Testing Tool for AI Systems**|Zhiyu Zhu et.al.|[2411.06146](http://arxiv.org/abs/2411.06146)|null|
+|**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
+|**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048](http://arxiv.org/abs/2411.06048)|**[link](https://github.com/fatemehshiri/spatial-mm)**|
+|**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898](http://arxiv.org/abs/2411.05898)|null|
+|**2024-11-07**|**Exploring the Feasibility of Affordable Sonar Technology: Object Detection in Underwater Environments Using the Ping 360**|Md Junayed Hasan et.al.|[2411.05863](http://arxiv.org/abs/2411.05863)|**[link](https://github.com/junayed/sonar-scan-dataset-with-ping-360)**|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
+|**2024-10-31**|**AI for ERW Detection in Clearance Operations -- The State of Research**|Björn Kischelewski et.al.|[2411.05813](http://arxiv.org/abs/2411.05813)|null|
 |**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[2411.05564](http://arxiv.org/abs/2411.05564)|null|
 |**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311](http://arxiv.org/abs/2411.05311)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292](http://arxiv.org/abs/2411.05292)|null|
 |**2024-11-07**|**On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data**|Aitor Martinez-Seras et.al.|[2411.04586](http://arxiv.org/abs/2411.04586)|null|
 |**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
 |**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
 |**2024-11-06**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728](http://arxiv.org/abs/2411.03728)|**[link](https://github.com/joshualpf/alignsal)**|
@@ -3119,7 +3133,7 @@
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
 |**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
 |**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
-|**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
+|**2024-11-09**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
 |**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|**[link](https://github.com/qiujiaming315/edgeml-object-detection)**|
 |**2024-10-24**|**You Only Look Around: Learning Illumination Invariant Feature for Low-light Object Detection**|Mingbo Hong et.al.|[2410.18398](http://arxiv.org/abs/2410.18398)|null|
@@ -4124,13 +4138,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Transformers for Charged Particle Track Reconstruction in High Energy Physics**|Samuel Van Stroud et.al.|[2411.07149](http://arxiv.org/abs/2411.07149)|null|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
+|**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[2411.06851](http://arxiv.org/abs/2411.06851)|**[link](https://github.com/miguelag99/efficient-instance-prediction)**|
+|**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
+|**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702](http://arxiv.org/abs/2411.06702)|null|
+|**2024-11-11**|**LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**|Zhengyi Liu et.al.|[2411.06652](http://arxiv.org/abs/2411.06652)|null|
+|**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173](http://arxiv.org/abs/2411.06173)|**[link](https://github.com/weijiemax/lssinst)**|
+|**2024-11-09**|**AI-Compass: A Comprehensive and Effective Multi-module Testing Tool for AI Systems**|Zhiyu Zhu et.al.|[2411.06146](http://arxiv.org/abs/2411.06146)|null|
+|**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
+|**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048](http://arxiv.org/abs/2411.06048)|**[link](https://github.com/fatemehshiri/spatial-mm)**|
+|**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898](http://arxiv.org/abs/2411.05898)|null|
+|**2024-11-07**|**Exploring the Feasibility of Affordable Sonar Technology: Object Detection in Underwater Environments Using the Ping 360**|Md Junayed Hasan et.al.|[2411.05863](http://arxiv.org/abs/2411.05863)|**[link](https://github.com/junayed/sonar-scan-dataset-with-ping-360)**|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
+|**2024-10-31**|**AI for ERW Detection in Clearance Operations -- The State of Research**|Björn Kischelewski et.al.|[2411.05813](http://arxiv.org/abs/2411.05813)|null|
 |**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[2411.05564](http://arxiv.org/abs/2411.05564)|null|
 |**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311](http://arxiv.org/abs/2411.05311)|null|
 |**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292](http://arxiv.org/abs/2411.05292)|null|
 |**2024-11-07**|**On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data**|Aitor Martinez-Seras et.al.|[2411.04586](http://arxiv.org/abs/2411.04586)|null|
 |**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
-|**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
+|**2024-11-08**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
 |**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
 |**2024-11-06**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728](http://arxiv.org/abs/2411.03728)|**[link](https://github.com/joshualpf/alignsal)**|
@@ -4198,7 +4226,7 @@
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
 |**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
 |**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
-|**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
+|**2024-11-09**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
 |**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|**[link](https://github.com/qiujiaming315/edgeml-object-detection)**|
 |**2024-10-24**|**You Only Look Around: Learning Illumination Invariant Feature for Low-light Object Detection**|Mingbo Hong et.al.|[2410.18398](http://arxiv.org/abs/2410.18398)|null|
@@ -5205,7 +5233,7 @@
 |---|---|---|---|---|
 |**2024-11-05**|**Enhancing Maritime Situational Awareness through End-to-End Onboard Raw Data Analysis**|Roberto Del Prete et.al.|[2411.03403](http://arxiv.org/abs/2411.03403)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
-|**2024-11-03**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2024-11-10**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-11**|**Advancements in Ship Detection: Comparative Analysis of Optical and Hyperspectral Sensors**|Alyazia Al Shamsi et.al.|[2410.10888](http://arxiv.org/abs/2410.10888)|null|
 |**2024-07-26**|**SMPISD-MTPNet: Scene Semantic Prior-Assisted Infrared Ship Detection Using Multi-Task Perception Networks**|Chen Hu et.al.|[2407.18487](http://arxiv.org/abs/2407.18487)|**[link](https://github.com/greekinroma/kmndnet)**|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
