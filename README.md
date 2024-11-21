@@ -3048,6 +3048,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544](http://arxiv.org/abs/2411.13544)|null|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186](http://arxiv.org/abs/2411.13186)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
+|**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
+|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
 |**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
@@ -3106,7 +3114,7 @@
 |**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724](http://arxiv.org/abs/2411.03724)|null|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
 |**2024-11-05**|**Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data**|Irum Mehboob et.al.|[2411.03082](http://arxiv.org/abs/2411.03082)|null|
-|**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
+|**2024-11-20**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
 |**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861](http://arxiv.org/abs/2411.02861)|null|
 |**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo et.al.|[2411.02844](http://arxiv.org/abs/2411.02844)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
 |**2024-11-19**|**ERUP-YOLO: Enhancing Object Detection Robustness for Adverse Weather Condition by Unified Image-Adaptive Processing**|Yuka Ogino et.al.|[2411.02799](http://arxiv.org/abs/2411.02799)|null|
@@ -3116,7 +3124,7 @@
 |**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
 |**2024-11-04**|**Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation**|Yan Li et.al.|[2411.02057](http://arxiv.org/abs/2411.02057)|**[link](https://github.com/lizzy8587/castdet)**|
 |**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963](http://arxiv.org/abs/2411.01963)|null|
-|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
+|**2024-11-20**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**LiDAttack: Robust Black-box Attack on LiDAR-based Object Detection**|Jinyin Chen et.al.|[2411.01889](http://arxiv.org/abs/2411.01889)|**[link](https://github.com/cinderyl/lidattack)**|
 |**2024-11-08**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
 |**2024-11-03**|**OSAD: Open-Set Aircraft Detection in SAR Images**|Xiayang Xiao et.al.|[2411.01597](http://arxiv.org/abs/2411.01597)|null|
@@ -4172,6 +4180,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544](http://arxiv.org/abs/2411.13544)|null|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186](http://arxiv.org/abs/2411.13186)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
+|**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
+|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
 |**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
@@ -4230,7 +4246,7 @@
 |**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724](http://arxiv.org/abs/2411.03724)|null|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
 |**2024-11-05**|**Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data**|Irum Mehboob et.al.|[2411.03082](http://arxiv.org/abs/2411.03082)|null|
-|**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
+|**2024-11-20**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
 |**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861](http://arxiv.org/abs/2411.02861)|null|
 |**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo et.al.|[2411.02844](http://arxiv.org/abs/2411.02844)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
 |**2024-11-19**|**ERUP-YOLO: Enhancing Object Detection Robustness for Adverse Weather Condition by Unified Image-Adaptive Processing**|Yuka Ogino et.al.|[2411.02799](http://arxiv.org/abs/2411.02799)|null|
@@ -4240,7 +4256,7 @@
 |**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
 |**2024-11-04**|**Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation**|Yan Li et.al.|[2411.02057](http://arxiv.org/abs/2411.02057)|**[link](https://github.com/lizzy8587/castdet)**|
 |**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963](http://arxiv.org/abs/2411.01963)|null|
-|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
+|**2024-11-20**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**LiDAttack: Robust Black-box Attack on LiDAR-based Object Detection**|Jinyin Chen et.al.|[2411.01889](http://arxiv.org/abs/2411.01889)|**[link](https://github.com/cinderyl/lidattack)**|
 |**2024-11-08**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
 |**2024-11-03**|**OSAD: Open-Set Aircraft Detection in SAR Images**|Xiayang Xiao et.al.|[2411.01597](http://arxiv.org/abs/2411.01597)|null|
