@@ -1686,7 +1686,7 @@ layout: default
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
-|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
+|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|**[link](https://github.com/tavisshore/BEV-CV)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
@@ -2394,7 +2394,7 @@ layout: default
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627](http://arxiv.org/abs/2309.11627)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525](http://arxiv.org/abs/2309.11525)|null|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
-|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|**[link](https://github.com/Ikarosy/SpikingNeRF-of-CASIA)**|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
@@ -3153,7 +3153,7 @@ layout: default
 |**2024-10-14**|**Developing Gridded Emission Inventory from High-Resolution Satellite Object Detection for Improved Air Quality Forecasts**|Shubham Ghosal et.al.|[2410.19773](http://arxiv.org/abs/2410.19773)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
-|**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
+|**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|**[link](https://github.com/pufanqi23/monodgp)**|
 |**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
 |**2024-11-09**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
@@ -3163,7 +3163,7 @@ layout: default
 |**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
 |**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
-|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|**[link](https://github.com/ultralytics/ultralytics)**|
 |**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|**[link](https://github.com/yjybuaa/plantcamo)**|
 |**2024-10-23**|**OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking**|Haiji Liang et.al.|[2410.17534](http://arxiv.org/abs/2410.17534)|**[link](https://github.com/coo1sea/ovt-b-dataset)**|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
@@ -3542,7 +3542,7 @@ layout: default
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
 |**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
-|**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999](http://arxiv.org/abs/2408.07999)|null|
+|**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999](http://arxiv.org/abs/2408.07999)|**[link](https://github.com/rubbish001/co-fix3d)**|
 |**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917](http://arxiv.org/abs/2408.07917)|**[link](https://github.com/yutongwangbit/goreloc)**|
 |**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
@@ -4289,7 +4289,7 @@ layout: default
 |**2024-10-14**|**Developing Gridded Emission Inventory from High-Resolution Satellite Object Detection for Improved Air Quality Forecasts**|Shubham Ghosal et.al.|[2410.19773](http://arxiv.org/abs/2410.19773)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**|Shenghao Fu et.al.|[2410.19635](http://arxiv.org/abs/2410.19635)|null|
-|**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
+|**2024-10-25**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|**[link](https://github.com/pufanqi23/monodgp)**|
 |**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
 |**2024-11-09**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
@@ -4299,7 +4299,7 @@ layout: default
 |**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
 |**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
-|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|**[link](https://github.com/ultralytics/ultralytics)**|
 |**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|**[link](https://github.com/yjybuaa/plantcamo)**|
 |**2024-10-23**|**OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking**|Haiji Liang et.al.|[2410.17534](http://arxiv.org/abs/2410.17534)|**[link](https://github.com/coo1sea/ovt-b-dataset)**|
 |**2024-10-22**|**EPContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding**|Zhiyi Pan et.al.|[2410.17207](http://arxiv.org/abs/2410.17207)|null|
@@ -4678,7 +4678,7 @@ layout: default
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
 |**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
-|**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999](http://arxiv.org/abs/2408.07999)|null|
+|**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999](http://arxiv.org/abs/2408.07999)|**[link](https://github.com/rubbish001/co-fix3d)**|
 |**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917](http://arxiv.org/abs/2408.07917)|**[link](https://github.com/yutongwangbit/goreloc)**|
 |**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
