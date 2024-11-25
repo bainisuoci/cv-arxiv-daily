@@ -3022,6 +3022,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**A Real-Time DETR Approach to Bangladesh Road Object Detection for Autonomous Vehicles**|Irfan Nafiz Shahan et.al.|[2411.15110](http://arxiv.org/abs/2411.15110)|null|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-06**|**Comment on Quantum illumination using polarization-entangled photon pairs for enhanced object detection (Opt. Express 32, 40150-40164, 2024)**|Artur Czerwinski et.al.|[2411.14445](http://arxiv.org/abs/2411.14445)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
 |**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|null|
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
@@ -3035,7 +3040,7 @@ layout: default
 |**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
 |**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
-|**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
+|**2024-11-22**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
 |**2024-11-18**|**Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster**|J. Alex Hurt et.al.|[2411.12038](http://arxiv.org/abs/2411.12038)|null|
@@ -4158,6 +4163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**A Real-Time DETR Approach to Bangladesh Road Object Detection for Autonomous Vehicles**|Irfan Nafiz Shahan et.al.|[2411.15110](http://arxiv.org/abs/2411.15110)|null|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-06**|**Comment on Quantum illumination using polarization-entangled photon pairs for enhanced object detection (Opt. Express 32, 40150-40164, 2024)**|Artur Czerwinski et.al.|[2411.14445](http://arxiv.org/abs/2411.14445)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
 |**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|null|
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
@@ -4171,7 +4181,7 @@ layout: default
 |**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
 |**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
-|**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
+|**2024-11-22**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
 |**2024-11-18**|**Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster**|J. Alex Hurt et.al.|[2411.12038](http://arxiv.org/abs/2411.12038)|null|
