@@ -3024,6 +3024,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
+|**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
+|**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
+|**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
+|**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
+|**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
+|**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477](http://arxiv.org/abs/2412.01477)|null|
+|**2024-12-02**|**Collaborative Instance Navigation: Leveraging Agent Self-Dialogue to Minimize User Input**|Francesco Taioli et.al.|[2412.01250](http://arxiv.org/abs/2412.01250)|null|
+|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|null|
+|**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
+|**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
+|**2024-11-29**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
@@ -3092,7 +3108,7 @@ layout: default
 |**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|**[link](https://github.com/tpoellabauer/ycb-luma)**|
 |**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
-|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
+|**2024-12-03**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
 |**2024-11-22**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
@@ -4216,6 +4232,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
+|**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
+|**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
+|**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
+|**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
+|**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
+|**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477](http://arxiv.org/abs/2412.01477)|null|
+|**2024-12-02**|**Collaborative Instance Navigation: Leveraging Agent Self-Dialogue to Minimize User Input**|Francesco Taioli et.al.|[2412.01250](http://arxiv.org/abs/2412.01250)|null|
+|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|null|
+|**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
+|**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
+|**2024-11-29**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
@@ -4284,7 +4316,7 @@ layout: default
 |**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|**[link](https://github.com/tpoellabauer/ycb-luma)**|
 |**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047](http://arxiv.org/abs/2411.13047)|null|
-|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
+|**2024-12-03**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001](http://arxiv.org/abs/2411.13001)|null|
 |**2024-11-22**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620](http://arxiv.org/abs/2411.12620)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301](http://arxiv.org/abs/2411.12301)|**[link](https://github.com/xai4sar/pgd)**|
