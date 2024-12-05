@@ -3024,12 +3024,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[2412.03490](http://arxiv.org/abs/2412.03490)|null|
+|**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
+|**2024-12-04**|**ObjectFinder: Open-Vocabulary Assistive System for Interactive Object Search by Blind People**|Ruiping Liu et.al.|[2412.03118](http://arxiv.org/abs/2412.03118)|null|
+|**2024-12-04**|**TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception**|Runjian Chen et.al.|[2412.03054](http://arxiv.org/abs/2412.03054)|null|
+|**2024-12-04**|**Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**|Prabhat Kc et.al.|[2412.02920](http://arxiv.org/abs/2412.02920)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
+|**2024-12-03**|**Optimized CNNs for Rapid 3D Point Cloud Object Recognition**|Tianyi Lyu et.al.|[2412.02855](http://arxiv.org/abs/2412.02855)|null|
+|**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
-|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|**[link](https://github.com/azizanlab/reliable-detr)**|
 |**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
 |**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
 |**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
@@ -4232,12 +4241,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[2412.03490](http://arxiv.org/abs/2412.03490)|null|
+|**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
+|**2024-12-04**|**ObjectFinder: Open-Vocabulary Assistive System for Interactive Object Search by Blind People**|Ruiping Liu et.al.|[2412.03118](http://arxiv.org/abs/2412.03118)|null|
+|**2024-12-04**|**TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception**|Runjian Chen et.al.|[2412.03054](http://arxiv.org/abs/2412.03054)|null|
+|**2024-12-04**|**Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**|Prabhat Kc et.al.|[2412.02920](http://arxiv.org/abs/2412.02920)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
+|**2024-12-03**|**Optimized CNNs for Rapid 3D Point Cloud Object Recognition**|Tianyi Lyu et.al.|[2412.02855](http://arxiv.org/abs/2412.02855)|null|
+|**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
-|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|**[link](https://github.com/azizanlab/reliable-detr)**|
 |**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
 |**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
 |**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
