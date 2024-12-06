@@ -3024,6 +3024,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458](http://arxiv.org/abs/2412.04458)|null|
+|**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|null|
+|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|null|
+|**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
+|**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
+|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
+|**2024-12-05**|**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**|Zeel B Patel et.al.|[2412.04065](http://arxiv.org/abs/2412.04065)|null|
+|**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[2412.03986](http://arxiv.org/abs/2412.03986)|null|
+|**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928](http://arxiv.org/abs/2412.03928)|null|
+|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
+|**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
+|**2024-12-04**|**NBM: an Open Dataset for the Acoustic Monitoring of Nocturnal Migratory Birds in Europe**|Louis Airale et.al.|[2412.03633](http://arxiv.org/abs/2412.03633)|null|
 |**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
 |**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[2412.03490](http://arxiv.org/abs/2412.03490)|null|
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
@@ -3048,7 +3061,7 @@ layout: default
 |**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 |**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
 |**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
-|**2024-11-29**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
+|**2024-12-05**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
@@ -3092,7 +3105,7 @@ layout: default
 |**2024-11-25**|**Leverage Task Context for Object Affordance Ranking**|Haojie Huang et.al.|[2411.16082](http://arxiv.org/abs/2411.16082)|null|
 |**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061](http://arxiv.org/abs/2411.16061)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
 |**2024-11-24**|**Highly Efficient and Unsupervised Framework for Moving Object Detection in Satellite Videos**|C. Xiao et.al.|[2411.15895](http://arxiv.org/abs/2411.15895)|**[link](https://github.com/chaoxiao12/moving-object-detection-in-satellite-videos-hieum)**|
-|**2024-11-26**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
+|**2024-12-05**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
 |**2024-11-24**|**Towards RAW Object Detection in Diverse Conditions**|Zhong-Yu Li et.al.|[2411.15678](http://arxiv.org/abs/2411.15678)|**[link](https://github.com/lzyhha/aodraw)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657](http://arxiv.org/abs/2411.15657)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
@@ -4241,6 +4254,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458](http://arxiv.org/abs/2412.04458)|null|
+|**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|null|
+|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|null|
+|**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
+|**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
+|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
+|**2024-12-05**|**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**|Zeel B Patel et.al.|[2412.04065](http://arxiv.org/abs/2412.04065)|null|
+|**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[2412.03986](http://arxiv.org/abs/2412.03986)|null|
+|**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928](http://arxiv.org/abs/2412.03928)|null|
+|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
+|**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
+|**2024-12-04**|**NBM: an Open Dataset for the Acoustic Monitoring of Nocturnal Migratory Birds in Europe**|Louis Airale et.al.|[2412.03633](http://arxiv.org/abs/2412.03633)|null|
 |**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
 |**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[2412.03490](http://arxiv.org/abs/2412.03490)|null|
 |**2024-12-04**|**Task-driven Image Fusion with Learnable Fusion Loss**|Haowen Bai et.al.|[2412.03240](http://arxiv.org/abs/2412.03240)|null|
@@ -4265,7 +4291,7 @@ layout: default
 |**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 |**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
 |**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
-|**2024-11-29**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
+|**2024-12-05**|**Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks**|Simon Mielke et.al.|[2412.00256](http://arxiv.org/abs/2412.00256)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
@@ -4309,7 +4335,7 @@ layout: default
 |**2024-11-25**|**Leverage Task Context for Object Affordance Ranking**|Haojie Huang et.al.|[2411.16082](http://arxiv.org/abs/2411.16082)|null|
 |**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061](http://arxiv.org/abs/2411.16061)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
 |**2024-11-24**|**Highly Efficient and Unsupervised Framework for Moving Object Detection in Satellite Videos**|C. Xiao et.al.|[2411.15895](http://arxiv.org/abs/2411.15895)|**[link](https://github.com/chaoxiao12/moving-object-detection-in-satellite-videos-hieum)**|
-|**2024-11-26**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
+|**2024-12-05**|**LRSAA: Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.15808](http://arxiv.org/abs/2411.15808)|**[link](https://github.com/anaerovane/lrsaa)**|
 |**2024-11-24**|**Towards RAW Object Detection in Diverse Conditions**|Zhong-Yu Li et.al.|[2411.15678](http://arxiv.org/abs/2411.15678)|**[link](https://github.com/lzyhha/aodraw)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657](http://arxiv.org/abs/2411.15657)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
