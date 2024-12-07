@@ -3026,8 +3026,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458](http://arxiv.org/abs/2412.04458)|null|
 |**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
-|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|null|
-|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|**[link](https://github.com/zippiest/yolo-cca)**|
+|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|**[link](https://github.com/shihuahuang95/deim)**|
 |**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
 |**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
@@ -3051,13 +3051,13 @@ layout: default
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
-|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|**[link](https://github.com/azizanlab/reliable-detr)**|
-|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|**[link](https://github.com/KostadinovShalon/fever-ood)**|
 |**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
 |**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
 |**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477](http://arxiv.org/abs/2412.01477)|null|
 |**2024-12-02**|**Collaborative Instance Navigation: Leveraging Agent Self-Dialogue to Minimize User Input**|Francesco Taioli et.al.|[2412.01250](http://arxiv.org/abs/2412.01250)|null|
-|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|null|
+|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|**[link](https://github.com/benbergner/cropr)**|
 |**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 |**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
 |**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
@@ -3119,7 +3119,7 @@ layout: default
 |**2024-11-26**|**Evaluating the Impact of Underwater Image Enhancement on Object Detection Performance: A Comprehensive Study**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
 |**2024-11-06**|**Comment on Quantum illumination using polarization-entangled photon pairs for enhanced object detection (Opt. Express 32, 40150-40164, 2024)**|Artur Czerwinski et.al.|[2411.14445](http://arxiv.org/abs/2411.14445)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
-|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|null|
+|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|**[link](https://github.com/hku-tasr/anywheredoor)**|
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection**|Tong Ning et.al.|[2411.13628](http://arxiv.org/abs/2411.13628)|null|
@@ -4256,8 +4256,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458](http://arxiv.org/abs/2412.04458)|null|
 |**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337](http://arxiv.org/abs/2412.04337)|null|
-|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|null|
-|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|null|
+|**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|**[link](https://github.com/zippiest/yolo-cca)**|
+|**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|**[link](https://github.com/shihuahuang95/deim)**|
 |**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
 |**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
@@ -4281,13 +4281,13 @@ layout: default
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
-|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|**[link](https://github.com/azizanlab/reliable-detr)**|
-|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|**[link](https://github.com/KostadinovShalon/fever-ood)**|
 |**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
 |**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
 |**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477](http://arxiv.org/abs/2412.01477)|null|
 |**2024-12-02**|**Collaborative Instance Navigation: Leveraging Agent Self-Dialogue to Minimize User Input**|Francesco Taioli et.al.|[2412.01250](http://arxiv.org/abs/2412.01250)|null|
-|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|null|
+|**2024-12-01**|**Token Cropr: Faster ViTs for Quite a Few Tasks**|Benjamin Bergner et.al.|[2412.00965](http://arxiv.org/abs/2412.00965)|**[link](https://github.com/benbergner/cropr)**|
 |**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 |**2024-12-01**|**Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**|Hao Jin et.al.|[2412.00638](http://arxiv.org/abs/2412.00638)|null|
 |**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
@@ -4349,7 +4349,7 @@ layout: default
 |**2024-11-26**|**Evaluating the Impact of Underwater Image Enhancement on Object Detection Performance: A Comprehensive Study**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
 |**2024-11-06**|**Comment on Quantum illumination using polarization-entangled photon pairs for enhanced object detection (Opt. Express 32, 40150-40164, 2024)**|Artur Czerwinski et.al.|[2411.14445](http://arxiv.org/abs/2411.14445)|null|
 |**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
-|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|null|
+|**2024-11-21**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2411.14243](http://arxiv.org/abs/2411.14243)|**[link](https://github.com/hku-tasr/anywheredoor)**|
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection**|Tong Ning et.al.|[2411.13628](http://arxiv.org/abs/2411.13628)|null|
