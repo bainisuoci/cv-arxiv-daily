@@ -3072,7 +3072,7 @@
 |**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
 |**2024-12-03**|**Optimized CNNs for Rapid 3D Point Cloud Object Recognition**|Tianyi Lyu et.al.|[2412.02855](http://arxiv.org/abs/2412.02855)|null|
 |**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|**[link](https://github.com/jw-chae/sjtu)**|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
@@ -3234,7 +3234,7 @@
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
 |**2024-11-03**|**Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision**|Xiangzhong Luo et.al.|[2411.01431](http://arxiv.org/abs/2411.01431)|null|
 |**2024-11-01**|**Mixed Reality Teleoperation Assistance for Direct Control of Humanoids**|Luigi Penco et.al.|[2411.01014](http://arxiv.org/abs/2411.01014)|null|
-|**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/abs/2411.00818)|null|
+|**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/abs/2411.00818)|**[link](https://github.com/aklein1995/drise_dmfpp_ddeletion)**|
 |**2024-11-01**|**Autobiasing Event Cameras**|Mehdi Sefidgar Dilmaghani et.al.|[2411.00729](http://arxiv.org/abs/2411.00729)|null|
 |**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548](http://arxiv.org/abs/2411.00548)|null|
 |**2024-11-01**|**LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO**|Yuchen Zheng et.al.|[2411.00485](http://arxiv.org/abs/2411.00485)|null|
@@ -3530,7 +3530,7 @@
 |**2024-09-08**|**A Low-Computational Video Synopsis Framework with a Standard Dataset**|Ramtin Malekpour et.al.|[2409.05230](http://arxiv.org/abs/2409.05230)|**[link](https://github.com/ramtin-ma/videosynopsis-fgs)**|
 |**2024-09-08**|**Can OOD Object Detectors Learn from Foundation Models?**|Jiahui Liu et.al.|[2409.05162](http://arxiv.org/abs/2409.05162)|**[link](https://github.com/cvmi-lab/syncood)**|
 |**2024-09-08**|**Visual Grounding with Multi-modal Conditional Adaptation**|Ruilin Yao et.al.|[2409.04999](http://arxiv.org/abs/2409.04999)|**[link](https://github.com/mr-bigworth/mmca)**|
-|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
+|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|**[link](https://github.com/radetzkyli/multi-v2x)**|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
@@ -3729,7 +3729,7 @@
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
-|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|null|
+|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|**[link](https://github.com/jinyang06/SamGOP)**|
 |**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|**[link](https://github.com/wqw123wqw/pftrack)**|
 |**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
 |**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|**[link](https://github.com/Ruiyang-061X/UA3D)**|
@@ -4097,7 +4097,7 @@
 |**2024-05-25**|**Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2405.16116](http://arxiv.org/abs/2405.16116)|**[link](https://github.com/maelic/sgg-benchmark)**|
 |**2024-05-25**|**MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects**|Kunye Shen et.al.|[2405.16096](http://arxiv.org/abs/2405.16096)|**[link](https://github.com/kunye-shen/minet)**|
 |**2024-05-25**|**Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection**|Xue Zhang et.al.|[2405.16038](http://arxiv.org/abs/2405.16038)|**[link](https://github.com/xuez-phd/efficient-rgb-t-early-fusion-detection)**|
-|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
+|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|**[link](https://github.com/cxy1997/DiffuBox)**|
 |**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
 |**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
 |**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|**[link](https://github.com/tedlentsch/union)**|
@@ -4192,7 +4192,7 @@
 |**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
 |**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
 |**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785](http://arxiv.org/abs/2405.02785)|null|
-|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
+|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|**[link](https://github.com/Amirhosein2c/SegFreeOP)**|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
@@ -4304,7 +4304,7 @@
 |**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
 |**2024-12-03**|**Optimized CNNs for Rapid 3D Point Cloud Object Recognition**|Tianyi Lyu et.al.|[2412.02855](http://arxiv.org/abs/2412.02855)|null|
 |**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|**[link](https://github.com/jw-chae/sjtu)**|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
@@ -4466,7 +4466,7 @@
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
 |**2024-11-03**|**Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision**|Xiangzhong Luo et.al.|[2411.01431](http://arxiv.org/abs/2411.01431)|null|
 |**2024-11-01**|**Mixed Reality Teleoperation Assistance for Direct Control of Humanoids**|Luigi Penco et.al.|[2411.01014](http://arxiv.org/abs/2411.01014)|null|
-|**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/abs/2411.00818)|null|
+|**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/abs/2411.00818)|**[link](https://github.com/aklein1995/drise_dmfpp_ddeletion)**|
 |**2024-11-01**|**Autobiasing Event Cameras**|Mehdi Sefidgar Dilmaghani et.al.|[2411.00729](http://arxiv.org/abs/2411.00729)|null|
 |**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548](http://arxiv.org/abs/2411.00548)|null|
 |**2024-11-01**|**LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO**|Yuchen Zheng et.al.|[2411.00485](http://arxiv.org/abs/2411.00485)|null|
@@ -4762,7 +4762,7 @@
 |**2024-09-08**|**A Low-Computational Video Synopsis Framework with a Standard Dataset**|Ramtin Malekpour et.al.|[2409.05230](http://arxiv.org/abs/2409.05230)|**[link](https://github.com/ramtin-ma/videosynopsis-fgs)**|
 |**2024-09-08**|**Can OOD Object Detectors Learn from Foundation Models?**|Jiahui Liu et.al.|[2409.05162](http://arxiv.org/abs/2409.05162)|**[link](https://github.com/cvmi-lab/syncood)**|
 |**2024-09-08**|**Visual Grounding with Multi-modal Conditional Adaptation**|Ruilin Yao et.al.|[2409.04999](http://arxiv.org/abs/2409.04999)|**[link](https://github.com/mr-bigworth/mmca)**|
-|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|null|
+|**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/abs/2409.04980)|**[link](https://github.com/radetzkyli/multi-v2x)**|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
@@ -4961,7 +4961,7 @@
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
-|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|null|
+|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|**[link](https://github.com/jinyang06/SamGOP)**|
 |**2024-08-02**|**Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.|[2408.00969](http://arxiv.org/abs/2408.00969)|**[link](https://github.com/wqw123wqw/pftrack)**|
 |**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701](http://arxiv.org/abs/2408.00701)|null|
 |**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|**[link](https://github.com/Ruiyang-061X/UA3D)**|
@@ -5329,7 +5329,7 @@
 |**2024-05-25**|**Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2405.16116](http://arxiv.org/abs/2405.16116)|**[link](https://github.com/maelic/sgg-benchmark)**|
 |**2024-05-25**|**MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects**|Kunye Shen et.al.|[2405.16096](http://arxiv.org/abs/2405.16096)|**[link](https://github.com/kunye-shen/minet)**|
 |**2024-05-25**|**Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection**|Xue Zhang et.al.|[2405.16038](http://arxiv.org/abs/2405.16038)|**[link](https://github.com/xuez-phd/efficient-rgb-t-early-fusion-detection)**|
-|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
+|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|**[link](https://github.com/cxy1997/DiffuBox)**|
 |**2024-05-24**|**Uncertainty Quantification for Neurosymbolic Programs via Compositional Conformal Prediction**|Ramya Ramalingam et.al.|[2405.15912](http://arxiv.org/abs/2405.15912)|null|
 |**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
 |**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688](http://arxiv.org/abs/2405.15688)|**[link](https://github.com/tedlentsch/union)**|
@@ -5424,7 +5424,7 @@
 |**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
 |**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
 |**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785](http://arxiv.org/abs/2405.02785)|null|
-|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
+|**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|**[link](https://github.com/Amirhosein2c/SegFreeOP)**|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
 |**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699](http://arxiv.org/abs/2405.01699)|null|
