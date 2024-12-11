@@ -3052,6 +3052,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
+|**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|null|
+|**2024-12-10**|**Enhancing 3D Object Detection in Autonomous Vehicles Based on Synthetic Virtual Environment Analysis**|Vladislav Li et.al.|[2412.07509](http://arxiv.org/abs/2412.07509)|null|
+|**2024-12-10**|**DSFEC: Efficient and Deployable Deep Radar Object Detection**|Gayathri Dandugula et.al.|[2412.07411](http://arxiv.org/abs/2412.07411)|null|
+|**2024-12-10**|**Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments**|Muhayy Ud Din et.al.|[2412.07392](http://arxiv.org/abs/2412.07392)|null|
+|**2024-12-01**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
 |**2024-12-09**|**FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**|Dongyue Lu et.al.|[2412.06708](http://arxiv.org/abs/2412.06708)|null|
 |**2024-12-09**|**EMOv2: Pushing 5M Vision Model Frontier**|Jiangning Zhang et.al.|[2412.06674](http://arxiv.org/abs/2412.06674)|**[link](https://github.com/zhangzjn/emov2)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
@@ -3081,7 +3087,7 @@
 |**2024-12-09**|**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**|Zeel B Patel et.al.|[2412.04065](http://arxiv.org/abs/2412.04065)|null|
 |**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[2412.03986](http://arxiv.org/abs/2412.03986)|null|
 |**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928](http://arxiv.org/abs/2412.03928)|null|
-|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
+|**2024-12-10**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
 |**2024-12-04**|**NBM: an Open Dataset for the Acoustic Monitoring of Nocturnal Migratory Birds in Europe**|Louis Airale et.al.|[2412.03633](http://arxiv.org/abs/2412.03633)|null|
 |**2024-12-08**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
@@ -4303,6 +4309,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Multimodal Contextualized Support for Enhancing Video Retrieval System**|Quoc-Bao Nguyen-Le et.al.|[2412.07584](http://arxiv.org/abs/2412.07584)|null|
+|**2024-12-10**|**Making the Flow Glow -- Robot Perception under Severe Lighting Conditions using Normalizing Flow Gradients**|Simon Kristoffersson Lind et.al.|[2412.07565](http://arxiv.org/abs/2412.07565)|null|
+|**2024-12-10**|**Enhancing 3D Object Detection in Autonomous Vehicles Based on Synthetic Virtual Environment Analysis**|Vladislav Li et.al.|[2412.07509](http://arxiv.org/abs/2412.07509)|null|
+|**2024-12-10**|**DSFEC: Efficient and Deployable Deep Radar Object Detection**|Gayathri Dandugula et.al.|[2412.07411](http://arxiv.org/abs/2412.07411)|null|
+|**2024-12-10**|**Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments**|Muhayy Ud Din et.al.|[2412.07392](http://arxiv.org/abs/2412.07392)|null|
+|**2024-12-01**|**LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection**|Bin Li et.al.|[2412.07009](http://arxiv.org/abs/2412.07009)|null|
 |**2024-12-09**|**FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**|Dongyue Lu et.al.|[2412.06708](http://arxiv.org/abs/2412.06708)|null|
 |**2024-12-09**|**EMOv2: Pushing 5M Vision Model Frontier**|Jiangning Zhang et.al.|[2412.06674](http://arxiv.org/abs/2412.06674)|**[link](https://github.com/zhangzjn/emov2)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
@@ -4332,7 +4344,7 @@
 |**2024-12-09**|**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**|Zeel B Patel et.al.|[2412.04065](http://arxiv.org/abs/2412.04065)|null|
 |**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[2412.03986](http://arxiv.org/abs/2412.03986)|null|
 |**2024-12-05**|**MT3DNet: Multi-Task learning Network for 3D Surgical Scene Reconstruction**|Mithun Parab et.al.|[2412.03928](http://arxiv.org/abs/2412.03928)|null|
-|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
+|**2024-12-10**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
 |**2024-12-04**|**NBM: an Open Dataset for the Acoustic Monitoring of Nocturnal Migratory Birds in Europe**|Louis Airale et.al.|[2412.03633](http://arxiv.org/abs/2412.03633)|null|
 |**2024-12-08**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
@@ -5554,7 +5566,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-08**|**MID: A Comprehensive Shore-Based Dataset for Multi-Scale Dense Ship Occlusion and Interaction Scenarios**|Yugang Chang et.al.|[2412.05871](http://arxiv.org/abs/2412.05871)|null|
+|**2024-12-10**|**MID: A Comprehensive Shore-Based Dataset for Multi-Scale Dense Ship Occlusion and Interaction Scenarios**|Yugang Chang et.al.|[2412.05871](http://arxiv.org/abs/2412.05871)|**[link](https://github.com/virtualnew/mid_dataset)**|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-05**|**Enhancing Maritime Situational Awareness through End-to-End Onboard Raw Data Analysis**|Roberto Del Prete et.al.|[2411.03403](http://arxiv.org/abs/2411.03403)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
