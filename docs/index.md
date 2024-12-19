@@ -3031,6 +3031,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
+|**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
+|**2024-12-18**|**Comparative Analysis of YOLOv9, YOLOv10 and RT-DETR for Real-Time Weed Detection**|Ahmet Oğuz Saltık et.al.|[2412.13490](http://arxiv.org/abs/2412.13490)|null|
 |**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152](http://arxiv.org/abs/2412.13152)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
 |**2024-12-17**|**What is YOLOv6? A Deep Insight into the Object Detection Model**|Athulya Sundaresan Geetha et.al.|[2412.13006](http://arxiv.org/abs/2412.13006)|null|
@@ -3038,7 +3042,7 @@ layout: default
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
-|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
 |**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
@@ -3097,7 +3101,7 @@ layout: default
 |**2024-12-09**|**EMOv2: Pushing 5M Vision Model Frontier**|Jiangning Zhang et.al.|[2412.06674](http://arxiv.org/abs/2412.06674)|**[link](https://github.com/zhangzjn/emov2)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Self-Paced Learning Strategy with Easy Sample Prior Based on Confidence for the Flying Bird Object Detection Model Training**|Zi-Wei Sun et.al.|[2412.06306](http://arxiv.org/abs/2412.06306)|**[link](https://github.com/Ziwei89/FBOD-BSPL)**|
-|**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
+|**2024-12-18**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
 |**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
@@ -4342,6 +4346,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
+|**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
+|**2024-12-18**|**Comparative Analysis of YOLOv9, YOLOv10 and RT-DETR for Real-Time Weed Detection**|Ahmet Oğuz Saltık et.al.|[2412.13490](http://arxiv.org/abs/2412.13490)|null|
 |**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152](http://arxiv.org/abs/2412.13152)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
 |**2024-12-17**|**What is YOLOv6? A Deep Insight into the Object Detection Model**|Athulya Sundaresan Geetha et.al.|[2412.13006](http://arxiv.org/abs/2412.13006)|null|
@@ -4349,7 +4357,7 @@ layout: default
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
-|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
 |**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
@@ -4408,7 +4416,7 @@ layout: default
 |**2024-12-09**|**EMOv2: Pushing 5M Vision Model Frontier**|Jiangning Zhang et.al.|[2412.06674](http://arxiv.org/abs/2412.06674)|**[link](https://github.com/zhangzjn/emov2)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Self-Paced Learning Strategy with Easy Sample Prior Based on Confidence for the Flying Bird Object Detection Model Training**|Zi-Wei Sun et.al.|[2412.06306](http://arxiv.org/abs/2412.06306)|**[link](https://github.com/Ziwei89/FBOD-BSPL)**|
-|**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
+|**2024-12-18**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
 |**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
