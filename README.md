@@ -3057,6 +3057,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
+|**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576](http://arxiv.org/abs/2412.14576)|**[link](https://github.com/angknpng/pcnet)**|
+|**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
+|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|null|
+|**2024-12-18**|**Improving Generalization Performance of YOLOv8 for Camera Trap Object Detection**|Aroj Subedi et.al.|[2412.14211](http://arxiv.org/abs/2412.14211)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
@@ -3069,7 +3076,7 @@
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
 |**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
-|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
+|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|null|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
 |**2024-12-16**|**Coconut Palm Tree Counting on Drone Images with Deep Object Detection and Synthetic Training Data**|Tobias Rohe et.al.|[2412.11949](http://arxiv.org/abs/2412.11949)|null|
@@ -3130,7 +3137,7 @@
 |**2024-12-18**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
-|**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
+|**2024-12-19**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
 |**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
 |**2024-12-07**|**Rethinking Annotation for Object Detection: Is Annotating Small-size Instances Worth Its Cost?**|Yusuke Hosoya et.al.|[2412.05611](http://arxiv.org/abs/2412.05611)|null|
 |**2024-12-07**|**Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator**|Itay Krispin-Avraham et.al.|[2412.05594](http://arxiv.org/abs/2412.05594)|**[link](https://github.com/airotau/pointpillarshailoinnoviz)**|
@@ -4374,6 +4381,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
+|**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576](http://arxiv.org/abs/2412.14576)|**[link](https://github.com/angknpng/pcnet)**|
+|**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
+|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|null|
+|**2024-12-18**|**Improving Generalization Performance of YOLOv8 for Camera Trap Object Detection**|Aroj Subedi et.al.|[2412.14211](http://arxiv.org/abs/2412.14211)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
@@ -4386,7 +4400,7 @@
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Efficient Oriented Object Detection with Enhanced Small Object Recognition in Aerial Images**|Zhifei Shi et.al.|[2412.12562](http://arxiv.org/abs/2412.12562)|null|
 |**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
-|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
+|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|null|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
 |**2024-12-16**|**Coconut Palm Tree Counting on Drone Images with Deep Object Detection and Synthetic Training Data**|Tobias Rohe et.al.|[2412.11949](http://arxiv.org/abs/2412.11949)|null|
@@ -4447,7 +4461,7 @@
 |**2024-12-18**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[2412.06215](http://arxiv.org/abs/2412.06215)|null|
-|**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
+|**2024-12-19**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
 |**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
 |**2024-12-07**|**Rethinking Annotation for Object Detection: Is Annotating Small-size Instances Worth Its Cost?**|Yusuke Hosoya et.al.|[2412.05611](http://arxiv.org/abs/2412.05611)|null|
 |**2024-12-07**|**Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator**|Itay Krispin-Avraham et.al.|[2412.05594](http://arxiv.org/abs/2412.05594)|**[link](https://github.com/airotau/pointpillarshailoinnoviz)**|
