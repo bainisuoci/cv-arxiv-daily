@@ -3051,7 +3051,7 @@ layout: default
 |**2024-12-21**|**Enhancing Nighttime Vehicle Detection with Day-to-Night Style Transfer and Labeling-Free Augmentation**|Yunxiang Yang et.al.|[2412.16478](http://arxiv.org/abs/2412.16478)|null|
 |**2024-12-21**|**Object Detection Approaches to Identifying Hand Images with High Forensic Values**|Thanh Thi Nguyen et.al.|[2412.16431](http://arxiv.org/abs/2412.16431)|null|
 |**2024-12-20**|**Improving Object Detection for Time-Lapse Imagery Using Temporal Features in Wildlife Monitoring**|Marcus Jenkins et.al.|[2412.16329](http://arxiv.org/abs/2412.16329)|**[link](https://github.com/marcusjenkins01/yolov7-temporal)**|
-|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|null|
+|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|**[link](https://gitlab.kitware.com/darpa_learn/learn)**|
 |**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219](http://arxiv.org/abs/2412.16219)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-23**|**MR-GDINO: Efficient Open-World Continual Object Detection**|Bowen Dong et.al.|[2412.15979](http://arxiv.org/abs/2412.15979)|**[link](https://github.com/dongsky/mr-gdino)**|
@@ -4398,7 +4398,7 @@ layout: default
 |**2024-12-21**|**Enhancing Nighttime Vehicle Detection with Day-to-Night Style Transfer and Labeling-Free Augmentation**|Yunxiang Yang et.al.|[2412.16478](http://arxiv.org/abs/2412.16478)|null|
 |**2024-12-21**|**Object Detection Approaches to Identifying Hand Images with High Forensic Values**|Thanh Thi Nguyen et.al.|[2412.16431](http://arxiv.org/abs/2412.16431)|null|
 |**2024-12-20**|**Improving Object Detection for Time-Lapse Imagery Using Temporal Features in Wildlife Monitoring**|Marcus Jenkins et.al.|[2412.16329](http://arxiv.org/abs/2412.16329)|**[link](https://github.com/marcusjenkins01/yolov7-temporal)**|
-|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|null|
+|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|**[link](https://gitlab.kitware.com/darpa_learn/learn)**|
 |**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219](http://arxiv.org/abs/2412.16219)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-23**|**MR-GDINO: Efficient Open-World Continual Object Detection**|Bowen Dong et.al.|[2412.15979](http://arxiv.org/abs/2412.15979)|**[link](https://github.com/dongsky/mr-gdino)**|
