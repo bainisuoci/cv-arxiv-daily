@@ -1936,7 +1936,7 @@ layout: default
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
 |**2024-04-11**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/abs/2404.06710)|null|
-|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|**[link](https://github.com/magic-research/magic-boost)**|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
@@ -2995,7 +2995,7 @@ layout: default
 |**2022-02-21**|**Colonoscopy polyp detection with massive endoscopic images**|Jialin Yu et.al.|[2202.08730](http://arxiv.org/abs/2202.08730)|null|
 |**2022-10-24**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934](http://arxiv.org/abs/2202.06934)|**[link](https://github.com/fcakyon/sahi-benchmark)**|
 |**2022-01-10**|**Small Object Detection using Deep Learning**|Aleena Ajaz et.al.|[2201.03243](http://arxiv.org/abs/2201.03243)|null|
-|**2023-01-03**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumea et.al.|[2112.11798](http://arxiv.org/abs/2112.11798)|null|
+|**2023-01-03**|**YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles**|Aduen Benjumea et.al.|[2112.11798](http://arxiv.org/abs/2112.11798)|**[link](https://github.com/hieutrong512/Yoloz)**|
 |**2021-12-13**|**Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images**|Dong Liang et.al.|[2112.06701](http://arxiv.org/abs/2112.06701)|**[link](https://github.com/qxgeng/dea-net)**|
 |**2021-11-05**|**Remote Sensing Image Super-resolution and Object Detection: Benchmark and State of the Art**|Yi Wang et.al.|[2111.03260](http://arxiv.org/abs/2111.03260)|null|
 |**2022-06-14**|**A Normalized Gaussian Wasserstein Distance for Tiny Object Detection**|Jinwang Wang et.al.|[2110.13389](http://arxiv.org/abs/2110.13389)|**[link](https://github.com/jwwangchn/NWD)**|
