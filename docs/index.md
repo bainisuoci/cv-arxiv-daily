@@ -3032,13 +3032,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
+|**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
+|**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
+|**2024-12-30**|**Open-Set Object Detection By Aligning Known Class Representations**|Hiran Sarkar et.al.|[2412.20701](http://arxiv.org/abs/2412.20701)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
+|**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
+|**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
+|**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
+|**2024-12-27**|**Leveraging Scene Geometry and Depth Information for Robust Image Deraining**|Ningning Xu et.al.|[2412.19913](http://arxiv.org/abs/2412.19913)|null|
 |**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165](http://arxiv.org/abs/2412.19165)|null|
 |**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091](http://arxiv.org/abs/2412.19091)|null|
 |**2024-12-26**|**Assessing Pre-trained Models for Transfer Learning through Distribution of Spectral Components**|Tengxue Zhang et.al.|[2412.19085](http://arxiv.org/abs/2412.19085)|null|
 |**2024-12-25**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
-|**2024-12-25**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
+|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
 |**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870](http://arxiv.org/abs/2412.18870)|null|
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
@@ -4391,13 +4402,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
+|**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
+|**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
+|**2024-12-30**|**Open-Set Object Detection By Aligning Known Class Representations**|Hiran Sarkar et.al.|[2412.20701](http://arxiv.org/abs/2412.20701)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
+|**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
+|**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
+|**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
+|**2024-12-27**|**Leveraging Scene Geometry and Depth Information for Robust Image Deraining**|Ningning Xu et.al.|[2412.19913](http://arxiv.org/abs/2412.19913)|null|
 |**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
 |**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165](http://arxiv.org/abs/2412.19165)|null|
 |**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091](http://arxiv.org/abs/2412.19091)|null|
 |**2024-12-26**|**Assessing Pre-trained Models for Transfer Learning through Distribution of Spectral Components**|Tengxue Zhang et.al.|[2412.19085](http://arxiv.org/abs/2412.19085)|null|
 |**2024-12-25**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
-|**2024-12-25**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
+|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
 |**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870](http://arxiv.org/abs/2412.18870)|null|
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
