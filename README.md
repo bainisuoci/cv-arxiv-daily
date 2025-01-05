@@ -3058,6 +3058,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
+|**2025-01-01**|**A Novel Approach using CapsNet and Deep Belief Network for Detection and Identification of Oral Leukopenia**|Hirthik Mathesh GV et.al.|[2501.00876](http://arxiv.org/abs/2501.00876)|null|
+|**2025-01-01**|**NMM-HRI: Natural Multi-modal Human-Robot Interaction with Voice and Deictic Posture via Large Language Model**|Yuzhi Lai et.al.|[2501.00785](http://arxiv.org/abs/2501.00785)|null|
+|**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
+|**2024-12-31**|**B2Net: Camouflaged Object Detection via Boundary Aware and Boundary Fusion**|Junmin Cai et.al.|[2501.00426](http://arxiv.org/abs/2501.00426)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
 |**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
@@ -4430,6 +4436,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
+|**2025-01-01**|**A Novel Approach using CapsNet and Deep Belief Network for Detection and Identification of Oral Leukopenia**|Hirthik Mathesh GV et.al.|[2501.00876](http://arxiv.org/abs/2501.00876)|null|
+|**2025-01-01**|**NMM-HRI: Natural Multi-modal Human-Robot Interaction with Voice and Deictic Posture via Large Language Model**|Yuzhi Lai et.al.|[2501.00785](http://arxiv.org/abs/2501.00785)|null|
+|**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
+|**2024-12-31**|**B2Net: Camouflaged Object Detection via Boundary Aware and Boundary Fusion**|Junmin Cai et.al.|[2501.00426](http://arxiv.org/abs/2501.00426)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770](http://arxiv.org/abs/2412.20770)|null|
 |**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749](http://arxiv.org/abs/2412.20749)|null|
