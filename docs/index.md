@@ -3032,6 +3032,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**Multispectral Pedestrian Detection with Sparsely Annotated Label**|Chan Lee et.al.|[2501.02640](http://arxiv.org/abs/2501.02640)|null|
+|**2025-01-05**|**Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**|Hui Lin et.al.|[2501.02474](http://arxiv.org/abs/2501.02474)|**[link](https://github.com/leenamx/ge-fsod)**|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
+|**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|null|
+|**2025-01-03**|**A Separable Self-attention Inspired by the State Space Model for Computer Vision**|Juntao Zhang et.al.|[2501.02040](http://arxiv.org/abs/2501.02040)|**[link](https://github.com/yws-wxs/vminet)**|
 |**2025-01-03**|**UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**|Huaxiang Zhang et.al.|[2501.01855](http://arxiv.org/abs/2501.01855)|null|
 |**2025-01-03**|**Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**|Kang Yi et.al.|[2501.01648](http://arxiv.org/abs/2501.01648)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
@@ -3071,7 +3077,7 @@ layout: default
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
 |**2024-12-23**|**Impact of Evidence Theory Uncertainty on Training Object Detection Models**|M. Tahasanul Ibrahim et.al.|[2412.17405](http://arxiv.org/abs/2412.17405)|null|
-|**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
+|**2025-01-04**|**Feature Based Methods in Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
 |**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|**[link](https://github.com/henryyu23/das)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955](http://arxiv.org/abs/2412.16955)|**[link](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
@@ -4410,6 +4416,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**Multispectral Pedestrian Detection with Sparsely Annotated Label**|Chan Lee et.al.|[2501.02640](http://arxiv.org/abs/2501.02640)|null|
+|**2025-01-05**|**Generalization-Enhanced Few-Shot Object Detection in Remote Sensing**|Hui Lin et.al.|[2501.02474](http://arxiv.org/abs/2501.02474)|**[link](https://github.com/leenamx/ge-fsod)**|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
+|**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
+|**2025-01-04**|**RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar**|Liye Jia et.al.|[2501.02314](http://arxiv.org/abs/2501.02314)|null|
+|**2025-01-03**|**A Separable Self-attention Inspired by the State Space Model for Computer Vision**|Juntao Zhang et.al.|[2501.02040](http://arxiv.org/abs/2501.02040)|**[link](https://github.com/yws-wxs/vminet)**|
 |**2025-01-03**|**UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**|Huaxiang Zhang et.al.|[2501.01855](http://arxiv.org/abs/2501.01855)|null|
 |**2025-01-03**|**Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**|Kang Yi et.al.|[2501.01648](http://arxiv.org/abs/2501.01648)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
@@ -4449,7 +4461,7 @@ layout: default
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
 |**2024-12-23**|**Impact of Evidence Theory Uncertainty on Training Object Detection Models**|M. Tahasanul Ibrahim et.al.|[2412.17405](http://arxiv.org/abs/2412.17405)|null|
-|**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
+|**2025-01-04**|**Feature Based Methods in Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
 |**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|**[link](https://github.com/henryyu23/das)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955](http://arxiv.org/abs/2412.16955)|**[link](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
