@@ -960,7 +960,7 @@ layout: default
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221](http://arxiv.org/abs/2307.08221)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
-|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|**[link](https://github.com/ramdrop/rcir)**|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017](http://arxiv.org/abs/2307.05017)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
@@ -3653,7 +3653,7 @@ layout: default
 |**2024-09-15**|**Enhancing Weakly-Supervised Object Detection on Static Images through (Hallucinated) Motion**|Cagri Gungor et.al.|[2409.09616](http://arxiv.org/abs/2409.09616)|null|
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
-|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|null|
+|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|**[link](https://github.com/unique-chan/nbbox)**|
 |**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
 |**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
@@ -3862,7 +3862,7 @@ layout: default
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-09**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|**[link](https://github.com/ylwhxht/l4dr)**|
 |**2024-08-07**|**Designing Extremely Memory-Efficient CNNs for On-device Vision Tasks**|Jaewook Lee et.al.|[2408.03663](http://arxiv.org/abs/2408.03663)|null|
-|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|**[link](https://github.com/Zhourobotics/Query-3DGS-LLM)**|
 |**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
 |**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
 |**2024-08-06**|**Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods**|Fazli Wahid et.al.|[2408.03393](http://arxiv.org/abs/2408.03393)|null|
@@ -3878,7 +3878,7 @@ layout: default
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-20**|**An Efficient Real-Time Object Detection Framework on Resource-Constricted Hardware Devices via Software and Hardware Co-design**|Mingshuo Liu et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-18**|**Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2408.01433](http://arxiv.org/abs/2408.01433)|null|
-|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
+|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|**[link](https://github.com/rederoth/aiconic_scandy)**|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
@@ -5054,7 +5054,7 @@ layout: default
 |**2024-09-15**|**Enhancing Weakly-Supervised Object Detection on Static Images through (Hallucinated) Motion**|Cagri Gungor et.al.|[2409.09616](http://arxiv.org/abs/2409.09616)|null|
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
-|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|null|
+|**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|**[link](https://github.com/unique-chan/nbbox)**|
 |**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
 |**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
@@ -5263,7 +5263,7 @@ layout: default
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-09**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|**[link](https://github.com/ylwhxht/l4dr)**|
 |**2024-08-07**|**Designing Extremely Memory-Efficient CNNs for On-device Vision Tasks**|Jaewook Lee et.al.|[2408.03663](http://arxiv.org/abs/2408.03663)|null|
-|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|**[link](https://github.com/Zhourobotics/Query-3DGS-LLM)**|
 |**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
 |**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
 |**2024-08-06**|**Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods**|Fazli Wahid et.al.|[2408.03393](http://arxiv.org/abs/2408.03393)|null|
@@ -5279,7 +5279,7 @@ layout: default
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-20**|**An Efficient Real-Time Object Detection Framework on Resource-Constricted Hardware Devices via Software and Hardware Co-design**|Mingshuo Liu et.al.|[2408.01534](http://arxiv.org/abs/2408.01534)|null|
 |**2024-07-18**|**Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2408.01433](http://arxiv.org/abs/2408.01433)|null|
-|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
+|**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|**[link](https://github.com/rederoth/aiconic_scandy)**|
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|**[link](https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization)**|
 |**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
 |**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/abs/2408.01085)|null|
