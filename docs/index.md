@@ -3052,7 +3052,7 @@ layout: default
 |**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297](http://arxiv.org/abs/2501.07297)|**[link](https://github.com/zhimengxin/rcod)**|
 |**2025-01-13**|**Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection**|ZhouRui Zhang et.al.|[2501.07101](http://arxiv.org/abs/2501.07101)|null|
 |**2025-01-11**|**CoreNet: Conflict Resolution Network for Point-Pixel Misalignment and Sub-Task Suppression of 3D LiDAR-Camera Object Detection**|Yiheng Li et.al.|[2501.06550](http://arxiv.org/abs/2501.06550)|**[link](https://github.com/liyih/corenet)**|
-|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|null|
+|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|**[link](https://github.com/Att100/CPDR)**|
 |**2025-01-11**|**FocusDD: Real-World Scene Infusion for Robust Dataset Distillation**|Youbing Hu et.al.|[2501.06405](http://arxiv.org/abs/2501.06405)|null|
 |**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038](http://arxiv.org/abs/2501.06038)|null|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
@@ -4482,7 +4482,7 @@ layout: default
 |**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297](http://arxiv.org/abs/2501.07297)|**[link](https://github.com/zhimengxin/rcod)**|
 |**2025-01-13**|**Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection**|ZhouRui Zhang et.al.|[2501.07101](http://arxiv.org/abs/2501.07101)|null|
 |**2025-01-11**|**CoreNet: Conflict Resolution Network for Point-Pixel Misalignment and Sub-Task Suppression of 3D LiDAR-Camera Object Detection**|Yiheng Li et.al.|[2501.06550](http://arxiv.org/abs/2501.06550)|**[link](https://github.com/liyih/corenet)**|
-|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|null|
+|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|**[link](https://github.com/Att100/CPDR)**|
 |**2025-01-11**|**FocusDD: Real-World Scene Infusion for Robust Dataset Distillation**|Youbing Hu et.al.|[2501.06405](http://arxiv.org/abs/2501.06405)|null|
 |**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038](http://arxiv.org/abs/2501.06038)|null|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
