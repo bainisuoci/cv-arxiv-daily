@@ -3058,6 +3058,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
+|**2025-01-17**|**Leveraging Confident Image Regions for Source-Free Domain-Adaptive Object Detection**|Mohamed Lamine Mekhalfi et.al.|[2501.10081](http://arxiv.org/abs/2501.10081)|null|
+|**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
+|**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
@@ -4490,6 +4495,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
+|**2025-01-17**|**Leveraging Confident Image Regions for Source-Free Domain-Adaptive Object Detection**|Mohamed Lamine Mekhalfi et.al.|[2501.10081](http://arxiv.org/abs/2501.10081)|null|
+|**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
+|**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
