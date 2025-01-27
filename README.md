@@ -2079,7 +2079,7 @@
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
-|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|**[link](https://github.com/chengine/splatnav)**|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
@@ -3735,7 +3735,7 @@
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
 |**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|**[link](https://github.com/unique-chan/nbbox)**|
-|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
+|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|**[link](https://github.com/Madave94/multi-annotator-toolkit)**|
 |**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
 |**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
@@ -3768,7 +3768,7 @@
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
-|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|**[link](https://github.com/o937-blip/simir)**|
 |**2024-09-06**|**Multi-scale Feature Fusion with Point Pyramid for 3D Object Detection**|Weihao Lu et.al.|[2409.04601](http://arxiv.org/abs/2409.04601)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
 |**2024-09-06**|**UniDet3D: Multi-dataset Indoor 3D Object Detection**|Maksim Kolodiazhnyi et.al.|[2409.04234](http://arxiv.org/abs/2409.04234)|**[link](https://github.com/filapro/unidet3d)**|
@@ -4179,7 +4179,7 @@
 |**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
 |**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
 |**2024-06-22**|**MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception**|Guanqun Wang et.al.|[2406.15768](http://arxiv.org/abs/2406.15768)|null|
-|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
+|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|**[link](https://github.com/jason-lim26/dipex)**|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/XinyiYing/RGBT-Tiny)**|
 |**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370](http://arxiv.org/abs/2406.14370)|**[link](https://github.com/saifkhichi96/ssbi-dataset)**|
@@ -5193,7 +5193,7 @@
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|**[link](https://github.com/csysi/glconet)**|
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
 |**2024-09-14**|**NBBOX: Noisy Bounding Box Improves Remote Sensing Object Detection**|Yechan Kim et.al.|[2409.09424](http://arxiv.org/abs/2409.09424)|**[link](https://github.com/unique-chan/nbbox)**|
-|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|null|
+|**2024-09-14**|**Label Convergence: Defining an Upper Performance Bound in Object Recognition through Contradictory Annotations**|David Tschirschwitz et.al.|[2409.09412](http://arxiv.org/abs/2409.09412)|**[link](https://github.com/Madave94/multi-annotator-toolkit)**|
 |**2024-09-11**|**Distributed Convolutional Neural Network Training on Mobile and Edge Clusters**|Pranav Rama et.al.|[2409.09083](http://arxiv.org/abs/2409.09083)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
 |**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840](http://arxiv.org/abs/2409.08840)|null|
@@ -5226,7 +5226,7 @@
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817](http://arxiv.org/abs/2409.04817)|**[link](https://github.com/liuzywen/ssfam)**|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
-|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|**[link](https://github.com/o937-blip/simir)**|
 |**2024-09-06**|**Multi-scale Feature Fusion with Point Pyramid for 3D Object Detection**|Weihao Lu et.al.|[2409.04601](http://arxiv.org/abs/2409.04601)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
 |**2024-09-06**|**UniDet3D: Multi-dataset Indoor 3D Object Detection**|Maksim Kolodiazhnyi et.al.|[2409.04234](http://arxiv.org/abs/2409.04234)|**[link](https://github.com/filapro/unidet3d)**|
@@ -5637,7 +5637,7 @@
 |**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
 |**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805](http://arxiv.org/abs/2406.15805)|**[link](https://github.com/hzx-9894/mma)**|
 |**2024-06-22**|**MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception**|Guanqun Wang et.al.|[2406.15768](http://arxiv.org/abs/2406.15768)|null|
-|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
+|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|**[link](https://github.com/jason-lim26/dipex)**|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/XinyiYing/RGBT-Tiny)**|
 |**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370](http://arxiv.org/abs/2406.14370)|**[link](https://github.com/saifkhichi96/ssbi-dataset)**|
