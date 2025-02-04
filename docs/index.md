@@ -3041,10 +3041,10 @@ layout: default
 |**2025-01-30**|**Adaptive Object Detection for Indoor Navigation Assistance: A Performance Evaluation of Real-Time Algorithms**|Abhinav Pratap et.al.|[2501.18444](http://arxiv.org/abs/2501.18444)|null|
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412](http://arxiv.org/abs/2501.18412)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
-|**2025-01-29**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
+|**2025-02-03**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
 |**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977](http://arxiv.org/abs/2501.17977)|**[link](https://github.com/radar-lab/transrad)**|
 |**2025-01-28**|**Object Detection with Deep Learning for Rare Event Search in the GADGET II TPC**|Tyler Wheeler et.al.|[2501.17892](http://arxiv.org/abs/2501.17892)|null|
-|**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538](http://arxiv.org/abs/2501.17538)|null|
+|**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538](http://arxiv.org/abs/2501.17538)|**[link](https://github.com/burakulas/detocs)**|
 |**2025-01-30**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387](http://arxiv.org/abs/2501.17387)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
@@ -3092,7 +3092,7 @@ layout: default
 |**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
 |**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-23**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-31**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-30**|**Exploring AI-based System Design for Pixel-level Protected Health Information Detection in Medical Images**|Tuan Truong et.al.|[2501.09552](http://arxiv.org/abs/2501.09552)|null|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
@@ -4531,10 +4531,10 @@ layout: default
 |**2025-01-30**|**Adaptive Object Detection for Indoor Navigation Assistance: A Performance Evaluation of Real-Time Algorithms**|Abhinav Pratap et.al.|[2501.18444](http://arxiv.org/abs/2501.18444)|null|
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412](http://arxiv.org/abs/2501.18412)|null|
 |**2025-01-30**|**IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain**|Zhe Wang et.al.|[2501.18162](http://arxiv.org/abs/2501.18162)|null|
-|**2025-01-29**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
+|**2025-02-03**|**Efficient Feature Fusion for UAV Object Detection**|Xudong Wang et.al.|[2501.17983](http://arxiv.org/abs/2501.17983)|null|
 |**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977](http://arxiv.org/abs/2501.17977)|**[link](https://github.com/radar-lab/transrad)**|
 |**2025-01-28**|**Object Detection with Deep Learning for Rare Event Search in the GADGET II TPC**|Tyler Wheeler et.al.|[2501.17892](http://arxiv.org/abs/2501.17892)|null|
-|**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538](http://arxiv.org/abs/2501.17538)|null|
+|**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538](http://arxiv.org/abs/2501.17538)|**[link](https://github.com/burakulas/detocs)**|
 |**2025-01-30**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387](http://arxiv.org/abs/2501.17387)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
@@ -4582,7 +4582,7 @@ layout: default
 |**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
 |**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040](http://arxiv.org/abs/2501.10040)|**[link](https://github.com/lwcver/lwganet)**|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-23**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-31**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-30**|**Exploring AI-based System Design for Pixel-level Protected Health Information Detection in Medical Images**|Tuan Truong et.al.|[2501.09552](http://arxiv.org/abs/2501.09552)|null|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
@@ -6018,7 +6018,7 @@ layout: default
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-05**|**Enhancing Maritime Situational Awareness through End-to-End Onboard Raw Data Analysis**|Roberto Del Prete et.al.|[2411.03403](http://arxiv.org/abs/2411.03403)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
-|**2024-11-10**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2025-02-02**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-11**|**Advancements in Ship Detection: Comparative Analysis of Optical and Hyperspectral Sensors**|Alyazia Al Shamsi et.al.|[2410.10888](http://arxiv.org/abs/2410.10888)|null|
 |**2024-07-26**|**SMPISD-MTPNet: Scene Semantic Prior-Assisted Infrared Ship Detection Using Multi-Task Perception Networks**|Chen Hu et.al.|[2407.18487](http://arxiv.org/abs/2407.18487)|**[link](https://github.com/greekinroma/kmndnet)**|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
