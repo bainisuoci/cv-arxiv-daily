@@ -3034,6 +3034,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|
+|**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
+|**2025-02-19**|**An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**|Wanke Xia et.al.|[2502.13764](http://arxiv.org/abs/2502.13764)|null|
+|**2025-02-18**|**Multiple Distribution Shift -- Aerial (MDS-A): A Dataset for Test-Time Error Detection and Model Adaptation**|Noel Ngu et.al.|[2502.13289](http://arxiv.org/abs/2502.13289)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
 |**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
@@ -4602,6 +4606,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936](http://arxiv.org/abs/2502.13936)|null|
+|**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
+|**2025-02-19**|**An Overall Real-Time Mechanism for Classification and Quality Evaluation of Rice**|Wanke Xia et.al.|[2502.13764](http://arxiv.org/abs/2502.13764)|null|
+|**2025-02-18**|**Multiple Distribution Shift -- Aerial (MDS-A): A Dataset for Test-Time Error Detection and Model Adaptation**|Noel Ngu et.al.|[2502.13289](http://arxiv.org/abs/2502.13289)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
 |**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
@@ -6175,7 +6183,7 @@ layout: default
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-05**|**Enhancing Maritime Situational Awareness through End-to-End Onboard Raw Data Analysis**|Roberto Del Prete et.al.|[2411.03403](http://arxiv.org/abs/2411.03403)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
-|**2025-02-02**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2025-02-19**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-11**|**Advancements in Ship Detection: Comparative Analysis of Optical and Hyperspectral Sensors**|Alyazia Al Shamsi et.al.|[2410.10888](http://arxiv.org/abs/2410.10888)|null|
 |**2024-07-26**|**SMPISD-MTPNet: Scene Semantic Prior-Assisted Infrared Ship Detection Using Multi-Task Perception Networks**|Chen Hu et.al.|[2407.18487](http://arxiv.org/abs/2407.18487)|**[link](https://github.com/greekinroma/kmndnet)**|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
