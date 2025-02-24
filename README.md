@@ -3707,7 +3707,7 @@
 |**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|**[link](https://github.com/Coding-Rod/crime_detection)**|
 |**2024-10-12**|**An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**|Wei Liang et.al.|[2410.09443](http://arxiv.org/abs/2410.09443)|null|
 |**2024-10-12**|**Token Pruning using a Lightweight Background Aware Vision Transformer**|Sudhakar Sah et.al.|[2410.09324](http://arxiv.org/abs/2410.09324)|null|
-|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
+|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|**[link](https://github.com/therock90421/da-ada)**|
 |**2024-10-14**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|**[link](https://github.com/lime-j/lime-eval)**|
 |**2024-10-11**|**Hespi: A pipeline for automatically detecting information from hebarium specimen sheets**|Robert Turnbull et.al.|[2410.08740](http://arxiv.org/abs/2410.08740)|**[link](https://github.com/rbturnbull/hespi)**|
 |**2024-10-11**|**MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**|Qihang Yang et.al.|[2410.08739](http://arxiv.org/abs/2410.08739)|null|
@@ -4129,7 +4129,7 @@
 |**2024-07-26**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671](http://arxiv.org/abs/2407.17671)|**[link](https://github.com/isl-cv/udi)**|
 |**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664](http://arxiv.org/abs/2407.17664)|null|
 |**2024-07-24**|**PEEKABOO: Hiding parts of an image for unsupervised object localization**|Hasib Zunair et.al.|[2407.17628](http://arxiv.org/abs/2407.17628)|**[link](https://github.com/hasibzunair/peekaboo)**|
-|**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|null|
+|**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|**[link](https://github.com/cea-list/alpi)**|
 |**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/abs/2407.16955)|**[link](https://github.com/dop0/dvpe)**|
 |**2024-07-25**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/abs/2407.16789)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
 |**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665](http://arxiv.org/abs/2407.16665)|null|
@@ -5285,7 +5285,7 @@
 |**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|**[link](https://github.com/Coding-Rod/crime_detection)**|
 |**2024-10-12**|**An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**|Wei Liang et.al.|[2410.09443](http://arxiv.org/abs/2410.09443)|null|
 |**2024-10-12**|**Token Pruning using a Lightweight Background Aware Vision Transformer**|Sudhakar Sah et.al.|[2410.09324](http://arxiv.org/abs/2410.09324)|null|
-|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
+|**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|**[link](https://github.com/therock90421/da-ada)**|
 |**2024-10-14**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|**[link](https://github.com/lime-j/lime-eval)**|
 |**2024-10-11**|**Hespi: A pipeline for automatically detecting information from hebarium specimen sheets**|Robert Turnbull et.al.|[2410.08740](http://arxiv.org/abs/2410.08740)|**[link](https://github.com/rbturnbull/hespi)**|
 |**2024-10-11**|**MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**|Qihang Yang et.al.|[2410.08739](http://arxiv.org/abs/2410.08739)|null|
@@ -5707,7 +5707,7 @@
 |**2024-07-26**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671](http://arxiv.org/abs/2407.17671)|**[link](https://github.com/isl-cv/udi)**|
 |**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664](http://arxiv.org/abs/2407.17664)|null|
 |**2024-07-24**|**PEEKABOO: Hiding parts of an image for unsupervised object localization**|Hasib Zunair et.al.|[2407.17628](http://arxiv.org/abs/2407.17628)|**[link](https://github.com/hasibzunair/peekaboo)**|
-|**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|null|
+|**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|**[link](https://github.com/cea-list/alpi)**|
 |**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/abs/2407.16955)|**[link](https://github.com/dop0/dvpe)**|
 |**2024-07-25**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/abs/2407.16789)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
 |**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665](http://arxiv.org/abs/2407.16665)|null|
