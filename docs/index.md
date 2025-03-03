@@ -3034,8 +3034,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection**|Rishi Mukherjee et.al.|[2502.20651](http://arxiv.org/abs/2502.20651)|null|
+|**2025-02-28**|**RTGen: Real-Time Generative Detection Transformer**|Chi Ruan et.al.|[2502.20622](http://arxiv.org/abs/2502.20622)|null|
+|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|null|
 |**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
-|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|null|
+|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|**[link](https://github.com/lmmmeng/overlock)**|
 |**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054](http://arxiv.org/abs/2502.20054)|null|
 |**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694](http://arxiv.org/abs/2502.19694)|null|
@@ -3096,7 +3099,7 @@ layout: default
 |**2025-02-11**|**Dense Object Detection Based on De-homogenized Queries**|Yueming Huang et.al.|[2502.07194](http://arxiv.org/abs/2502.07194)|null|
 |**2025-02-11**|**Foreign-Object Detection in High-Voltage Transmission Line Based on Improved YOLOv8m**|Zhenyue Wang et.al.|[2502.07175](http://arxiv.org/abs/2502.07175)|null|
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
-|**2025-02-10**|**Multimodal Search on a Line**|Jared Coleman et.al.|[2502.07000](http://arxiv.org/abs/2502.07000)|null|
+|**2025-02-28**|**Multimodal Search on a Line**|Jared Coleman et.al.|[2502.07000](http://arxiv.org/abs/2502.07000)|null|
 |**2025-02-09**|**Secure Visual Data Processing via Federated Learning**|Pedro Santos et.al.|[2502.06889](http://arxiv.org/abs/2502.06889)|null|
 |**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
 |**2025-02-10**|**EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices**|Akhila Matathammal et.al.|[2502.06493](http://arxiv.org/abs/2502.06493)|null|
@@ -4636,8 +4639,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection**|Rishi Mukherjee et.al.|[2502.20651](http://arxiv.org/abs/2502.20651)|null|
+|**2025-02-28**|**RTGen: Real-Time Generative Detection Transformer**|Chi Ruan et.al.|[2502.20622](http://arxiv.org/abs/2502.20622)|null|
+|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|null|
 |**2025-02-27**|**Multi-Scale Neighborhood Occupancy Masked Autoencoder for Self-Supervised Learning in LiDAR Point Clouds**|Mohamed Abdelsamad et.al.|[2502.20316](http://arxiv.org/abs/2502.20316)|null|
-|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|null|
+|**2025-02-27**|**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**|Meng Lou et.al.|[2502.20087](http://arxiv.org/abs/2502.20087)|**[link](https://github.com/lmmmeng/overlock)**|
 |**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054](http://arxiv.org/abs/2502.20054)|null|
 |**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694](http://arxiv.org/abs/2502.19694)|null|
@@ -4698,7 +4704,7 @@ layout: default
 |**2025-02-11**|**Dense Object Detection Based on De-homogenized Queries**|Yueming Huang et.al.|[2502.07194](http://arxiv.org/abs/2502.07194)|null|
 |**2025-02-11**|**Foreign-Object Detection in High-Voltage Transmission Line Based on Improved YOLOv8m**|Zhenyue Wang et.al.|[2502.07175](http://arxiv.org/abs/2502.07175)|null|
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
-|**2025-02-10**|**Multimodal Search on a Line**|Jared Coleman et.al.|[2502.07000](http://arxiv.org/abs/2502.07000)|null|
+|**2025-02-28**|**Multimodal Search on a Line**|Jared Coleman et.al.|[2502.07000](http://arxiv.org/abs/2502.07000)|null|
 |**2025-02-09**|**Secure Visual Data Processing via Federated Learning**|Pedro Santos et.al.|[2502.06889](http://arxiv.org/abs/2502.06889)|null|
 |**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
 |**2025-02-10**|**EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices**|Akhila Matathammal et.al.|[2502.06493](http://arxiv.org/abs/2502.06493)|null|
