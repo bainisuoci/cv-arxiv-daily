@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3111,7 +3111,7 @@ layout: default
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683](http://arxiv.org/abs/2502.10683)|null|
 |**2025-02-12**|**Deep Reinforcement Learning-Based User Scheduling for Collaborative Perception**|Yandi Liu et.al.|[2502.10456](http://arxiv.org/abs/2502.10456)|null|
 |**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|**[link](https://github.com/gwxuan/tsp3d)**|
-|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|null|
+|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|**[link](https://github.com/omar9008-eng/Object-Detection-Tracking-2025)**|
 |**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|**[link](https://github.com/stmharry/dental-pano-ai)**|
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
 |**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|**[link](https://github.com/yuyi1005/whollywood)**|
@@ -4747,7 +4747,7 @@ layout: default
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683](http://arxiv.org/abs/2502.10683)|null|
 |**2025-02-12**|**Deep Reinforcement Learning-Based User Scheduling for Collaborative Perception**|Yandi Liu et.al.|[2502.10456](http://arxiv.org/abs/2502.10456)|null|
 |**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|**[link](https://github.com/gwxuan/tsp3d)**|
-|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|null|
+|**2025-02-14**|**Object Detection and Tracking**|Md Pranto et.al.|[2502.10310](http://arxiv.org/abs/2502.10310)|**[link](https://github.com/omar9008-eng/Object-Detection-Tracking-2025)**|
 |**2025-02-14**|**Artificial Intelligence to Assess Dental Findings from Panoramic Radiographs -- A Multinational Study**|Yin-Chih Chelsea Wang et.al.|[2502.10277](http://arxiv.org/abs/2502.10277)|**[link](https://github.com/stmharry/dental-pano-ai)**|
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
 |**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471](http://arxiv.org/abs/2502.09471)|**[link](https://github.com/yuyi1005/whollywood)**|
