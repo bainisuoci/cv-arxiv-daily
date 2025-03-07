@@ -2914,6 +2914,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
 |**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
 |**2025-01-30**|**Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios**|David El-Chai Ben-Ezra et.al.|[2501.18788](http://arxiv.org/abs/2501.18788)|null|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
@@ -3060,13 +3062,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**A lightweight model FDM-YOLO for small target improvement based on YOLOv8**|Xuerui Zhang et.al.|[2503.04452](http://arxiv.org/abs/2503.04452)|null|
+|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
+|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
+|**2025-03-06**|**Robust Computer-Vision based Construction Site Detection for Assistive-Technology Applications**|Junchi Feng et.al.|[2503.04139](http://arxiv.org/abs/2503.04139)|null|
+|**2025-03-06**|**Fractional Correspondence Framework in Detection Transformer**|Masoumeh Zareapoor et.al.|[2503.04107](http://arxiv.org/abs/2503.04107)|null|
+|**2025-03-04**|**ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge**|Radu Berdan et.al.|[2503.03782](http://arxiv.org/abs/2503.03782)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
 |**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-05**|**AI-Driven Multi-Stage Computer Vision System for Defect Detection in Laser-Engraved Industrial Nameplates**|Adhish Anitha Vilasan et.al.|[2503.03395](http://arxiv.org/abs/2503.03395)|null|
-|**2025-03-05**|**MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images**|Nimra Dilawar et.al.|[2503.03370](http://arxiv.org/abs/2503.03370)|null|
+|**2025-03-06**|**MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images**|Nimra Dilawar et.al.|[2503.03370](http://arxiv.org/abs/2503.03370)|null|
 |**2025-03-05**|**BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation**|Hiep Truong Cong et.al.|[2503.03280](http://arxiv.org/abs/2503.03280)|null|
-|**2025-03-04**|**LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset**|Wenqi Guo et.al.|[2503.02910](http://arxiv.org/abs/2503.02910)|null|
+|**2025-03-06**|**LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset**|Wenqi Guo et.al.|[2503.02910](http://arxiv.org/abs/2503.02910)|null|
 |**2025-03-03**|**ClipGrader: Leveraging Vision-Language Models for Robust Label Quality Assessment in Object Detection**|Hong Lu et.al.|[2503.02897](http://arxiv.org/abs/2503.02897)|null|
 |**2025-02-26**|**Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies**|Shaibal Saha et.al.|[2503.02891](http://arxiv.org/abs/2503.02891)|null|
 |**2025-03-04**|**Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?**|Miao Zhang et.al.|[2503.02687](http://arxiv.org/abs/2503.02687)|null|
@@ -4698,13 +4710,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
+|**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
+|**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
+|**2025-03-06**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
+|**2025-03-06**|**A lightweight model FDM-YOLO for small target improvement based on YOLOv8**|Xuerui Zhang et.al.|[2503.04452](http://arxiv.org/abs/2503.04452)|null|
+|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
+|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
+|**2025-03-06**|**Robust Computer-Vision based Construction Site Detection for Assistive-Technology Applications**|Junchi Feng et.al.|[2503.04139](http://arxiv.org/abs/2503.04139)|null|
+|**2025-03-06**|**Fractional Correspondence Framework in Detection Transformer**|Masoumeh Zareapoor et.al.|[2503.04107](http://arxiv.org/abs/2503.04107)|null|
+|**2025-03-04**|**ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge**|Radu Berdan et.al.|[2503.03782](http://arxiv.org/abs/2503.03782)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
 |**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-05**|**AI-Driven Multi-Stage Computer Vision System for Defect Detection in Laser-Engraved Industrial Nameplates**|Adhish Anitha Vilasan et.al.|[2503.03395](http://arxiv.org/abs/2503.03395)|null|
-|**2025-03-05**|**MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images**|Nimra Dilawar et.al.|[2503.03370](http://arxiv.org/abs/2503.03370)|null|
+|**2025-03-06**|**MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images**|Nimra Dilawar et.al.|[2503.03370](http://arxiv.org/abs/2503.03370)|null|
 |**2025-03-05**|**BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation**|Hiep Truong Cong et.al.|[2503.03280](http://arxiv.org/abs/2503.03280)|null|
-|**2025-03-04**|**LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset**|Wenqi Guo et.al.|[2503.02910](http://arxiv.org/abs/2503.02910)|null|
+|**2025-03-06**|**LangGas: Introducing Language in Selective Zero-Shot Background Subtraction for Semi-Transparent Gas Leak Detection with a New Dataset**|Wenqi Guo et.al.|[2503.02910](http://arxiv.org/abs/2503.02910)|null|
 |**2025-03-03**|**ClipGrader: Leveraging Vision-Language Models for Robust Label Quality Assessment in Object Detection**|Hong Lu et.al.|[2503.02897](http://arxiv.org/abs/2503.02897)|null|
 |**2025-02-26**|**Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies**|Shaibal Saha et.al.|[2503.02891](http://arxiv.org/abs/2503.02891)|null|
 |**2025-03-04**|**Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?**|Miao Zhang et.al.|[2503.02687](http://arxiv.org/abs/2503.02687)|null|
