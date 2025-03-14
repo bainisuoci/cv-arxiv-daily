@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3044,7 +3044,7 @@ layout: default
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
 |**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|null|
 |**2025-03-11**|**SuperCap: Multi-resolution Superpixel-based Image Captioning**|Henry Senior et.al.|[2503.08496](http://arxiv.org/abs/2503.08496)|null|
-|**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
+|**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
 |**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
@@ -3064,7 +3064,7 @@ layout: default
 |**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948](http://arxiv.org/abs/2503.06948)|null|
-|**2025-03-09**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2503.06529](http://arxiv.org/abs/2503.06529)|**[link](https://github.com/hku-tasr/anywheredoor)**|
+|**2025-03-13**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2503.06529](http://arxiv.org/abs/2503.06529)|**[link](https://github.com/hku-tasr/anywheredoor)**|
 |**2025-03-09**|**Enhancing Layer Attention Efficiency through Pruning Redundant Retrievals**|Hanze Li et.al.|[2503.06473](http://arxiv.org/abs/2503.06473)|null|
 |**2025-03-09**|**SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**|Shijia Zhao et.al.|[2503.06467](http://arxiv.org/abs/2503.06467)|null|
 |**2025-03-09**|**OV-SCAN: Semantically Consistent Alignment for Novel Object Discovery in Open-Vocabulary 3D Object Detection**|Adrian Chow et.al.|[2503.06435](http://arxiv.org/abs/2503.06435)|null|
@@ -4733,7 +4733,7 @@ layout: default
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
 |**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|null|
 |**2025-03-11**|**SuperCap: Multi-resolution Superpixel-based Image Captioning**|Henry Senior et.al.|[2503.08496](http://arxiv.org/abs/2503.08496)|null|
-|**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
+|**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
 |**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
@@ -4753,7 +4753,7 @@ layout: default
 |**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948](http://arxiv.org/abs/2503.06948)|null|
-|**2025-03-09**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2503.06529](http://arxiv.org/abs/2503.06529)|**[link](https://github.com/hku-tasr/anywheredoor)**|
+|**2025-03-13**|**AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**|Jialin Lu et.al.|[2503.06529](http://arxiv.org/abs/2503.06529)|**[link](https://github.com/hku-tasr/anywheredoor)**|
 |**2025-03-09**|**Enhancing Layer Attention Efficiency through Pruning Redundant Retrievals**|Hanze Li et.al.|[2503.06473](http://arxiv.org/abs/2503.06473)|null|
 |**2025-03-09**|**SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**|Shijia Zhao et.al.|[2503.06467](http://arxiv.org/abs/2503.06467)|null|
 |**2025-03-09**|**OV-SCAN: Semantically Consistent Alignment for Novel Object Discovery in Open-Vocabulary 3D Object Detection**|Adrian Chow et.al.|[2503.06435](http://arxiv.org/abs/2503.06435)|null|
