@@ -2902,6 +2902,7 @@ layout: default
 |**2024-12-16**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
 |**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
 |**2025-01-08**|**YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2412.05394](http://arxiv.org/abs/2412.05394)|null|
+|**2025-03-12**|**GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks**|Muhammad Sohail Danish et.al.|[2411.19325](http://arxiv.org/abs/2411.19325)|**[link](https://github.com/the-ai-alliance/geo-bench-vlm)**|
 |**2024-11-28**|**Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection**|Junwei Feng et.al.|[2411.19071](http://arxiv.org/abs/2411.19071)|null|
 |**2024-12-27**|**DGNN-YOLO: Interpretable Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
 |**2025-01-13**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477](http://arxiv.org/abs/2411.11477)|null|
@@ -3036,6 +3037,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|null|
+|**2025-03-13**|**Object detection characteristics in a learning factory environment using YOLOv8**|Toni Schneidereit et.al.|[2503.10356](http://arxiv.org/abs/2503.10356)|null|
+|**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
+|**2025-03-13**|**A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection**|Shenghao Fu et.al.|[2503.10152](http://arxiv.org/abs/2503.10152)|null|
+|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129](http://arxiv.org/abs/2503.10129)|null|
+|**2025-03-13**|**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2503.09968](http://arxiv.org/abs/2503.09968)|null|
+|**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
+|**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807](http://arxiv.org/abs/2503.09807)|null|
+|**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[2503.09803](http://arxiv.org/abs/2503.09803)|null|
+|**2025-03-12**|**Towards Hardware Supported Domain Generalization in DNN-Based Edge Computing Devices for Health Monitoring**|Johnson Loh et.al.|[2503.09661](http://arxiv.org/abs/2503.09661)|null|
 |**2025-03-12**|**Deep Learning for Climate Action: Computer Vision Analysis of Visual Narratives on X**|Katharina Prasse et.al.|[2503.09361](http://arxiv.org/abs/2503.09361)|null|
 |**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354](http://arxiv.org/abs/2503.09354)|null|
 |**2025-03-12**|**DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection**|Chiara Cappellino et.al.|[2503.09271](http://arxiv.org/abs/2503.09271)|null|
@@ -4725,6 +4738,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392](http://arxiv.org/abs/2503.10392)|null|
+|**2025-03-13**|**Object detection characteristics in a learning factory environment using YOLOv8**|Toni Schneidereit et.al.|[2503.10356](http://arxiv.org/abs/2503.10356)|null|
+|**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
+|**2025-03-13**|**A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection**|Shenghao Fu et.al.|[2503.10152](http://arxiv.org/abs/2503.10152)|null|
+|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129](http://arxiv.org/abs/2503.10129)|null|
+|**2025-03-13**|**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2503.09968](http://arxiv.org/abs/2503.09968)|null|
+|**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
+|**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807](http://arxiv.org/abs/2503.09807)|null|
+|**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[2503.09803](http://arxiv.org/abs/2503.09803)|null|
+|**2025-03-12**|**Towards Hardware Supported Domain Generalization in DNN-Based Edge Computing Devices for Health Monitoring**|Johnson Loh et.al.|[2503.09661](http://arxiv.org/abs/2503.09661)|null|
 |**2025-03-12**|**Deep Learning for Climate Action: Computer Vision Analysis of Visual Narratives on X**|Katharina Prasse et.al.|[2503.09361](http://arxiv.org/abs/2503.09361)|null|
 |**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354](http://arxiv.org/abs/2503.09354)|null|
 |**2025-03-12**|**DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection**|Chiara Cappellino et.al.|[2503.09271](http://arxiv.org/abs/2503.09271)|null|
