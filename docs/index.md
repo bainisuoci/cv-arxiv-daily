@@ -3037,10 +3037,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
+|**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
+|**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
+|**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
+|**2025-03-15**|**An Efficient Deep Learning-Based Approach to Automating Invoice Document Validation**|Aziz Amari et.al.|[2503.12267](http://arxiv.org/abs/2503.12267)|null|
+|**2025-03-15**|**Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing**|Boyu Chen et.al.|[2503.12249](http://arxiv.org/abs/2503.12249)|null|
+|**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093](http://arxiv.org/abs/2503.12093)|null|
+|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
+|**2025-03-14**|**Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning**|Tianyi Zhao et.al.|[2503.11780](http://arxiv.org/abs/2503.11780)|null|
 |**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538](http://arxiv.org/abs/2503.11538)|null|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
 |**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
-|**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
+|**2025-03-17**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
 |**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|null|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
@@ -3060,7 +3070,7 @@ layout: default
 |**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354](http://arxiv.org/abs/2503.09354)|null|
 |**2025-03-12**|**DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection**|Chiara Cappellino et.al.|[2503.09271](http://arxiv.org/abs/2503.09271)|null|
 |**2025-03-12**|**Polygonizing Roof Segments from High-Resolution Aerial Images Using Yolov8-Based Edge Detection**|Qipeng Mei et.al.|[2503.09187](http://arxiv.org/abs/2503.09187)|null|
-|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
+|**2025-03-17**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
 |**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|**[link](https://github.com/idea-research/rexseek)**|
 |**2025-03-11**|**SuperCap: Multi-resolution Superpixel-based Image Captioning**|Henry Senior et.al.|[2503.08496](http://arxiv.org/abs/2503.08496)|null|
@@ -4745,10 +4755,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
+|**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
+|**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
+|**2025-03-16**|**GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing**|Zilun Zhang et.al.|[2503.12490](http://arxiv.org/abs/2503.12490)|null|
+|**2025-03-15**|**An Efficient Deep Learning-Based Approach to Automating Invoice Document Validation**|Aziz Amari et.al.|[2503.12267](http://arxiv.org/abs/2503.12267)|null|
+|**2025-03-15**|**Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing**|Boyu Chen et.al.|[2503.12249](http://arxiv.org/abs/2503.12249)|null|
+|**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093](http://arxiv.org/abs/2503.12093)|null|
+|**2025-03-15**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
+|**2025-03-14**|**Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning**|Tianyi Zhao et.al.|[2503.11780](http://arxiv.org/abs/2503.11780)|null|
 |**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538](http://arxiv.org/abs/2503.11538)|null|
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|null|
 |**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
-|**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
+|**2025-03-17**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
 |**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|null|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
@@ -4768,7 +4788,7 @@ layout: default
 |**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354](http://arxiv.org/abs/2503.09354)|null|
 |**2025-03-12**|**DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection**|Chiara Cappellino et.al.|[2503.09271](http://arxiv.org/abs/2503.09271)|null|
 |**2025-03-12**|**Polygonizing Roof Segments from High-Resolution Aerial Images Using Yolov8-Based Edge Detection**|Qipeng Mei et.al.|[2503.09187](http://arxiv.org/abs/2503.09187)|null|
-|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
+|**2025-03-17**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992](http://arxiv.org/abs/2503.08992)|null|
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
 |**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|**[link](https://github.com/idea-research/rexseek)**|
 |**2025-03-11**|**SuperCap: Multi-resolution Superpixel-based Image Captioning**|Henry Senior et.al.|[2503.08496](http://arxiv.org/abs/2503.08496)|null|
