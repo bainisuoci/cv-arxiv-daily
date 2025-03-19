@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883](http://arxiv.org/abs/2503.13883)|null|
 |**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
 |**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](http://arxiv.org/abs/2503.04500)|null|
 |**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
@@ -3037,6 +3038,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
+|**2025-03-18**|**Shift, Scale and Rotation Invariant Multiple Object Detection using Balanced Joint Transform Correlator**|Xi Shen et.al.|[2503.14034](http://arxiv.org/abs/2503.14034)|null|
+|**2025-03-18**|**LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**|Wei Lu et.al.|[2503.14012](http://arxiv.org/abs/2503.14012)|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951](http://arxiv.org/abs/2503.13951)|null|
+|**2025-03-18**|**Is Discretization Fusion All You Need for Collaborative Perception?**|Kang Yang et.al.|[2503.13946](http://arxiv.org/abs/2503.13946)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
+|**2025-03-18**|**HSOD-BIT-V2: A New Challenging Benchmarkfor Hyperspectral Salient Object Detection**|Yuhao Qiu et.al.|[2503.13906](http://arxiv.org/abs/2503.13906)|null|
+|**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
+|**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883](http://arxiv.org/abs/2503.13883)|null|
+|**2025-03-18**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al.|[2503.13794](http://arxiv.org/abs/2503.13794)|null|
+|**2025-03-17**|**8-Calves Image dataset**|Xuyang Fang et.al.|[2503.13777](http://arxiv.org/abs/2503.13777)|null|
+|**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743](http://arxiv.org/abs/2503.13743)|null|
+|**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
+|**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
 |**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
 |**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
@@ -4755,6 +4771,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
+|**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
+|**2025-03-18**|**Shift, Scale and Rotation Invariant Multiple Object Detection using Balanced Joint Transform Correlator**|Xi Shen et.al.|[2503.14034](http://arxiv.org/abs/2503.14034)|null|
+|**2025-03-18**|**LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**|Wei Lu et.al.|[2503.14012](http://arxiv.org/abs/2503.14012)|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951](http://arxiv.org/abs/2503.13951)|null|
+|**2025-03-18**|**Is Discretization Fusion All You Need for Collaborative Perception?**|Kang Yang et.al.|[2503.13946](http://arxiv.org/abs/2503.13946)|null|
+|**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
+|**2025-03-18**|**HSOD-BIT-V2: A New Challenging Benchmarkfor Hyperspectral Salient Object Detection**|Yuhao Qiu et.al.|[2503.13906](http://arxiv.org/abs/2503.13906)|null|
+|**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
+|**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883](http://arxiv.org/abs/2503.13883)|null|
+|**2025-03-18**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al.|[2503.13794](http://arxiv.org/abs/2503.13794)|null|
+|**2025-03-17**|**8-Calves Image dataset**|Xuyang Fang et.al.|[2503.13777](http://arxiv.org/abs/2503.13777)|null|
+|**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743](http://arxiv.org/abs/2503.13743)|null|
+|**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
+|**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-17**|**Beyond RGB: Adaptive Parallel Processing for RAW Object Detection**|Shani Gamrian et.al.|[2503.13163](http://arxiv.org/abs/2503.13163)|null|
 |**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982](http://arxiv.org/abs/2503.12982)|null|
 |**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
