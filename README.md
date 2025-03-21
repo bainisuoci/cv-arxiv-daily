@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## 小目标
 
@@ -2923,7 +2923,7 @@
 |**2024-12-16**|**Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning**|Chang Xu et.al.|[2412.11582](http://arxiv.org/abs/2412.11582)|null|
 |**2024-12-13**|**PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation**|Lojze Žust et.al.|[2412.10589](http://arxiv.org/abs/2412.10589)|**[link](https://github.com/lojzezust/pansr)**|
 |**2024-12-12**|**Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach**|Kailas PS et.al.|[2412.10453](http://arxiv.org/abs/2412.10453)|null|
-|**2024-12-23**|**HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection**|Zican Shi et.al.|[2412.10116](http://arxiv.org/abs/2412.10116)|null|
+|**2025-03-20**|**HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection**|Zican Shi et.al.|[2412.10116](http://arxiv.org/abs/2412.10116)|null|
 |**2024-12-16**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
 |**2024-12-08**|**Tiny Object Detection with Single Point Supervision**|Haoran Zhu et.al.|[2412.05837](http://arxiv.org/abs/2412.05837)|null|
 |**2025-01-08**|**YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2412.05394](http://arxiv.org/abs/2412.05394)|null|
@@ -3058,7 +3058,7 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## object detection
 
@@ -3069,7 +3069,7 @@
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|null|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
-|**2025-03-19**|**Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark**|Ying Liu et.al.|[2503.14862](http://arxiv.org/abs/2503.14862)|null|
+|**2025-03-20**|**Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark**|Ying Liu et.al.|[2503.14862](http://arxiv.org/abs/2503.14862)|null|
 |**2025-03-17**|**Ship Detection in Remote Sensing Imagery for Arbitrarily Oriented Object Detection**|Bibi Erum Ayesha et.al.|[2503.14534](http://arxiv.org/abs/2503.14534)|null|
 |**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
@@ -3126,7 +3126,7 @@
 |**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|**[link](https://github.com/xmuqimingxia/dota)**|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
-|**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
+|**2025-03-20**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
 |**2025-03-12**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101](http://arxiv.org/abs/2503.08101)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
@@ -4800,7 +4800,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Remote Sensing Image
 
@@ -4811,7 +4811,7 @@
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|null|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
-|**2025-03-19**|**Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark**|Ying Liu et.al.|[2503.14862](http://arxiv.org/abs/2503.14862)|null|
+|**2025-03-20**|**Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark**|Ying Liu et.al.|[2503.14862](http://arxiv.org/abs/2503.14862)|null|
 |**2025-03-17**|**Ship Detection in Remote Sensing Imagery for Arbitrarily Oriented Object Detection**|Bibi Erum Ayesha et.al.|[2503.14534](http://arxiv.org/abs/2503.14534)|null|
 |**2025-03-19**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/abs/2503.14493)|null|
 |**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
@@ -4868,7 +4868,7 @@
 |**2025-03-13**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|**[link](https://github.com/xmuqimingxia/dota)**|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-03-11**|**Physics-based AI methodology for Material Parameter Extraction from Optical Data**|M. Koumans et.al.|[2503.08183](http://arxiv.org/abs/2503.08183)|null|
-|**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
+|**2025-03-20**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
 |**2025-03-12**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101](http://arxiv.org/abs/2503.08101)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
@@ -6542,7 +6542,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 ## Ship detection
 
@@ -6604,7 +6604,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
