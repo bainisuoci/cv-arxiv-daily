@@ -3038,6 +3038,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
+|**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125](http://arxiv.org/abs/2503.16125)|null|
+|**2025-03-20**|**Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution**|Wanshu Fan et.al.|[2503.16056](http://arxiv.org/abs/2503.16056)|null|
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
 |**2025-03-19**|**Test-Time Backdoor Detection for Object Detection Models**|Hangtao Zhang et.al.|[2503.15293](http://arxiv.org/abs/2503.15293)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
@@ -4778,6 +4782,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
+|**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125](http://arxiv.org/abs/2503.16125)|null|
+|**2025-03-20**|**Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution**|Wanshu Fan et.al.|[2503.16056](http://arxiv.org/abs/2503.16056)|null|
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
 |**2025-03-19**|**Test-Time Backdoor Detection for Object Detection Models**|Hangtao Zhang et.al.|[2503.15293](http://arxiv.org/abs/2503.15293)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
