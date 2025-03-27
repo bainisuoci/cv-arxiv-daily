@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785](http://arxiv.org/abs/2503.18785)|null|
 |**2025-03-18**|**YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multi-Branch Feature Interaction**|Ziyu Lin et.al.|[2503.13883](http://arxiv.org/abs/2503.13883)|null|
 |**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
@@ -3039,6 +3040,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
+|**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
+|**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
 |**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
@@ -3061,7 +3067,7 @@ layout: default
 |**2025-03-21**|**An Iterative Feedback Mechanism for Improving Natural Language Class Descriptions in Open-Vocabulary Object Detection**|Louis Y. Kim et.al.|[2503.17285](http://arxiv.org/abs/2503.17285)|null|
 |**2025-03-25**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
 |**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
-|**2025-03-21**|**R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**|Jonas Mirlach et.al.|[2503.17122](http://arxiv.org/abs/2503.17122)|null|
+|**2025-03-26**|**R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**|Jonas Mirlach et.al.|[2503.17122](http://arxiv.org/abs/2503.17122)|null|
 |**2025-03-21**|**Exploring Few-Shot Object Detection on Blood Smear Images: A Case Study of Leukocytes and Schistocytes**|Davide Antonio Mura et.al.|[2503.17107](http://arxiv.org/abs/2503.17107)|null|
 |**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
 |**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071](http://arxiv.org/abs/2503.17071)|null|
@@ -4817,6 +4823,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
+|**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
+|**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
 |**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
@@ -4839,7 +4850,7 @@ layout: default
 |**2025-03-21**|**An Iterative Feedback Mechanism for Improving Natural Language Class Descriptions in Open-Vocabulary Object Detection**|Louis Y. Kim et.al.|[2503.17285](http://arxiv.org/abs/2503.17285)|null|
 |**2025-03-25**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
 |**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
-|**2025-03-21**|**R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**|Jonas Mirlach et.al.|[2503.17122](http://arxiv.org/abs/2503.17122)|null|
+|**2025-03-26**|**R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception**|Jonas Mirlach et.al.|[2503.17122](http://arxiv.org/abs/2503.17122)|null|
 |**2025-03-21**|**Exploring Few-Shot Object Detection on Blood Smear Images: A Case Study of Leukocytes and Schistocytes**|Davide Antonio Mura et.al.|[2503.17107](http://arxiv.org/abs/2503.17107)|null|
 |**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
 |**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071](http://arxiv.org/abs/2503.17071)|null|
