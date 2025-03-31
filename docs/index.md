@@ -3159,7 +3159,7 @@ layout: default
 |**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
 |**2025-03-22**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
 |**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133](http://arxiv.org/abs/2503.07133)|null|
-|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101](http://arxiv.org/abs/2503.07101)|null|
+|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101](http://arxiv.org/abs/2503.07101)|**[link](https://github.com/ocean146/SimROD)**|
 |**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948](http://arxiv.org/abs/2503.06948)|null|
@@ -3245,7 +3245,7 @@ layout: default
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-03-10**|**OccLinker: Deflickering Occupancy Networks through Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438](http://arxiv.org/abs/2502.15438)|null|
-|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|**[link](https://github.com/richardmarcus/synth-it-like-kitti)**|
 |**2025-02-17**|**CoDiff: Conditional Diffusion Model for Collaborative 3D Object Detection**|Zhe Huang et.al.|[2502.14891](http://arxiv.org/abs/2502.14891)|null|
 |**2025-02-16**|**WeedVision: Multi-Stage Growth and Classification of Weeds using DETR and RetinaNet for Precision Agriculture**|Taminul Islam et.al.|[2502.14890](http://arxiv.org/abs/2502.14890)|null|
 |**2025-02-20**|**YOLOv12: A Breakdown of the Key Architectural Features**|Mujadded Al Rabbani Alif et.al.|[2502.14740](http://arxiv.org/abs/2502.14740)|null|
@@ -3333,7 +3333,7 @@ layout: default
 |**2025-02-01**|**Work-Efficient Parallel Non-Maximum Suppression Kernels**|David Oro et.al.|[2502.00535](http://arxiv.org/abs/2502.00535)|**[link](https://github.com/hertasecurity/gpu-nms)**|
 |**2025-02-01**|**MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model**|Jihyeok Kim et.al.|[2502.00315](http://arxiv.org/abs/2502.00315)|null|
 |**2025-01-31**|**Influence of color correction on pathology detection in Capsule Endoscopy**|Bidossessi Emmanuel Agossou et.al.|[2502.00076](http://arxiv.org/abs/2502.00076)|null|
-|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|null|
+|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
 |**2025-01-31**|**Early Diagnosis and Severity Assessment of Weligama Coconut Leaf Wilt Disease and Coconut Caterpillar Infestation using Deep Learning-based Image Processing Techniques**|Samitha Vidhanaarachchi et.al.|[2501.18835](http://arxiv.org/abs/2501.18835)|null|
@@ -3852,7 +3852,7 @@ layout: default
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|**[link](https://github.com/henrytsui000/YOLO)**|
 |**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
-|**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
+|**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|**[link](https://github.com/yuezhan721/mambasod)**|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
 |**2024-10-18**|**Deep Generic Dynamic Object Detection Based on Dynamic Grid Maps**|Rujiao Yan et.al.|[2410.14799](http://arxiv.org/abs/2410.14799)|null|
 |**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[2410.14612](http://arxiv.org/abs/2410.14612)|null|
@@ -3871,7 +3871,7 @@ layout: default
 |**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-16**|**Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**|Qishun Wang et.al.|[2410.12143](http://arxiv.org/abs/2410.12143)|null|
 |**2024-10-22**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
-|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|null|
+|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|**[link](https://github.com/kostas1515/FRACAL)**|
 |**2024-10-15**|**POLO -- Point-based, multi-class animal detection**|Giacomo May et.al.|[2410.11741](http://arxiv.org/abs/2410.11741)|null|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
 |**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358](http://arxiv.org/abs/2410.11358)|null|
@@ -3934,7 +3934,7 @@ layout: default
 |**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|**[link](https://github.com/doem97/deblora)**|
 |**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
-|**2024-10-17**|**R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
+|**2024-10-17**|**R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|**[link](https://github.com/fangzr/R-ACP)**|
 |**2024-10-05**|**Cross Resolution Encoding-Decoding For Detection Transformers**|Ashish Kumar et.al.|[2410.04088](http://arxiv.org/abs/2410.04088)|**[link](https://github.com/ashishkumar822/cred-detr)**|
 |**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
 |**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|**[link](https://github.com/ruiyum/stone)**|
@@ -4087,7 +4087,7 @@ layout: default
 |**2024-09-06**|**BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection**|Yangguang Chen et.al.|[2409.04025](http://arxiv.org/abs/2409.04025)|null|
 |**2024-08-22**|**Assessing the Uncertainty and Robustness of Object Detection Models for Detecting Stickers on Laptops**|Chengjie Lu et.al.|[2409.03782](http://arxiv.org/abs/2409.03782)|null|
 |**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460](http://arxiv.org/abs/2409.03460)|**[link](https://github.com/altair199797/lowformer)**|
-|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|**[link](https://github.com/putshua/inference-scale-ann-snn)**|
 |**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[2409.03320](http://arxiv.org/abs/2409.03320)|null|
 |**2024-09-05**|**Gr-IoU: Ground-Intersection over Union for Robust Multi-Object Tracking with 3D Geometric Constraints**|Keisuke Toida et.al.|[2409.03252](http://arxiv.org/abs/2409.03252)|null|
 |**2024-09-04**|**Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes**|Mehmet Kerem Turkcan et.al.|[2409.03022](http://arxiv.org/abs/2409.03022)|**[link](https://github.com/zk2172-columbia/boundless)**|
@@ -4943,7 +4943,7 @@ layout: default
 |**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
 |**2025-03-22**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
 |**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133](http://arxiv.org/abs/2503.07133)|null|
-|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101](http://arxiv.org/abs/2503.07101)|null|
+|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101](http://arxiv.org/abs/2503.07101)|**[link](https://github.com/ocean146/SimROD)**|
 |**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948](http://arxiv.org/abs/2503.06948)|null|
@@ -5029,7 +5029,7 @@ layout: default
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-03-10**|**OccLinker: Deflickering Occupancy Networks through Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438](http://arxiv.org/abs/2502.15438)|null|
-|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|**[link](https://github.com/richardmarcus/synth-it-like-kitti)**|
 |**2025-02-17**|**CoDiff: Conditional Diffusion Model for Collaborative 3D Object Detection**|Zhe Huang et.al.|[2502.14891](http://arxiv.org/abs/2502.14891)|null|
 |**2025-02-16**|**WeedVision: Multi-Stage Growth and Classification of Weeds using DETR and RetinaNet for Precision Agriculture**|Taminul Islam et.al.|[2502.14890](http://arxiv.org/abs/2502.14890)|null|
 |**2025-02-20**|**YOLOv12: A Breakdown of the Key Architectural Features**|Mujadded Al Rabbani Alif et.al.|[2502.14740](http://arxiv.org/abs/2502.14740)|null|
@@ -5117,7 +5117,7 @@ layout: default
 |**2025-02-01**|**Work-Efficient Parallel Non-Maximum Suppression Kernels**|David Oro et.al.|[2502.00535](http://arxiv.org/abs/2502.00535)|**[link](https://github.com/hertasecurity/gpu-nms)**|
 |**2025-02-01**|**MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model**|Jihyeok Kim et.al.|[2502.00315](http://arxiv.org/abs/2502.00315)|null|
 |**2025-01-31**|**Influence of color correction on pathology detection in Capsule Endoscopy**|Bidossessi Emmanuel Agossou et.al.|[2502.00076](http://arxiv.org/abs/2502.00076)|null|
-|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|null|
+|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274](http://arxiv.org/abs/2501.19274)|null|
 |**2025-01-31**|**Early Diagnosis and Severity Assessment of Weligama Coconut Leaf Wilt Disease and Coconut Caterpillar Infestation using Deep Learning-based Image Processing Techniques**|Samitha Vidhanaarachchi et.al.|[2501.18835](http://arxiv.org/abs/2501.18835)|null|
@@ -5636,7 +5636,7 @@ layout: default
 |**2024-10-20**|**YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary**|Hao-Tang Tsui et.al.|[2410.15346](http://arxiv.org/abs/2410.15346)|**[link](https://github.com/henrytsui000/YOLO)**|
 |**2024-10-20**|**Open-vocabulary vs. Closed-set: Best Practice for Few-shot Object Detection Considering Text Describability**|Yusuke Hosoya et.al.|[2410.15315](http://arxiv.org/abs/2410.15315)|**[link](https://github.com/rsCPSyEu/ovd_cod)**|
 |**2024-10-19**|**Cutting-Edge Detection of Fatigue in Drivers: A Comparative Study of Object Detection Models**|Amelia Jones et.al.|[2410.15030](http://arxiv.org/abs/2410.15030)|null|
-|**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|null|
+|**2024-10-19**|**MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection**|Yue Zhan et.al.|[2410.15015](http://arxiv.org/abs/2410.15015)|**[link](https://github.com/yuezhan721/mambasod)**|
 |**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|
 |**2024-10-18**|**Deep Generic Dynamic Object Detection Based on Dynamic Grid Maps**|Rujiao Yan et.al.|[2410.14799](http://arxiv.org/abs/2410.14799)|null|
 |**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[2410.14612](http://arxiv.org/abs/2410.14612)|null|
@@ -5655,7 +5655,7 @@ layout: default
 |**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-16**|**Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**|Qishun Wang et.al.|[2410.12143](http://arxiv.org/abs/2410.12143)|null|
 |**2024-10-22**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
-|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|null|
+|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|**[link](https://github.com/kostas1515/FRACAL)**|
 |**2024-10-15**|**POLO -- Point-based, multi-class animal detection**|Giacomo May et.al.|[2410.11741](http://arxiv.org/abs/2410.11741)|null|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
 |**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358](http://arxiv.org/abs/2410.11358)|null|
@@ -5718,7 +5718,7 @@ layout: default
 |**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|**[link](https://github.com/doem97/deblora)**|
 |**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
-|**2024-10-17**|**R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
+|**2024-10-17**|**R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|**[link](https://github.com/fangzr/R-ACP)**|
 |**2024-10-05**|**Cross Resolution Encoding-Decoding For Detection Transformers**|Ashish Kumar et.al.|[2410.04088](http://arxiv.org/abs/2410.04088)|**[link](https://github.com/ashishkumar822/cred-detr)**|
 |**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
 |**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|**[link](https://github.com/ruiyum/stone)**|
@@ -5871,7 +5871,7 @@ layout: default
 |**2024-09-06**|**BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection**|Yangguang Chen et.al.|[2409.04025](http://arxiv.org/abs/2409.04025)|null|
 |**2024-08-22**|**Assessing the Uncertainty and Robustness of Object Detection Models for Detecting Stickers on Laptops**|Chengjie Lu et.al.|[2409.03782](http://arxiv.org/abs/2409.03782)|null|
 |**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460](http://arxiv.org/abs/2409.03460)|**[link](https://github.com/altair199797/lowformer)**|
-|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|**[link](https://github.com/putshua/inference-scale-ann-snn)**|
 |**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[2409.03320](http://arxiv.org/abs/2409.03320)|null|
 |**2024-09-05**|**Gr-IoU: Ground-Intersection over Union for Robust Multi-Object Tracking with 3D Geometric Constraints**|Keisuke Toida et.al.|[2409.03252](http://arxiv.org/abs/2409.03252)|null|
 |**2024-09-04**|**Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes**|Mehmet Kerem Turkcan et.al.|[2409.03022](http://arxiv.org/abs/2409.03022)|**[link](https://github.com/zk2172-columbia/boundless)**|
