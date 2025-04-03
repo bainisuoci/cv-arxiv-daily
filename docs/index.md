@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3042,7 +3042,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
-|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|null|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|**[link](https://github.com/rd20karim/mb-ores)**|
 |**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947](http://arxiv.org/abs/2503.23947)|null|
 |**2025-03-31**|**Expanding-and-Shrinking Binary Neural Networks**|Xulong Shi et.al.|[2503.23709](http://arxiv.org/abs/2503.23709)|**[link](https://github.com/imfinethanks/esbnn)**|
 |**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
@@ -3066,7 +3066,7 @@ layout: default
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
-|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|**[link](https://github.com/stogiannidis/srbench)**|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
 |**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
 |**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
@@ -3140,7 +3140,7 @@ layout: default
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|**[link](https://github.com/tianhuilab/falcon)**|
 |**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
 |**2025-03-17**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
-|**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|**[link](https://github.com/zchuhan/cckt-det)**|
+|**2025-04-02**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|**[link](https://github.com/zchuhan/cckt-det)**|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 |**2025-03-15**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
@@ -4845,7 +4845,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
-|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|null|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219](http://arxiv.org/abs/2503.24219)|**[link](https://github.com/rd20karim/mb-ores)**|
 |**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947](http://arxiv.org/abs/2503.23947)|null|
 |**2025-03-31**|**Expanding-and-Shrinking Binary Neural Networks**|Xulong Shi et.al.|[2503.23709](http://arxiv.org/abs/2503.23709)|**[link](https://github.com/imfinethanks/esbnn)**|
 |**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
@@ -4869,7 +4869,7 @@ layout: default
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
-|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|**[link](https://github.com/stogiannidis/srbench)**|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
 |**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
 |**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
@@ -4943,7 +4943,7 @@ layout: default
 |**2025-03-14**|**Falcon: A Remote Sensing Vision-Language Foundation Model**|Kelu Yao et.al.|[2503.11070](http://arxiv.org/abs/2503.11070)|**[link](https://github.com/tianhuilab/falcon)**|
 |**2025-03-14**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
 |**2025-03-17**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
-|**2025-03-14**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|**[link](https://github.com/zchuhan/cckt-det)**|
+|**2025-04-02**|**Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**|Chuhan Zhang et.al.|[2503.11005](http://arxiv.org/abs/2503.11005)|**[link](https://github.com/zchuhan/cckt-det)**|
 |**2025-03-13**|**The Power of One: A Single Example is All it Takes for Segmentation in VLMs**|Mir Rayat Imtiaz Hossain et.al.|[2503.10779](http://arxiv.org/abs/2503.10779)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 |**2025-03-15**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579](http://arxiv.org/abs/2503.10579)|null|
