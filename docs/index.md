@@ -3041,6 +3041,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
+|**2025-04-09**|**Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**|Yuze Jiang et.al.|[2504.06772](http://arxiv.org/abs/2504.06772)|null|
+|**2025-04-09**|**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**|Jonas Herzog et.al.|[2504.06661](http://arxiv.org/abs/2504.06661)|null|
+|**2025-04-09**|**Visually Similar Pair Alignment for Robust Cross-Domain Object Detection**|Onkar Krishna et.al.|[2504.06607](http://arxiv.org/abs/2504.06607)|null|
+|**2025-04-08**|**From Broadcast to Minimap: Achieving State-of-the-Art SoccerNet Game State Reconstruction**|Vladimir Golovkin et.al.|[2504.06357](http://arxiv.org/abs/2504.06357)|null|
+|**2025-04-08**|**Analyzing the Impact of Low-Rank Adaptation for Cross-Domain Few-Shot Object Detection in Aerial Images**|Hicham Talaoubrid et.al.|[2504.06330](http://arxiv.org/abs/2504.06330)|null|
 |**2025-04-08**|**Balancing long- and short-term dynamics for the modeling of saliency in videos**|Theodor Wulff et.al.|[2504.05913](http://arxiv.org/abs/2504.05913)|null|
 |**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
 |**2025-04-08**|**Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**|Xiangyu Zheng et.al.|[2504.05904](http://arxiv.org/abs/2504.05904)|null|
@@ -4890,6 +4897,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
+|**2025-04-09**|**Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**|Yuze Jiang et.al.|[2504.06772](http://arxiv.org/abs/2504.06772)|null|
+|**2025-04-09**|**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**|Jonas Herzog et.al.|[2504.06661](http://arxiv.org/abs/2504.06661)|null|
+|**2025-04-09**|**Visually Similar Pair Alignment for Robust Cross-Domain Object Detection**|Onkar Krishna et.al.|[2504.06607](http://arxiv.org/abs/2504.06607)|null|
+|**2025-04-08**|**From Broadcast to Minimap: Achieving State-of-the-Art SoccerNet Game State Reconstruction**|Vladimir Golovkin et.al.|[2504.06357](http://arxiv.org/abs/2504.06357)|null|
+|**2025-04-08**|**Analyzing the Impact of Low-Rank Adaptation for Cross-Domain Few-Shot Object Detection in Aerial Images**|Hicham Talaoubrid et.al.|[2504.06330](http://arxiv.org/abs/2504.06330)|null|
 |**2025-04-08**|**Balancing long- and short-term dynamics for the modeling of saliency in videos**|Theodor Wulff et.al.|[2504.05913](http://arxiv.org/abs/2504.05913)|null|
 |**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
 |**2025-04-08**|**Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**|Xiangyu Zheng et.al.|[2504.05904](http://arxiv.org/abs/2504.05904)|null|
