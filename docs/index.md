@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3058,7 +3058,7 @@ layout: default
 |**2025-04-06**|**eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems**|Shuolong Chen et.al.|[2504.04451](http://arxiv.org/abs/2504.04451)|**[link](https://github.com/unsigned-long/ekalibr)**|
 |**2025-04-05**|**Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications**|Brayan Monroy et.al.|[2504.04228](http://arxiv.org/abs/2504.04228)|null|
 |**2025-04-05**|**An Optimized Density-Based Lane Keeping System for A Cost-Efficient Autonomous Vehicle Platform: AurigaBot V1**|Farbod Younesi et.al.|[2504.04217](http://arxiv.org/abs/2504.04217)|null|
-|**2025-04-05**|**Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
+|**2025-04-09**|**Digital Gene: Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
 |**2025-04-05**|**EMF: Event Meta Formers for Event-based Real-time Traffic Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2504.04124](http://arxiv.org/abs/2504.04124)|null|
 |**2025-04-04**|**TGraphX: Tensor-Aware Graph Neural Network for Multi-Dimensional Feature Learning**|Arash Sajjadi et.al.|[2504.03953](http://arxiv.org/abs/2504.03953)|**[link](https://github.com/arashsajjadi/TGraphX)**|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
@@ -3081,7 +3081,7 @@ layout: default
 |**2025-04-02**|**Cat-Eye Inspired Active-Passive-Composite Aperture-Shared Sub-Terahertz Meta-Imager for Non-Interactive Concealed Object Detection**|Mingshuang Hu et.al.|[2504.01473](http://arxiv.org/abs/2504.01473)|null|
 |**2025-04-02**|**CFMD: Dynamic Cross-layer Feature Fusion for Salient Object Detection**|Jin Lian et.al.|[2504.01326](http://arxiv.org/abs/2504.01326)|null|
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
-|**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
+|**2025-04-09**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
 |**2025-04-01**|**AttentiveGRU: Recurrent Spatio-Temporal Modeling for Advanced Radar-Based BEV Object Detection**|Loveneet Saini et.al.|[2504.00559](http://arxiv.org/abs/2504.00559)|null|
 |**2025-04-01**|**High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update**|Xinrun Xu et.al.|[2504.00526](http://arxiv.org/abs/2504.00526)|null|
 |**2025-04-01**|**Intrinsic-feature-guided 3D Object Detection**|Wanjing Zhang et.al.|[2504.00382](http://arxiv.org/abs/2504.00382)|null|
@@ -4907,7 +4907,7 @@ layout: default
 |**2025-04-06**|**eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems**|Shuolong Chen et.al.|[2504.04451](http://arxiv.org/abs/2504.04451)|**[link](https://github.com/unsigned-long/ekalibr)**|
 |**2025-04-05**|**Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications**|Brayan Monroy et.al.|[2504.04228](http://arxiv.org/abs/2504.04228)|null|
 |**2025-04-05**|**An Optimized Density-Based Lane Keeping System for A Cost-Efficient Autonomous Vehicle Platform: AurigaBot V1**|Farbod Younesi et.al.|[2504.04217](http://arxiv.org/abs/2504.04217)|null|
-|**2025-04-05**|**Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
+|**2025-04-09**|**Digital Gene: Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
 |**2025-04-05**|**EMF: Event Meta Formers for Event-based Real-time Traffic Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2504.04124](http://arxiv.org/abs/2504.04124)|null|
 |**2025-04-04**|**TGraphX: Tensor-Aware Graph Neural Network for Multi-Dimensional Feature Learning**|Arash Sajjadi et.al.|[2504.03953](http://arxiv.org/abs/2504.03953)|**[link](https://github.com/arashsajjadi/TGraphX)**|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
@@ -4930,7 +4930,7 @@ layout: default
 |**2025-04-02**|**Cat-Eye Inspired Active-Passive-Composite Aperture-Shared Sub-Terahertz Meta-Imager for Non-Interactive Concealed Object Detection**|Mingshuang Hu et.al.|[2504.01473](http://arxiv.org/abs/2504.01473)|null|
 |**2025-04-02**|**CFMD: Dynamic Cross-layer Feature Fusion for Salient Object Detection**|Jin Lian et.al.|[2504.01326](http://arxiv.org/abs/2504.01326)|null|
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
-|**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
+|**2025-04-09**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
 |**2025-04-01**|**AttentiveGRU: Recurrent Spatio-Temporal Modeling for Advanced Radar-Based BEV Object Detection**|Loveneet Saini et.al.|[2504.00559](http://arxiv.org/abs/2504.00559)|null|
 |**2025-04-01**|**High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update**|Xinrun Xu et.al.|[2504.00526](http://arxiv.org/abs/2504.00526)|null|
 |**2025-04-01**|**Intrinsic-feature-guided 3D Object Detection**|Wanjing Zhang et.al.|[2504.00382](http://arxiv.org/abs/2504.00382)|null|
