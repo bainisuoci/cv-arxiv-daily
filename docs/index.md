@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3061,7 +3061,7 @@ layout: default
 |**2025-04-15**|**Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task**|Aviral Chharia et.al.|[2504.10880](http://arxiv.org/abs/2504.10880)|null|
 |**2025-04-15**|**Weather-Aware Object Detection Transformer for Domain Adaptation**|Soheil Gharatappeh et.al.|[2504.10877](http://arxiv.org/abs/2504.10877)|null|
 |**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
-|**2025-04-14**|**NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results**|Yuqian Fu et.al.|[2504.10685](http://arxiv.org/abs/2504.10685)|null|
+|**2025-04-14**|**NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results**|Yuqian Fu et.al.|[2504.10685](http://arxiv.org/abs/2504.10685)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-14**|**LEMUR Neural Network Dataset: Towards Seamless AutoML**|Arash Torabi Goodarzi et.al.|[2504.10552](http://arxiv.org/abs/2504.10552)|null|
 |**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
 |**2025-04-14**|**Balancing Stability and Plasticity in Pretrained Detector: A Dual-Path Framework for Incremental Object Detection**|Songze Li et.al.|[2504.10214](http://arxiv.org/abs/2504.10214)|null|
@@ -4964,7 +4964,7 @@ layout: default
 |**2025-04-15**|**Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task**|Aviral Chharia et.al.|[2504.10880](http://arxiv.org/abs/2504.10880)|null|
 |**2025-04-15**|**Weather-Aware Object Detection Transformer for Domain Adaptation**|Soheil Gharatappeh et.al.|[2504.10877](http://arxiv.org/abs/2504.10877)|null|
 |**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
-|**2025-04-14**|**NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results**|Yuqian Fu et.al.|[2504.10685](http://arxiv.org/abs/2504.10685)|null|
+|**2025-04-14**|**NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results**|Yuqian Fu et.al.|[2504.10685](http://arxiv.org/abs/2504.10685)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-14**|**LEMUR Neural Network Dataset: Towards Seamless AutoML**|Arash Torabi Goodarzi et.al.|[2504.10552](http://arxiv.org/abs/2504.10552)|null|
 |**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
 |**2025-04-14**|**Balancing Stability and Plasticity in Pretrained Detector: A Dual-Path Framework for Incremental Object Detection**|Songze Li et.al.|[2504.10214](http://arxiv.org/abs/2504.10214)|null|
