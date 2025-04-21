@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
 |**2025-04-11**|**SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection**|Huaxiang Zhang et.al.|[2504.11470](http://arxiv.org/abs/2504.11470)|null|
 |**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900](http://arxiv.org/abs/2504.09900)|null|
 |**2025-03-29**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
@@ -3043,6 +3044,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|null|
+|**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
+|**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
+|**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
+|**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
 |**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099](http://arxiv.org/abs/2504.13099)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709](http://arxiv.org/abs/2504.12709)|null|
 |**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643](http://arxiv.org/abs/2504.12643)|null|
@@ -4949,6 +4958,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|null|
+|**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
+|**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
+|**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
+|**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
 |**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099](http://arxiv.org/abs/2504.13099)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709](http://arxiv.org/abs/2504.12709)|null|
 |**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643](http://arxiv.org/abs/2504.12643)|null|
