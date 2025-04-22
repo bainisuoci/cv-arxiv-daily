@@ -2916,7 +2916,7 @@ layout: default
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
 |**2024-11-01**|**LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO**|Yuchen Zheng et.al.|[2411.00485](http://arxiv.org/abs/2411.00485)|null|
-|**2024-10-29**|**PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices**|Ming Kang et.al.|[2410.21822](http://arxiv.org/abs/2410.21822)|**[link](https://github.com/mkang315/pk-yolo)**|
+|**2025-04-21**|**PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices**|Ming Kang et.al.|[2410.21822](http://arxiv.org/abs/2410.21822)|**[link](https://github.com/mkang315/pk-yolo)**|
 |**2024-10-11**|**Self-Supervised Learning for Real-World Object Detection: a Survey**|Alina Ciocarlan et.al.|[2410.07442](http://arxiv.org/abs/2410.07442)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
 |**2025-01-27**|**MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule**|Guohui Cai et.al.|[2409.14028](http://arxiv.org/abs/2409.14028)|**[link](https://github.com/caiguohui123/msdet)**|
@@ -3044,11 +3044,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252](http://arxiv.org/abs/2504.15252)|null|
+|**2025-04-21**|**An Efficient Aerial Image Detection with Variable Receptive Fields**|Liu Wenbin et.al.|[2504.15165](http://arxiv.org/abs/2504.15165)|null|
+|**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301](http://arxiv.org/abs/2504.14301)|null|
+|**2025-04-19**|**Visual Consensus Prompting for Co-Salient Object Detection**|Jie Wang et.al.|[2504.14254](http://arxiv.org/abs/2504.14254)|**[link](https://github.com/wj-cv/vcp)**|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
-|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
 |**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
-|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|**[link](https://github.com/mi3labucm/coooler)**|
 |**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
 |**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
@@ -3068,7 +3072,7 @@ layout: default
 |**2025-04-15**|**Flyweight FLIM Networks for Salient Object Detection in Biomedical Images**|Leonardo M. Joao et.al.|[2504.11112](http://arxiv.org/abs/2504.11112)|null|
 |**2025-04-15**|**S $^2$ Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111](http://arxiv.org/abs/2504.11111)|null|
 |**2025-04-15**|**DRIFT open dataset: A drone-derived intelligence for traffic analysis in urban environmen**|Hyejin Lee et.al.|[2504.11019](http://arxiv.org/abs/2504.11019)|**[link](https://github.com/aixmobility/the-drift)**|
-|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-21**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-15**|**CDUPatch: Color-Driven Universal Adversarial Patch Attack for Dual-Modal Visible-Infrared Detectors**|Jiahuan Long et.al.|[2504.10888](http://arxiv.org/abs/2504.10888)|null|
 |**2025-04-15**|**Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task**|Aviral Chharia et.al.|[2504.10880](http://arxiv.org/abs/2504.10880)|null|
 |**2025-04-15**|**Weather-Aware Object Detection Transformer for Domain Adaptation**|Soheil Gharatappeh et.al.|[2504.10877](http://arxiv.org/abs/2504.10877)|null|
@@ -3093,7 +3097,7 @@ layout: default
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
 |**2025-04-10**|**Multi-Task Learning with Multi-Annotation Triplet Loss for Improved Object Detection**|Meilun Zhou et.al.|[2504.08054](http://arxiv.org/abs/2504.08054)|**[link](https://github.com/gatorsense/matl)**|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
-|**2025-04-11**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
+|**2025-04-20**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-10**|**Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**|Peng Jia et.al.|[2504.07777](http://arxiv.org/abs/2504.07777)|null|
@@ -4958,11 +4962,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252](http://arxiv.org/abs/2504.15252)|null|
+|**2025-04-21**|**An Efficient Aerial Image Detection with Variable Receptive Fields**|Liu Wenbin et.al.|[2504.15165](http://arxiv.org/abs/2504.15165)|null|
+|**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301](http://arxiv.org/abs/2504.14301)|null|
+|**2025-04-19**|**Visual Consensus Prompting for Co-Salient Object Detection**|Jie Wang et.al.|[2504.14254](http://arxiv.org/abs/2504.14254)|**[link](https://github.com/wj-cv/vcp)**|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
-|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
 |**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
-|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|**[link](https://github.com/mi3labucm/coooler)**|
 |**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
 |**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
@@ -4982,7 +4990,7 @@ layout: default
 |**2025-04-15**|**Flyweight FLIM Networks for Salient Object Detection in Biomedical Images**|Leonardo M. Joao et.al.|[2504.11112](http://arxiv.org/abs/2504.11112)|null|
 |**2025-04-15**|**S $^2$ Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111](http://arxiv.org/abs/2504.11111)|null|
 |**2025-04-15**|**DRIFT open dataset: A drone-derived intelligence for traffic analysis in urban environmen**|Hyejin Lee et.al.|[2504.11019](http://arxiv.org/abs/2504.11019)|**[link](https://github.com/aixmobility/the-drift)**|
-|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-21**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-15**|**CDUPatch: Color-Driven Universal Adversarial Patch Attack for Dual-Modal Visible-Infrared Detectors**|Jiahuan Long et.al.|[2504.10888](http://arxiv.org/abs/2504.10888)|null|
 |**2025-04-15**|**Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task**|Aviral Chharia et.al.|[2504.10880](http://arxiv.org/abs/2504.10880)|null|
 |**2025-04-15**|**Weather-Aware Object Detection Transformer for Domain Adaptation**|Soheil Gharatappeh et.al.|[2504.10877](http://arxiv.org/abs/2504.10877)|null|
@@ -5007,7 +5015,7 @@ layout: default
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
 |**2025-04-10**|**Multi-Task Learning with Multi-Annotation Triplet Loss for Improved Object Detection**|Meilun Zhou et.al.|[2504.08054](http://arxiv.org/abs/2504.08054)|**[link](https://github.com/gatorsense/matl)**|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
-|**2025-04-11**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
+|**2025-04-20**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813](http://arxiv.org/abs/2504.07813)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-10**|**Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**|Peng Jia et.al.|[2504.07777](http://arxiv.org/abs/2504.07777)|null|
