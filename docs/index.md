@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3088,7 +3088,7 @@ layout: default
 |**2025-04-13**|**Uncertainty Guided Refinement for Fine-Grained Salient Object Detection**|Yao Yuan et.al.|[2504.09666](http://arxiv.org/abs/2504.09666)|**[link](https://github.com/I2-Multimedia-Lab/UGRAN)**|
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
 |**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|**[link](https://github.com/better-chao/perceptual_abilities_evaluation)**|
-|**2025-04-13**|**InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection**|Lin Zhu et.al.|[2504.09448](http://arxiv.org/abs/2504.09448)|null|
+|**2025-04-22**|**Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization**|Lin Zhu et.al.|[2504.09448](http://arxiv.org/abs/2504.09448)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
 |**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047](http://arxiv.org/abs/2504.09047)|null|
 |**2025-04-11**|**Improving municipal responsiveness through AI-powered image analysis in E-Government**|Catalin Vrabie et.al.|[2504.08972](http://arxiv.org/abs/2504.08972)|null|
@@ -3141,7 +3141,7 @@ layout: default
 |**2025-04-03**|**LiDAR-based Object Detection with Real-time Voice Specifications**|Anurag Kulkarni et.al.|[2504.02920](http://arxiv.org/abs/2504.02920)|**[link](https://github.com/anuragkulkarni/lidar-based_object_detection_with_real-time_voice_specifications)**|
 |**2025-04-02**|**Enhancing Traffic Sign Recognition On The Performance Based On Yolov8**|Baba Ibrahim et.al.|[2504.02884](http://arxiv.org/abs/2504.02884)|null|
 |**2025-04-02**|**Multimodal Reference Visual Grounding**|Yangxiao Lu et.al.|[2504.02876](http://arxiv.org/abs/2504.02876)|null|
-|**2025-04-17**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
+|**2025-04-22**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
 |**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558](http://arxiv.org/abs/2504.02558)|**[link](https://github.com/irikos/rip_currents)**|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**CornerPoint3D: Look at the Nearest Corner Instead of the Center**|Ruixiao Zhang et.al.|[2504.02464](http://arxiv.org/abs/2504.02464)|null|
@@ -5006,7 +5006,7 @@ layout: default
 |**2025-04-13**|**Uncertainty Guided Refinement for Fine-Grained Salient Object Detection**|Yao Yuan et.al.|[2504.09666](http://arxiv.org/abs/2504.09666)|**[link](https://github.com/I2-Multimedia-Lab/UGRAN)**|
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
 |**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|**[link](https://github.com/better-chao/perceptual_abilities_evaluation)**|
-|**2025-04-13**|**InfoBound: A Provable Information-Bounds Inspired Framework for Both OoD Generalization and OoD Detection**|Lin Zhu et.al.|[2504.09448](http://arxiv.org/abs/2504.09448)|null|
+|**2025-04-22**|**Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization**|Lin Zhu et.al.|[2504.09448](http://arxiv.org/abs/2504.09448)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
 |**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047](http://arxiv.org/abs/2504.09047)|null|
 |**2025-04-11**|**Improving municipal responsiveness through AI-powered image analysis in E-Government**|Catalin Vrabie et.al.|[2504.08972](http://arxiv.org/abs/2504.08972)|null|
@@ -5059,7 +5059,7 @@ layout: default
 |**2025-04-03**|**LiDAR-based Object Detection with Real-time Voice Specifications**|Anurag Kulkarni et.al.|[2504.02920](http://arxiv.org/abs/2504.02920)|**[link](https://github.com/anuragkulkarni/lidar-based_object_detection_with_real-time_voice_specifications)**|
 |**2025-04-02**|**Enhancing Traffic Sign Recognition On The Performance Based On Yolov8**|Baba Ibrahim et.al.|[2504.02884](http://arxiv.org/abs/2504.02884)|null|
 |**2025-04-02**|**Multimodal Reference Visual Grounding**|Yangxiao Lu et.al.|[2504.02876](http://arxiv.org/abs/2504.02876)|null|
-|**2025-04-17**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
+|**2025-04-22**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812](http://arxiv.org/abs/2504.02812)|null|
 |**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558](http://arxiv.org/abs/2504.02558)|**[link](https://github.com/irikos/rip_currents)**|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**CornerPoint3D: Look at the Nearest Corner Instead of the Center**|Ruixiao Zhang et.al.|[2504.02464](http://arxiv.org/abs/2504.02464)|null|
