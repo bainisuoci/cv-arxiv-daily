@@ -3070,6 +3070,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
+|**2025-04-23**|**EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception**|Haosheng Chen et.al.|[2504.16616](http://arxiv.org/abs/2504.16616)|null|
+|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
+|**2025-04-23**|**Assessing the Feasibility of Internet-Sourced Video for Automatic Cattle Lameness Detection**|Md Fahimuzzman Sohan et.al.|[2504.16404](http://arxiv.org/abs/2504.16404)|null|
+|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368](http://arxiv.org/abs/2504.16368)|null|
+|**2025-04-22**|**Vision Controlled Orthotic Hand Exoskeleton**|Connor Blais et.al.|[2504.16319](http://arxiv.org/abs/2504.16319)|null|
+|**2025-04-18**|**Context-Awareness and Interpretability of Rare Occurrences for Discovery and Formalization of Critical Failure Modes**|Sridevi Polavaram et.al.|[2504.16117](http://arxiv.org/abs/2504.16117)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
 |**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694](http://arxiv.org/abs/2504.15694)|null|
@@ -4996,6 +5003,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
+|**2025-04-23**|**EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception**|Haosheng Chen et.al.|[2504.16616](http://arxiv.org/abs/2504.16616)|null|
+|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
+|**2025-04-23**|**Assessing the Feasibility of Internet-Sourced Video for Automatic Cattle Lameness Detection**|Md Fahimuzzman Sohan et.al.|[2504.16404](http://arxiv.org/abs/2504.16404)|null|
+|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368](http://arxiv.org/abs/2504.16368)|null|
+|**2025-04-22**|**Vision Controlled Orthotic Hand Exoskeleton**|Connor Blais et.al.|[2504.16319](http://arxiv.org/abs/2504.16319)|null|
+|**2025-04-18**|**Context-Awareness and Interpretability of Rare Occurrences for Discovery and Formalization of Critical Failure Modes**|Sridevi Polavaram et.al.|[2504.16117](http://arxiv.org/abs/2504.16117)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
 |**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694](http://arxiv.org/abs/2504.15694)|null|
