@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View**|Liugang Lu et.al.|[2504.18136](http://arxiv.org/abs/2504.18136)|null|
 |**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
 |**2025-04-11**|**SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection**|Huaxiang Zhang et.al.|[2504.11470](http://arxiv.org/abs/2504.11470)|null|
 |**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900](http://arxiv.org/abs/2504.09900)|null|
@@ -3044,6 +3045,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278](http://arxiv.org/abs/2504.18278)|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
+|**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View**|Liugang Lu et.al.|[2504.18136](http://arxiv.org/abs/2504.18136)|null|
+|**2025-04-25**|**Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057](http://arxiv.org/abs/2504.18057)|null|
+|**2025-04-25**|**Direct sampling method to retrieve small objects from two-dimensional limited-aperture scattered field data**|Won-Kwang Park et.al.|[2504.18036](http://arxiv.org/abs/2504.18036)|null|
+|**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|null|
 |**2025-04-24**|**DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**|Yinqi Li et.al.|[2504.17253](http://arxiv.org/abs/2504.17253)|**[link](https://github.com/LiYinqi/DIVE)**|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
@@ -4979,6 +4991,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278](http://arxiv.org/abs/2504.18278)|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
+|**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View**|Liugang Lu et.al.|[2504.18136](http://arxiv.org/abs/2504.18136)|null|
+|**2025-04-25**|**Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057](http://arxiv.org/abs/2504.18057)|null|
+|**2025-04-25**|**Direct sampling method to retrieve small objects from two-dimensional limited-aperture scattered field data**|Won-Kwang Park et.al.|[2504.18036](http://arxiv.org/abs/2504.18036)|null|
+|**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|null|
 |**2025-04-24**|**DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**|Yinqi Li et.al.|[2504.17253](http://arxiv.org/abs/2504.17253)|**[link](https://github.com/LiYinqi/DIVE)**|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
