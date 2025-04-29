@@ -3071,6 +3071,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032](http://arxiv.org/abs/2504.20032)|null|
+|**2025-04-28**|**Lossy Source Coding with Focal Loss**|Alex Dytso et.al.|[2504.19913](http://arxiv.org/abs/2504.19913)|null|
+|**2025-04-28**|**Neural network task specialization via domain constraining**|Roman Malashin et.al.|[2504.19592](http://arxiv.org/abs/2504.19592)|null|
+|**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
+|**2025-04-27**|**Improving Small Drone Detection Through Multi-Scale Processing and Data Augmentation**|Rayson Laroca et.al.|[2504.19347](http://arxiv.org/abs/2504.19347)|null|
+|**2025-04-27**|**ODExAI: A Comprehensive Object Detection Explainable AI Evaluation**|Loc Phuc Truong Nguyen et.al.|[2504.19249](http://arxiv.org/abs/2504.19249)|null|
+|**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Xiaoran Xu et.al.|[2504.19086](http://arxiv.org/abs/2504.19086)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939](http://arxiv.org/abs/2504.18939)|null|
+|**2025-04-25**|**Dream-Box: Object-wise Outlier Generation for Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2504.18746](http://arxiv.org/abs/2504.18746)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
+|**2025-04-24**|**A Decade of You Only Look Once (YOLO) for Object Detection**|Leo Thomas Ramos et.al.|[2504.18586](http://arxiv.org/abs/2504.18586)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
@@ -5019,6 +5030,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032](http://arxiv.org/abs/2504.20032)|null|
+|**2025-04-28**|**Lossy Source Coding with Focal Loss**|Alex Dytso et.al.|[2504.19913](http://arxiv.org/abs/2504.19913)|null|
+|**2025-04-28**|**Neural network task specialization via domain constraining**|Roman Malashin et.al.|[2504.19592](http://arxiv.org/abs/2504.19592)|null|
+|**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
+|**2025-04-27**|**Improving Small Drone Detection Through Multi-Scale Processing and Data Augmentation**|Rayson Laroca et.al.|[2504.19347](http://arxiv.org/abs/2504.19347)|null|
+|**2025-04-27**|**ODExAI: A Comprehensive Object Detection Explainable AI Evaluation**|Loc Phuc Truong Nguyen et.al.|[2504.19249](http://arxiv.org/abs/2504.19249)|null|
+|**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Xiaoran Xu et.al.|[2504.19086](http://arxiv.org/abs/2504.19086)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939](http://arxiv.org/abs/2504.18939)|null|
+|**2025-04-25**|**Dream-Box: Object-wise Outlier Generation for Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2504.18746](http://arxiv.org/abs/2504.18746)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
+|**2025-04-24**|**A Decade of You Only Look Once (YOLO) for Object Detection**|Leo Thomas Ramos et.al.|[2504.18586](http://arxiv.org/abs/2504.18586)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
@@ -6967,6 +6989,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
 |**2025-03-17**|**Ship Detection in Remote Sensing Imagery for Arbitrarily Oriented Object Detection**|Bibi Erum Ayesha et.al.|[2503.14534](http://arxiv.org/abs/2503.14534)|null|
 |**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
 |**2024-12-11**|**MID: A Comprehensive Shore-Based Dataset for Multi-Scale Dense Ship Occlusion and Interaction Scenarios**|Yugang Chang et.al.|[2412.05871](http://arxiv.org/abs/2412.05871)|**[link](https://github.com/virtualnew/mid_dataset)**|
