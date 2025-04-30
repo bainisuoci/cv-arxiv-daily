@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3058,7 +3058,7 @@ layout: default
 |**2025-04-24**|**A Decade of You Only Look Once (YOLO) for Object Detection**|Leo Thomas Ramos et.al.|[2504.18586](http://arxiv.org/abs/2504.18586)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
-|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|**[link](https://github.com/CarloSgaravatti/HybridLateCascadeFusion)**|
 |**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278](http://arxiv.org/abs/2504.18278)|null|
 |**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
 |**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
@@ -5015,7 +5015,7 @@ layout: default
 |**2025-04-24**|**A Decade of You Only Look Once (YOLO) for Object Detection**|Leo Thomas Ramos et.al.|[2504.18586](http://arxiv.org/abs/2504.18586)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510](http://arxiv.org/abs/2504.18510)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
-|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|**[link](https://github.com/CarloSgaravatti/HybridLateCascadeFusion)**|
 |**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278](http://arxiv.org/abs/2504.18278)|null|
 |**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
 |**2025-04-25**|**Multi-Grained Compositional Visual Clue Learning for Image Intent Recognition**|Yin Tang et.al.|[2504.18201](http://arxiv.org/abs/2504.18201)|null|
