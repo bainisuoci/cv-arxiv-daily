@@ -2890,6 +2890,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors**|Richard Schmit et.al.|[2505.00044](http://arxiv.org/abs/2505.00044)|null|
 |**2025-04-29**|**Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection**|Siwei Wang et.al.|[2504.20602](http://arxiv.org/abs/2504.20602)|null|
 |**2025-04-25**|**MASF-YOLO: An Improved YOLOv11 Network for Small Object Detection on Drone View**|Liugang Lu et.al.|[2504.18136](http://arxiv.org/abs/2504.18136)|null|
 |**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469](http://arxiv.org/abs/2504.13469)|null|
@@ -3046,6 +3047,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
+|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584](http://arxiv.org/abs/2505.00584)|null|
+|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564](http://arxiv.org/abs/2505.00564)|null|
+|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511](http://arxiv.org/abs/2505.00511)|null|
+|**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507](http://arxiv.org/abs/2505.00507)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[2505.00156](http://arxiv.org/abs/2505.00156)|null|
+|**2025-04-30**|**Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors**|Richard Schmit et.al.|[2505.00044](http://arxiv.org/abs/2505.00044)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
 |**2025-04-29**|**T2ID-CAS: Diffusion Model and Class Aware Sampling to Mitigate Class Imbalance in Neck Ultrasound Anatomical Landmark Detection**|Manikanta Varaganti et.al.|[2504.21231](http://arxiv.org/abs/2504.21231)|null|
 |**2025-04-27**|**Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality**|Majid Behravan et.al.|[2504.21033](http://arxiv.org/abs/2504.21033)|null|
@@ -5010,6 +5021,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
+|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584](http://arxiv.org/abs/2505.00584)|null|
+|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564](http://arxiv.org/abs/2505.00564)|null|
+|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511](http://arxiv.org/abs/2505.00511)|null|
+|**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507](http://arxiv.org/abs/2505.00507)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[2505.00156](http://arxiv.org/abs/2505.00156)|null|
+|**2025-04-30**|**Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors**|Richard Schmit et.al.|[2505.00044](http://arxiv.org/abs/2505.00044)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
 |**2025-04-29**|**T2ID-CAS: Diffusion Model and Class Aware Sampling to Mitigate Class Imbalance in Neck Ultrasound Anatomical Landmark Detection**|Manikanta Varaganti et.al.|[2504.21231](http://arxiv.org/abs/2504.21231)|null|
 |**2025-04-27**|**Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality**|Majid Behravan et.al.|[2504.21033](http://arxiv.org/abs/2504.21033)|null|
