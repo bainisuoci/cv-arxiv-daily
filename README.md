@@ -3686,7 +3686,7 @@
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
 |**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
 |**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
-|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|**[link](https://github.com/lexisnexis-risk-open-source/simltd)**|
 |**2024-12-27**|**Leveraging Scene Geometry and Depth Information for Robust Image Deraining**|Ningning Xu et.al.|[2412.19913](http://arxiv.org/abs/2412.19913)|null|
 |**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
@@ -5662,7 +5662,7 @@
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
 |**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
 |**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
-|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|**[link](https://github.com/lexisnexis-risk-open-source/simltd)**|
 |**2024-12-27**|**Leveraging Scene Geometry and Depth Information for Robust Image Deraining**|Ningning Xu et.al.|[2412.19913](http://arxiv.org/abs/2412.19913)|null|
 |**2024-12-27**|**Chimera: A Block-Based Neural Architecture Search Framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2412.19646](http://arxiv.org/abs/2412.19646)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467](http://arxiv.org/abs/2412.19467)|null|
