@@ -3050,6 +3050,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
+|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
+|**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
+|**2025-05-20**|**Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis**|Lanlan Kang et.al.|[2505.13875](http://arxiv.org/abs/2505.13875)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-20**|**A Challenge to Build Neuro-Symbolic Video Agents**|Sahil Shah et.al.|[2505.13851](http://arxiv.org/abs/2505.13851)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
+|**2025-05-08**|**An Edge AI Solution for Space Object Detection**|Wenxuan Zhang et.al.|[2505.13468](http://arxiv.org/abs/2505.13468)|null|
 |**2025-05-19**|**Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**|Xiao Wang et.al.|[2505.12908](http://arxiv.org/abs/2505.12908)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2025-05-19**|**Rethinking Features-Fused-Pyramid-Neck for Object Detection**|Hulin Li et.al.|[2505.12820](http://arxiv.org/abs/2505.12820)|**[link](https://github.com/alanli1997/rethinking-fpn)**|
 |**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
@@ -5092,6 +5101,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
+|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239](http://arxiv.org/abs/2505.14239)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
+|**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](http://arxiv.org/abs/2505.14062)|null|
+|**2025-05-20**|**Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis**|Lanlan Kang et.al.|[2505.13875](http://arxiv.org/abs/2505.13875)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-20**|**A Challenge to Build Neuro-Symbolic Video Agents**|Sahil Shah et.al.|[2505.13851](http://arxiv.org/abs/2505.13851)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
+|**2025-05-08**|**An Edge AI Solution for Space Object Detection**|Wenxuan Zhang et.al.|[2505.13468](http://arxiv.org/abs/2505.13468)|null|
 |**2025-05-19**|**Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**|Xiao Wang et.al.|[2505.12908](http://arxiv.org/abs/2505.12908)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2025-05-19**|**Rethinking Features-Fused-Pyramid-Neck for Object Detection**|Hulin Li et.al.|[2505.12820](http://arxiv.org/abs/2505.12820)|**[link](https://github.com/alanli1997/rethinking-fpn)**|
 |**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789](http://arxiv.org/abs/2505.12789)|null|
