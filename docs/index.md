@@ -3051,6 +3051,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
+|**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|null|
+|**2025-05-23**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
+|**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
+|**2025-05-23**|**Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom YOLOv8 Architecture**|Apar Pokhrel et.al.|[2505.17364](http://arxiv.org/abs/2505.17364)|null|
+|**2025-05-22**|**Extending Dataset Pruning to Object Detection: A Variance-based Approach**|Ryota Yagi et.al.|[2505.17245](http://arxiv.org/abs/2505.17245)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
 |**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
@@ -3077,7 +3085,7 @@ layout: default
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
 |**2025-05-17**|**EarthSynth: Generating Informative Earth Observation with Diffusion Models**|Jiancheng Pan et.al.|[2505.12108](http://arxiv.org/abs/2505.12108)|null|
 |**2025-05-17**|**Experimental Study on Automatically Assembling Custom Catering Packages With a 3-DOF Delta Robot Using Deep Learning Methods**|Reihaneh Yourdkhani et.al.|[2505.11879](http://arxiv.org/abs/2505.11879)|null|
-|**2025-05-14**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
+|**2025-05-23**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
 |**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
 |**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|**[link](https://github.com/wchao0601/m4-sar)**|
@@ -5112,6 +5120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
+|**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|null|
+|**2025-05-23**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
+|**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
+|**2025-05-23**|**Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom YOLOv8 Architecture**|Apar Pokhrel et.al.|[2505.17364](http://arxiv.org/abs/2505.17364)|null|
+|**2025-05-22**|**Extending Dataset Pruning to Object Detection: A Variance-based Approach**|Ryota Yagi et.al.|[2505.17245](http://arxiv.org/abs/2505.17245)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
 |**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740](http://arxiv.org/abs/2505.16740)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
@@ -5138,7 +5154,7 @@ layout: default
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
 |**2025-05-17**|**EarthSynth: Generating Informative Earth Observation with Diffusion Models**|Jiancheng Pan et.al.|[2505.12108](http://arxiv.org/abs/2505.12108)|null|
 |**2025-05-17**|**Experimental Study on Automatically Assembling Custom Catering Packages With a 3-DOF Delta Robot Using Deep Learning Methods**|Reihaneh Yourdkhani et.al.|[2505.11879](http://arxiv.org/abs/2505.11879)|null|
-|**2025-05-14**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
+|**2025-05-23**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
 |**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
 |**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|**[link](https://github.com/wchao0601/m4-sar)**|
