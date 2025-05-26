@@ -1008,7 +1008,7 @@ layout: default
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
 |**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467](http://arxiv.org/abs/2305.11467)|**[link](https://github.com/tiev-tongji/spatio-temporal-seqvpr)**|
-|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|null|
+|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|**[link](https://github.com/varunakk/imaginator)**|
 |**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979](http://arxiv.org/abs/2305.09979)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154](http://arxiv.org/abs/2305.07154)|**[link](https://github.com/mit-spark/hydra)**|
@@ -3600,7 +3600,7 @@ layout: default
 |**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
 |**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
 |**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
-|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
+|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|**[link](https://github.com/automl/GoLU)**|
 |**2025-02-05**|**Solar Panel Mapping via Oriented Object Detection**|Conor Wallace et.al.|[2502.03592](http://arxiv.org/abs/2502.03592)|null|
 |**2025-02-05**|**RoboGrasp: A Universal Grasping Policy for Robust Robotic Control**|Yiqi Huang et.al.|[2502.03072](http://arxiv.org/abs/2502.03072)|null|
 |**2025-02-05**|**Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features**|Keiichiro Yamamura et.al.|[2502.02895](http://arxiv.org/abs/2502.02895)|null|
@@ -3759,7 +3759,7 @@ layout: default
 |**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091](http://arxiv.org/abs/2412.19091)|null|
 |**2024-12-26**|**Assessing Pre-trained Models for Transfer Learning through Distribution of Spectral Components**|Tengxue Zhang et.al.|[2412.19085](http://arxiv.org/abs/2412.19085)|null|
 |**2025-01-15**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|**[link](https://github.com/bbdjj/CGCOD)**|
-|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
+|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|**[link](https://github.com/uddd821/hv-bev)**|
 |**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870](http://arxiv.org/abs/2412.18870)|**[link](https://github.com/ansonlcy/TSceneJAL)**|
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
@@ -3924,7 +3924,7 @@ layout: default
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
 |**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
-|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|**[link](https://github.com/wb014/FreeGS)**|
 |**2024-11-28**|**Automatic Prompt Generation and Grounding Object Detection for Zero-Shot Image Anomaly Detection**|Tsun-Hin Cheung et.al.|[2411.19220](http://arxiv.org/abs/2411.19220)|null|
 |**2024-11-28**|**Co-Learning: Towards Semi-Supervised Object Detection with Road-side Cameras**|Jicheng Yuan et.al.|[2411.19143](http://arxiv.org/abs/2411.19143)|null|
 |**2024-11-28**|**On Moving Object Segmentation from Monocular Video with Transformers**|Christian Homeyer et.al.|[2411.19141](http://arxiv.org/abs/2411.19141)|null|
@@ -5071,7 +5071,7 @@ layout: default
 |**2024-04-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al.|[2404.15008](http://arxiv.org/abs/2404.15008)|null|
 |**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
 |**2024-04-23**|**Unified Unsupervised Salient Object Detection via Knowledge Transfer**|Yao Yuan et.al.|[2404.14759](http://arxiv.org/abs/2404.14759)|**[link](https://github.com/I2-Multimedia-Lab/A2S-v3)**|
-|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|**[link](https://github.com/wencheng-zhu/ckd)**|
 |**2024-05-05**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
 |**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868](http://arxiv.org/abs/2404.13868)|null|
@@ -5661,7 +5661,7 @@ layout: default
 |**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
 |**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
 |**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
-|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
+|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|**[link](https://github.com/automl/GoLU)**|
 |**2025-02-05**|**Solar Panel Mapping via Oriented Object Detection**|Conor Wallace et.al.|[2502.03592](http://arxiv.org/abs/2502.03592)|null|
 |**2025-02-05**|**RoboGrasp: A Universal Grasping Policy for Robust Robotic Control**|Yiqi Huang et.al.|[2502.03072](http://arxiv.org/abs/2502.03072)|null|
 |**2025-02-05**|**Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features**|Keiichiro Yamamura et.al.|[2502.02895](http://arxiv.org/abs/2502.02895)|null|
@@ -5820,7 +5820,7 @@ layout: default
 |**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091](http://arxiv.org/abs/2412.19091)|null|
 |**2024-12-26**|**Assessing Pre-trained Models for Transfer Learning through Distribution of Spectral Components**|Tengxue Zhang et.al.|[2412.19085](http://arxiv.org/abs/2412.19085)|null|
 |**2025-01-15**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|**[link](https://github.com/bbdjj/CGCOD)**|
-|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|null|
+|**2024-12-30**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884](http://arxiv.org/abs/2412.18884)|**[link](https://github.com/uddd821/hv-bev)**|
 |**2024-12-25**|**TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**|Chenyang Lei et.al.|[2412.18870](http://arxiv.org/abs/2412.18870)|**[link](https://github.com/ansonlcy/TSceneJAL)**|
 |**2024-12-25**|**Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors**|Pham Phuc et.al.|[2412.18815](http://arxiv.org/abs/2412.18815)|**[link](https://github.com/anonymous20210106/attack_detector)**|
 |**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
@@ -5985,7 +5985,7 @@ layout: default
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
 |**2024-11-29**|**LDA-AQU: Adaptive Query-guided Upsampling via Local Deformable Attention**|Zewen Du et.al.|[2411.19585](http://arxiv.org/abs/2411.19585)|**[link](https://github.com/duzw9311/lda-aqu)**|
-|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|**[link](https://github.com/wb014/FreeGS)**|
 |**2024-11-28**|**Automatic Prompt Generation and Grounding Object Detection for Zero-Shot Image Anomaly Detection**|Tsun-Hin Cheung et.al.|[2411.19220](http://arxiv.org/abs/2411.19220)|null|
 |**2024-11-28**|**Co-Learning: Towards Semi-Supervised Object Detection with Road-side Cameras**|Jicheng Yuan et.al.|[2411.19143](http://arxiv.org/abs/2411.19143)|null|
 |**2024-11-28**|**On Moving Object Segmentation from Monocular Video with Transformers**|Christian Homeyer et.al.|[2411.19141](http://arxiv.org/abs/2411.19141)|null|
@@ -7132,7 +7132,7 @@ layout: default
 |**2024-04-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al.|[2404.15008](http://arxiv.org/abs/2404.15008)|null|
 |**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
 |**2024-04-23**|**Unified Unsupervised Salient Object Detection via Knowledge Transfer**|Yao Yuan et.al.|[2404.14759](http://arxiv.org/abs/2404.14759)|**[link](https://github.com/I2-Multimedia-Lab/A2S-v3)**|
-|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|**[link](https://github.com/wencheng-zhu/ckd)**|
 |**2024-05-05**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
 |**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868](http://arxiv.org/abs/2404.13868)|null|
