@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -487,7 +487,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## SFM
 
@@ -677,7 +677,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1438,7 +1438,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1660,7 +1660,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1892,7 +1892,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## NeRF
 
@@ -2908,7 +2908,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## 小目标
 
@@ -2959,7 +2959,7 @@
 |**2024-08-16**|**Enhancing Object Detection with Hybrid dataset in Manufacturing Environments: Comparing Federated Learning to Conventional Techniques**|Vinit Hegiste et.al.|[2408.08974](http://arxiv.org/abs/2408.08974)|null|
 |**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786](http://arxiv.org/abs/2408.04786)|**[link](https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images)**|
-|**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|**[link](https://github.com/duzw9311/cfpt)**|
+|**2025-05-28**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|**[link](https://github.com/duzw9311/cfpt)**|
 |**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137](http://arxiv.org/abs/2407.18137)|null|
 |**2024-12-17**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|**[link](https://github.com/alibaba/esod)**|
 |**2024-05-17**|**Better Sampling, towards Better End-to-end Small Object Detection**|Zile Huang et.al.|[2407.06127](http://arxiv.org/abs/2407.06127)|null|
@@ -3073,7 +3073,7 @@
 |**2020-05-07**|**IPG-Net: Image Pyramid Guidance Network for Small Object Detection**|Ziming Liu et.al.|[1912.00632](http://arxiv.org/abs/1912.00632)|null|
 |**2019-07-16**|**Deep inspection: an electrical distribution pole parts study via deep neural networks**|Liangchen Liu et.al.|[1907.06844](http://arxiv.org/abs/1907.06844)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## object detection
 
@@ -3094,9 +3094,9 @@
 |**2025-05-25**|**What do Blind and Low-Vision People Really Want from Assistive Smart Devices? Comparison of the Literature with a Focus Study**|Bhanuka Gamage et.al.|[2505.19325](http://arxiv.org/abs/2505.19325)|null|
 |**2025-05-25**|**VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion**|Zhiwei Lin et.al.|[2505.18986](http://arxiv.org/abs/2505.18986)|null|
 |**2025-05-24**|**Mitigating Context Bias in Domain Adaptation for Object Detection using Mask Pooling**|Hojun Son et.al.|[2505.18446](http://arxiv.org/abs/2505.18446)|null|
-|**2025-05-23**|**Sampling Strategies for Efficient Training of Deep Learning Object Detection Algorithms**|Gefei Shen et.al.|[2505.18302](http://arxiv.org/abs/2505.18302)|null|
+|**2025-05-27**|**Sampling Strategies for Efficient Training of Deep Learning Object Detection Algorithms**|Gefei Shen et.al.|[2505.18302](http://arxiv.org/abs/2505.18302)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
-|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|**[link](https://github.com/shashankskagnihotri/benchmarking_reliability_generalization)**|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
 |**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|null|
 |**2025-05-27**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
@@ -3131,7 +3131,7 @@
 |**2025-05-17**|**Experimental Study on Automatically Assembling Custom Catering Packages With a 3-DOF Delta Robot Using Deep Learning Methods**|Reihaneh Yourdkhani et.al.|[2505.11879](http://arxiv.org/abs/2505.11879)|null|
 |**2025-05-23**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
 |**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
-|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|**[link](https://github.com/shrutarv/mtevent_toolkit)**|
 |**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|**[link](https://github.com/wchao0601/m4-sar)**|
 |**2025-05-16**|**A High-Performance Thermal Infrared Object Detection Framework with Centralized Regulation**|Jinke Li et.al.|[2505.10825](http://arxiv.org/abs/2505.10825)|null|
 |**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292](http://arxiv.org/abs/2505.10292)|**[link](https://github.com/daniel3303/storyreasoning)**|
@@ -3157,7 +3157,7 @@
 |**2025-05-12**|**Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection**|Hongda Qin et.al.|[2505.07219](http://arxiv.org/abs/2505.07219)|**[link](https://github.com/qinhongda8/ldds)**|
 |**2025-05-11**|**Differentiable NMS via Sinkhorn Matching for End-to-End Fabric Defect Detection**|Zhengyang Lu et.al.|[2505.07040](http://arxiv.org/abs/2505.07040)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
-|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
+|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|**[link](https://github.com/zhumorui/m3cad)**|
 |**2025-05-10**|**Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search**|XiaoTong Gu et.al.|[2505.06694](http://arxiv.org/abs/2505.06694)|null|
 |**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|**[link](https://github.com/wangyongqi558/METOR)**|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
@@ -5160,7 +5160,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Remote Sensing Image
 
@@ -5181,9 +5181,9 @@
 |**2025-05-25**|**What do Blind and Low-Vision People Really Want from Assistive Smart Devices? Comparison of the Literature with a Focus Study**|Bhanuka Gamage et.al.|[2505.19325](http://arxiv.org/abs/2505.19325)|null|
 |**2025-05-25**|**VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion**|Zhiwei Lin et.al.|[2505.18986](http://arxiv.org/abs/2505.18986)|null|
 |**2025-05-24**|**Mitigating Context Bias in Domain Adaptation for Object Detection using Mask Pooling**|Hojun Son et.al.|[2505.18446](http://arxiv.org/abs/2505.18446)|null|
-|**2025-05-23**|**Sampling Strategies for Efficient Training of Deep Learning Object Detection Algorithms**|Gefei Shen et.al.|[2505.18302](http://arxiv.org/abs/2505.18302)|null|
+|**2025-05-27**|**Sampling Strategies for Efficient Training of Deep Learning Object Detection Algorithms**|Gefei Shen et.al.|[2505.18302](http://arxiv.org/abs/2505.18302)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
-|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|**[link](https://github.com/shashankskagnihotri/benchmarking_reliability_generalization)**|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
 |**2025-05-23**|**Adaptive Semantic Token Communication for Transformer-based Edge Inference**|Alessio Devoto et.al.|[2505.17604](http://arxiv.org/abs/2505.17604)|null|
 |**2025-05-27**|**OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**|Jiangning Zhu et.al.|[2505.17473](http://arxiv.org/abs/2505.17473)|null|
@@ -5218,7 +5218,7 @@
 |**2025-05-17**|**Experimental Study on Automatically Assembling Custom Catering Packages With a 3-DOF Delta Robot Using Deep Learning Methods**|Reihaneh Yourdkhani et.al.|[2505.11879](http://arxiv.org/abs/2505.11879)|null|
 |**2025-05-23**|**Revisiting Adversarial Perception Attacks and Defense Methods on Autonomous Driving Systems**|Cheng Chen et.al.|[2505.11532](http://arxiv.org/abs/2505.11532)|**[link](https://github.com/depcps/revisiting_adversarial_ads)**|
 |**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424](http://arxiv.org/abs/2505.11424)|null|
-|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282](http://arxiv.org/abs/2505.11282)|**[link](https://github.com/shrutarv/mtevent_toolkit)**|
 |**2025-05-16**|**M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**|Chao Wang et.al.|[2505.10931](http://arxiv.org/abs/2505.10931)|**[link](https://github.com/wchao0601/m4-sar)**|
 |**2025-05-16**|**A High-Performance Thermal Infrared Object Detection Framework with Centralized Regulation**|Jinke Li et.al.|[2505.10825](http://arxiv.org/abs/2505.10825)|null|
 |**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292](http://arxiv.org/abs/2505.10292)|**[link](https://github.com/daniel3303/storyreasoning)**|
@@ -5244,7 +5244,7 @@
 |**2025-05-12**|**Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection**|Hongda Qin et.al.|[2505.07219](http://arxiv.org/abs/2505.07219)|**[link](https://github.com/qinhongda8/ldds)**|
 |**2025-05-11**|**Differentiable NMS via Sinkhorn Matching for End-to-End Fabric Defect Detection**|Zhengyang Lu et.al.|[2505.07040](http://arxiv.org/abs/2505.07040)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
-|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
+|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|**[link](https://github.com/zhumorui/m3cad)**|
 |**2025-05-10**|**Underwater object detection in sonar imagery with detection transformer and Zero-shot neural architecture search**|XiaoTong Gu et.al.|[2505.06694](http://arxiv.org/abs/2505.06694)|null|
 |**2025-05-10**|**METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection**|Yongqi Wang et.al.|[2505.06663](http://arxiv.org/abs/2505.06663)|**[link](https://github.com/wangyongqi558/METOR)**|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
@@ -7247,7 +7247,7 @@
 |**2024-04-14**|**TEXT2TASTE: A Versatile Egocentric Vision System for Intelligent Reading Assistance Using Large Language Model**|Wiktor Mucha et.al.|[2404.09254](http://arxiv.org/abs/2404.09254)|null|
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Ship detection
 
@@ -7310,7 +7310,7 @@
 |**2018-04-25**|**Robust Anomaly-Based Ship Proposals Detection from Pan-sharpened High-Resolution Satellite Image**|Viet Hung Luu et.al.|[1804.09322](http://arxiv.org/abs/1804.09322)|null|
 |**2013-10-21**|**Ship Detection and Segmentation using Image Correlation**|Alexander Kadyrov et.al.|[1310.5542](http://arxiv.org/abs/1310.5542)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
