@@ -2914,6 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**|Guiping Cao et.al.|[2505.21868](http://arxiv.org/abs/2505.21868)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
 |**2025-05-22**|**MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection**|Yichen Li et.al.|[2505.16442](http://arxiv.org/abs/2505.16442)|null|
@@ -3079,6 +3080,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-28**|**Task-Driven Implicit Representations for Automated Design of LiDAR Systems**|Nikhil Behari et.al.|[2505.22344](http://arxiv.org/abs/2505.22344)|null|
+|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
+|**2025-05-28**|**Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**|Chao Tian et.al.|[2505.22154](http://arxiv.org/abs/2505.22154)|null|
+|**2025-05-28**|**Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**|Menghui Zhang et.al.|[2505.22011](http://arxiv.org/abs/2505.22011)|null|
+|**2025-05-28**|**Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**|Guiping Cao et.al.|[2505.21868](http://arxiv.org/abs/2505.21868)|null|
+|**2025-05-27**|**Object Concepts Emerge from Motion**|Haoqian Liang et.al.|[2505.21635](http://arxiv.org/abs/2505.21635)|null|
+|**2025-05-27**|**Do you see what I see? An Ambiguous Optical Illusion Dataset exposing limitations of Explainable AI**|Carina Newen et.al.|[2505.21589](http://arxiv.org/abs/2505.21589)|null|
+|**2025-05-24**|**Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee Disease Diagnosis and Farmer Assistance**|Semanto Mondal et.al.|[2505.21544](http://arxiv.org/abs/2505.21544)|null|
+|**2025-05-23**|**Self-Organizing Visual Prototypes for Non-Parametric Representation Learning**|Thalles Silva et.al.|[2505.21533](http://arxiv.org/abs/2505.21533)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**|Yue Li Du et.al.|[2505.21454](http://arxiv.org/abs/2505.21454)|null|
 |**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370](http://arxiv.org/abs/2505.21370)|null|
@@ -5166,6 +5178,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-28**|**Task-Driven Implicit Representations for Automated Design of LiDAR Systems**|Nikhil Behari et.al.|[2505.22344](http://arxiv.org/abs/2505.22344)|null|
+|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
+|**2025-05-28**|**Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**|Chao Tian et.al.|[2505.22154](http://arxiv.org/abs/2505.22154)|null|
+|**2025-05-28**|**Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**|Menghui Zhang et.al.|[2505.22011](http://arxiv.org/abs/2505.22011)|null|
+|**2025-05-28**|**Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**|Guiping Cao et.al.|[2505.21868](http://arxiv.org/abs/2505.21868)|null|
+|**2025-05-27**|**Object Concepts Emerge from Motion**|Haoqian Liang et.al.|[2505.21635](http://arxiv.org/abs/2505.21635)|null|
+|**2025-05-27**|**Do you see what I see? An Ambiguous Optical Illusion Dataset exposing limitations of Explainable AI**|Carina Newen et.al.|[2505.21589](http://arxiv.org/abs/2505.21589)|null|
+|**2025-05-24**|**Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee Disease Diagnosis and Farmer Assistance**|Semanto Mondal et.al.|[2505.21544](http://arxiv.org/abs/2505.21544)|null|
+|**2025-05-23**|**Self-Organizing Visual Prototypes for Non-Parametric Representation Learning**|Thalles Silva et.al.|[2505.21533](http://arxiv.org/abs/2505.21533)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**|Yue Li Du et.al.|[2505.21454](http://arxiv.org/abs/2505.21454)|null|
 |**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370](http://arxiv.org/abs/2505.21370)|null|
