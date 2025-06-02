@@ -3054,6 +3054,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
+|**2025-05-30**|**Leadership Assessment in Pediatric Intensive Care Unit Team Training**|Liangyang Ouyang et.al.|[2505.24389](http://arxiv.org/abs/2505.24389)|null|
+|**2025-05-30**|**D2AF: A Dual-Driven Annotation and Filtering Framework for Visual Grounding**|Yichi Zhang et.al.|[2505.24372](http://arxiv.org/abs/2505.24372)|null|
+|**2025-05-29**|**Conformal Object Detection by Sequential Risk Control**|Léo Andéol et.al.|[2505.24038](http://arxiv.org/abs/2505.24038)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726](http://arxiv.org/abs/2505.23726)|null|
@@ -5157,6 +5161,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
+|**2025-05-30**|**Leadership Assessment in Pediatric Intensive Care Unit Team Training**|Liangyang Ouyang et.al.|[2505.24389](http://arxiv.org/abs/2505.24389)|null|
+|**2025-05-30**|**D2AF: A Dual-Driven Annotation and Filtering Framework for Visual Grounding**|Yichi Zhang et.al.|[2505.24372](http://arxiv.org/abs/2505.24372)|null|
+|**2025-05-29**|**Conformal Object Detection by Sequential Risk Control**|Léo Andéol et.al.|[2505.24038](http://arxiv.org/abs/2505.24038)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726](http://arxiv.org/abs/2505.23726)|null|
@@ -7260,6 +7268,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
 |**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
 |**2025-03-17**|**Ship Detection in Remote Sensing Imagery for Arbitrarily Oriented Object Detection**|Bibi Erum Ayesha et.al.|[2503.14534](http://arxiv.org/abs/2503.14534)|null|
 |**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
