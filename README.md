@@ -3080,6 +3080,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
+|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393](http://arxiv.org/abs/2506.07393)|null|
+|**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
+|**2025-06-09**|**CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms**|Satvik Praveen et.al.|[2506.07357](http://arxiv.org/abs/2506.07357)|null|
+|**2025-06-08**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087](http://arxiv.org/abs/2506.07087)|null|
+|**2025-06-07**|**Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences**|Mellon M. Zhang et.al.|[2506.06944](http://arxiv.org/abs/2506.06944)|null|
+|**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631](http://arxiv.org/abs/2506.06631)|null|
+|**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[2506.06474](http://arxiv.org/abs/2506.06474)|null|
+|**2025-05-26**|**A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration**|Meiyan Kang et.al.|[2506.06311](http://arxiv.org/abs/2506.06311)|null|
 |**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872](http://arxiv.org/abs/2506.05872)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679](http://arxiv.org/abs/2506.05679)|null|
@@ -5224,6 +5238,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
+|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393](http://arxiv.org/abs/2506.07393)|null|
+|**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
+|**2025-06-09**|**CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms**|Satvik Praveen et.al.|[2506.07357](http://arxiv.org/abs/2506.07357)|null|
+|**2025-06-08**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087](http://arxiv.org/abs/2506.07087)|null|
+|**2025-06-07**|**Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences**|Mellon M. Zhang et.al.|[2506.06944](http://arxiv.org/abs/2506.06944)|null|
+|**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631](http://arxiv.org/abs/2506.06631)|null|
+|**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[2506.06474](http://arxiv.org/abs/2506.06474)|null|
+|**2025-05-26**|**A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration**|Meiyan Kang et.al.|[2506.06311](http://arxiv.org/abs/2506.06311)|null|
 |**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872](http://arxiv.org/abs/2506.05872)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679](http://arxiv.org/abs/2506.05679)|null|
@@ -7368,6 +7396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**An Efficient Method for Evaluating the Feasibility of Spaceborne SAR for Ocean Ship Detection**|Anatolii Kononov et.al.|[2506.07686](http://arxiv.org/abs/2506.07686)|null|
 |**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
 |**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
 |**2025-03-17**|**Ship Detection in Remote Sensing Imagery for Arbitrarily Oriented Object Detection**|Bibi Erum Ayesha et.al.|[2503.14534](http://arxiv.org/abs/2503.14534)|null|
@@ -7376,7 +7405,7 @@
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-05**|**Enhancing Maritime Situational Awareness through End-to-End Onboard Raw Data Analysis**|Roberto Del Prete et.al.|[2411.03403](http://arxiv.org/abs/2411.03403)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
-|**2025-03-22**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
+|**2025-06-09**|**RSNet: A Light Framework for The Detection of SAR Ship Detection**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-11**|**Advancements in Ship Detection: Comparative Analysis of Optical and Hyperspectral Sensors**|Alyazia Al Shamsi et.al.|[2410.10888](http://arxiv.org/abs/2410.10888)|null|
 |**2024-07-26**|**SMPISD-MTPNet: Scene Semantic Prior-Assisted Infrared Ship Detection Using Multi-Task Perception Networks**|Chen Hu et.al.|[2407.18487](http://arxiv.org/abs/2407.18487)|**[link](https://github.com/greekinroma/kmndnet)**|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
