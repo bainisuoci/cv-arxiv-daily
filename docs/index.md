@@ -3055,6 +3055,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788](http://arxiv.org/abs/2506.10788)|null|
+|**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
+|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
+|**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
+|**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242](http://arxiv.org/abs/2506.10242)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
@@ -5225,6 +5231,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788](http://arxiv.org/abs/2506.10788)|null|
+|**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
+|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
+|**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
+|**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242](http://arxiv.org/abs/2506.10242)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
 |**2025-06-11**|**MSSDF: Modality-Shared Self-supervised Distillation for High-Resolution Multi-modal Remote Sensing Image Learning**|Tong Wang et.al.|[2506.09327](http://arxiv.org/abs/2506.09327)|null|
