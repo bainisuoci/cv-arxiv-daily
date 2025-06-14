@@ -3068,7 +3068,7 @@ layout: default
 |**2025-06-10**|**Lightweight Object Detection Using Quantized YOLOv4-Tiny for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2506.09299](http://arxiv.org/abs/2506.09299)|null|
 |**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098](http://arxiv.org/abs/2506.09098)|null|
 |**2025-06-10**|**BakuFlow: A Streamlining Semi-Automatic Label Generation Tool**|Jerry Lin et.al.|[2506.09083](http://arxiv.org/abs/2506.09083)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968](http://arxiv.org/abs/2506.08968)|null|
 |**2025-06-10**|**Data Augmentation For Small Object using Fast AutoAugment**|DaeEun Yoon et.al.|[2506.08956](http://arxiv.org/abs/2506.08956)|null|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
@@ -3079,7 +3079,7 @@ layout: default
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
-|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|**[link](https://github.com/jacobhenningsson95/synmfg_code)**|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
 |**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393](http://arxiv.org/abs/2506.07393)|null|
 |**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
@@ -5244,7 +5244,7 @@ layout: default
 |**2025-06-10**|**Lightweight Object Detection Using Quantized YOLOv4-Tiny for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2506.09299](http://arxiv.org/abs/2506.09299)|null|
 |**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098](http://arxiv.org/abs/2506.09098)|null|
 |**2025-06-10**|**BakuFlow: A Streamlining Semi-Automatic Label Generation Tool**|Jerry Lin et.al.|[2506.09083](http://arxiv.org/abs/2506.09083)|null|
-|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
 |**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968](http://arxiv.org/abs/2506.08968)|null|
 |**2025-06-10**|**Data Augmentation For Small Object using Fast AutoAugment**|DaeEun Yoon et.al.|[2506.08956](http://arxiv.org/abs/2506.08956)|null|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
@@ -5255,7 +5255,7 @@ layout: default
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
-|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|**[link](https://github.com/jacobhenningsson95/synmfg_code)**|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
 |**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393](http://arxiv.org/abs/2506.07393)|null|
 |**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
