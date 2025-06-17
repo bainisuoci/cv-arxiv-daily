@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3062,9 +3062,9 @@ layout: default
 |**2025-06-10**|**Adaptive Object Detection with ESRGAN-Enhanced Resolution & Faster R-CNN**|Divya Swetha K et.al.|[2506.11122](http://arxiv.org/abs/2506.11122)|null|
 |**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788](http://arxiv.org/abs/2506.10788)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
-|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
+|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|**[link](https://github.com/antxinyuan/ssp)**|
 |**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
-|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|**[link](https://github.com/lmmh058/fsatfusion)**|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242](http://arxiv.org/abs/2506.10242)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
@@ -3112,7 +3112,7 @@ layout: default
 |**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
 |**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
-|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|**[link](https://github.com/zhuxing0/sa-radar)**|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
@@ -3123,7 +3123,7 @@ layout: default
 |**2025-06-02**|**OD3: Optimization-free Dataset Distillation for Object Detection**|Salwa K. Al Khatib et.al.|[2506.01942](http://arxiv.org/abs/2506.01942)|null|
 |**2025-06-02**|**A Novel Context-Adaptive Fusion of Shadow and Highlight Regions for Efficient Sonar Image Classification**|Kamal Basha S et.al.|[2506.01445](http://arxiv.org/abs/2506.01445)|null|
 |**2025-06-02**|**VRD-IU: Lessons from Visually Rich Document Intelligence and Understanding**|Yihao Ding et.al.|[2506.01388](http://arxiv.org/abs/2506.01388)|null|
-|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
+|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|**[link](https://gitlab.com/viper-purdue/lic-pruning)**|
 |**2025-06-01**|**Pseudo-Labeling Driven Refinement of Benchmark Object Detection Datasets via Analysis of Learning Patterns**|Min Je Kim et.al.|[2506.00997](http://arxiv.org/abs/2506.00997)|null|
 |**2025-06-01**|**Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras**|Xander Küpers et.al.|[2506.00904](http://arxiv.org/abs/2506.00904)|null|
 |**2025-05-31**|**Fovea Stacking: Imaging with Dynamic Localized Aberration Correction**|Shi Mao et.al.|[2506.00716](http://arxiv.org/abs/2506.00716)|null|
@@ -5243,9 +5243,9 @@ layout: default
 |**2025-06-10**|**Adaptive Object Detection with ESRGAN-Enhanced Resolution & Faster R-CNN**|Divya Swetha K et.al.|[2506.11122](http://arxiv.org/abs/2506.11122)|null|
 |**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788](http://arxiv.org/abs/2506.10788)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
-|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|null|
+|**2025-06-12**|**Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection**|Xinyuan Liu et.al.|[2506.10601](http://arxiv.org/abs/2506.10601)|**[link](https://github.com/antxinyuan/ssp)**|
 |**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573](http://arxiv.org/abs/2506.10573)|null|
-|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|**[link](https://github.com/lmmh058/fsatfusion)**|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242](http://arxiv.org/abs/2506.10242)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
@@ -5293,7 +5293,7 @@ layout: default
 |**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654](http://arxiv.org/abs/2506.03654)|null|
 |**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
-|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|**[link](https://github.com/zhuxing0/sa-radar)**|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
@@ -5304,7 +5304,7 @@ layout: default
 |**2025-06-02**|**OD3: Optimization-free Dataset Distillation for Object Detection**|Salwa K. Al Khatib et.al.|[2506.01942](http://arxiv.org/abs/2506.01942)|null|
 |**2025-06-02**|**A Novel Context-Adaptive Fusion of Shadow and Highlight Regions for Efficient Sonar Image Classification**|Kamal Basha S et.al.|[2506.01445](http://arxiv.org/abs/2506.01445)|null|
 |**2025-06-02**|**VRD-IU: Lessons from Visually Rich Document Intelligence and Understanding**|Yihao Ding et.al.|[2506.01388](http://arxiv.org/abs/2506.01388)|null|
-|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
+|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|**[link](https://gitlab.com/viper-purdue/lic-pruning)**|
 |**2025-06-01**|**Pseudo-Labeling Driven Refinement of Benchmark Object Detection Datasets via Analysis of Learning Patterns**|Min Je Kim et.al.|[2506.00997](http://arxiv.org/abs/2506.00997)|null|
 |**2025-06-01**|**Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras**|Xander Küpers et.al.|[2506.00904](http://arxiv.org/abs/2506.00904)|null|
 |**2025-05-31**|**Fovea Stacking: Imaging with Dynamic Localized Aberration Correction**|Shi Mao et.al.|[2506.00716](http://arxiv.org/abs/2506.00716)|null|
