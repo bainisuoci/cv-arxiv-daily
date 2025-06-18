@@ -3082,6 +3082,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696](http://arxiv.org/abs/2506.14696)|null|
+|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629](http://arxiv.org/abs/2506.14629)|null|
+|**2025-06-17**|**GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments**|Farha Abdul Wasay et.al.|[2506.14513](http://arxiv.org/abs/2506.14513)|null|
+|**2025-06-17**|**Comparison of Two Methods for Stationary Incident Detection Based on Background Image**|Deepak Ghimire et.al.|[2506.14256](http://arxiv.org/abs/2506.14256)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|null|
+|**2025-06-16**|**FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**|Daniel Montoya et.al.|[2506.14008](http://arxiv.org/abs/2506.14008)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-17**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657](http://arxiv.org/abs/2506.13657)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
@@ -5273,6 +5279,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696](http://arxiv.org/abs/2506.14696)|null|
+|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629](http://arxiv.org/abs/2506.14629)|null|
+|**2025-06-17**|**GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments**|Farha Abdul Wasay et.al.|[2506.14513](http://arxiv.org/abs/2506.14513)|null|
+|**2025-06-17**|**Comparison of Two Methods for Stationary Incident Detection Based on Background Image**|Deepak Ghimire et.al.|[2506.14256](http://arxiv.org/abs/2506.14256)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|null|
+|**2025-06-16**|**FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**|Daniel Montoya et.al.|[2506.14008](http://arxiv.org/abs/2506.14008)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-17**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657](http://arxiv.org/abs/2506.13657)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
