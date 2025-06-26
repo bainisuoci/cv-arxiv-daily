@@ -3082,6 +3082,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[2506.20550](http://arxiv.org/abs/2506.20550)|null|
+|**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475](http://arxiv.org/abs/2506.20475)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
+|**2025-06-25**|**From Codicology to Code: A Comparative Study of Transformer and YOLO-based Detectors for Layout Analysis in Historical Documents**|Sergio Torres Aguilar et.al.|[2506.20326](http://arxiv.org/abs/2506.20326)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
+|**2025-06-25**|**Integrated optomechanical ultrasonic sensors with nano-Pascal-level sensitivity**|Xuening Cao et.al.|[2506.20219](http://arxiv.org/abs/2506.20219)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
 |**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
@@ -5308,6 +5314,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[2506.20550](http://arxiv.org/abs/2506.20550)|null|
+|**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475](http://arxiv.org/abs/2506.20475)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
+|**2025-06-25**|**From Codicology to Code: A Comparative Study of Transformer and YOLO-based Detectors for Layout Analysis in Historical Documents**|Sergio Torres Aguilar et.al.|[2506.20326](http://arxiv.org/abs/2506.20326)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
+|**2025-06-25**|**Integrated optomechanical ultrasonic sensors with nano-Pascal-level sensitivity**|Xuening Cao et.al.|[2506.20219](http://arxiv.org/abs/2506.20219)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
 |**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
