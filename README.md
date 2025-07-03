@@ -2914,6 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
 |**2025-06-15**|**MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection**|Yuxiang Wang et.al.|[2506.12697](http://arxiv.org/abs/2506.12697)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
@@ -3083,6 +3084,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
+|**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
+|**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852](http://arxiv.org/abs/2507.00852)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiao Zhang et.al.|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
+|**2025-07-01**|**De-Simplifying Pseudo Labels to Enhancing Domain Adaptive Object Detection**|Zehua Fu et.al.|[2507.00608](http://arxiv.org/abs/2507.00608)|null|
+|**2025-07-01**|**Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video**|Alexander Moore et.al.|[2507.00339](http://arxiv.org/abs/2507.00339)|null|
+|**2025-06-30**|**Computer Vision for Objects used in Group Work: Challenges and Opportunities**|Changsoo Jung et.al.|[2507.00224](http://arxiv.org/abs/2507.00224)|null|
+|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190](http://arxiv.org/abs/2507.00190)|null|
+|**2025-06-28**|**An efficient plant disease detection using transfer learning approach**|Bosubabu Sambana et.al.|[2507.00070](http://arxiv.org/abs/2507.00070)|null|
+|**2025-06-24**|**AdaDeDup: Adaptive Hybrid Data Pruning for Efficient Large-Scale Object Detection Training**|Feiyang Kang et.al.|[2507.00049](http://arxiv.org/abs/2507.00049)|null|
+|**2025-06-23**|**Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay**|Xinrun Xu et.al.|[2507.00042](http://arxiv.org/abs/2507.00042)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785](http://arxiv.org/abs/2506.23785)|null|
 |**2025-06-30**|**PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection**|Xiao Li et.al.|[2506.23581](http://arxiv.org/abs/2506.23581)|null|
@@ -5344,6 +5361,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
+|**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
+|**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852](http://arxiv.org/abs/2507.00852)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiao Zhang et.al.|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
+|**2025-07-01**|**De-Simplifying Pseudo Labels to Enhancing Domain Adaptive Object Detection**|Zehua Fu et.al.|[2507.00608](http://arxiv.org/abs/2507.00608)|null|
+|**2025-07-01**|**Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video**|Alexander Moore et.al.|[2507.00339](http://arxiv.org/abs/2507.00339)|null|
+|**2025-06-30**|**Computer Vision for Objects used in Group Work: Challenges and Opportunities**|Changsoo Jung et.al.|[2507.00224](http://arxiv.org/abs/2507.00224)|null|
+|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190](http://arxiv.org/abs/2507.00190)|null|
+|**2025-06-28**|**An efficient plant disease detection using transfer learning approach**|Bosubabu Sambana et.al.|[2507.00070](http://arxiv.org/abs/2507.00070)|null|
+|**2025-06-24**|**AdaDeDup: Adaptive Hybrid Data Pruning for Efficient Large-Scale Object Detection Training**|Feiyang Kang et.al.|[2507.00049](http://arxiv.org/abs/2507.00049)|null|
+|**2025-06-23**|**Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay**|Xinrun Xu et.al.|[2507.00042](http://arxiv.org/abs/2507.00042)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785](http://arxiv.org/abs/2506.23785)|null|
 |**2025-06-30**|**PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection**|Xiao Li et.al.|[2506.23581](http://arxiv.org/abs/2506.23581)|null|
