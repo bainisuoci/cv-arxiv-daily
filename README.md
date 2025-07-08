@@ -3084,6 +3084,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
+|**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
+|**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
+|**2025-07-06**|**ZERO: Multi-modal Prompt-based Visual Grounding**|Sangbum Choi et.al.|[2507.04270](http://arxiv.org/abs/2507.04270)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
+|**2025-07-04**|**Zero Memory Overhead Approach for Protecting Vision Transformer Parameters**|Fereshteh Baradaran et.al.|[2507.03816](http://arxiv.org/abs/2507.03816)|null|
+|**2025-07-04**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al.|[2507.03564](http://arxiv.org/abs/2507.03564)|null|
+|**2025-07-04**|**Enhancing Uncertainty Quantification for Runtime Safety Assurance Using Causal Risk Analysis and Operational Design Domain**|Radouane Bouchekir et.al.|[2507.03515](http://arxiv.org/abs/2507.03515)|null|
+|**2025-07-03**|**Detection of Rail Line Track and Human Beings Near the Track to Avoid Accidents**|Mehrab Hosain et.al.|[2507.03040](http://arxiv.org/abs/2507.03040)|null|
+|**2025-06-27**|**GameTileNet: A Semantic Dataset for Low-Resolution Game Art in Procedural Content Generation**|Yi-Chun Chen et.al.|[2507.02941](http://arxiv.org/abs/2507.02941)|null|
 |**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751](http://arxiv.org/abs/2507.02751)|null|
 |**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
@@ -5370,6 +5382,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
+|**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
+|**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
+|**2025-07-06**|**ZERO: Multi-modal Prompt-based Visual Grounding**|Sangbum Choi et.al.|[2507.04270](http://arxiv.org/abs/2507.04270)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
+|**2025-07-04**|**Zero Memory Overhead Approach for Protecting Vision Transformer Parameters**|Fereshteh Baradaran et.al.|[2507.03816](http://arxiv.org/abs/2507.03816)|null|
+|**2025-07-04**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al.|[2507.03564](http://arxiv.org/abs/2507.03564)|null|
+|**2025-07-04**|**Enhancing Uncertainty Quantification for Runtime Safety Assurance Using Causal Risk Analysis and Operational Design Domain**|Radouane Bouchekir et.al.|[2507.03515](http://arxiv.org/abs/2507.03515)|null|
+|**2025-07-03**|**Detection of Rail Line Track and Human Beings Near the Track to Avoid Accidents**|Mehrab Hosain et.al.|[2507.03040](http://arxiv.org/abs/2507.03040)|null|
+|**2025-06-27**|**GameTileNet: A Semantic Dataset for Low-Resolution Game Art in Procedural Content Generation**|Yi-Chun Chen et.al.|[2507.02941](http://arxiv.org/abs/2507.02941)|null|
 |**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751](http://arxiv.org/abs/2507.02751)|null|
 |**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
