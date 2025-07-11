@@ -3086,6 +3086,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773](http://arxiv.org/abs/2507.07773)|null|
+|**2025-07-09**|**Automated Video Segmentation Machine Learning Pipeline**|Johannes Merz et.al.|[2507.07242](http://arxiv.org/abs/2507.07242)|null|
+|**2025-07-09**|**Aerial Maritime Vessel Detection and Identification**|Antonella Barisic Kulas et.al.|[2507.07153](http://arxiv.org/abs/2507.07153)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976](http://arxiv.org/abs/2507.06976)|null|
 |**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
@@ -5394,6 +5397,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773](http://arxiv.org/abs/2507.07773)|null|
+|**2025-07-09**|**Automated Video Segmentation Machine Learning Pipeline**|Johannes Merz et.al.|[2507.07242](http://arxiv.org/abs/2507.07242)|null|
+|**2025-07-09**|**Aerial Maritime Vessel Detection and Identification**|Antonella Barisic Kulas et.al.|[2507.07153](http://arxiv.org/abs/2507.07153)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976](http://arxiv.org/abs/2507.06976)|null|
 |**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
