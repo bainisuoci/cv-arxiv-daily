@@ -3086,6 +3086,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
+|**2025-07-11**|**Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset**|Mathias Zinnen et.al.|[2507.08384](http://arxiv.org/abs/2507.08384)|null|
+|**2025-07-11**|**Spectroscopic Observations of Four Candidates for Blue Large-Amplitude Pulsators. No BLAPs at High Galactic Latitudes**|P. Pietrukowicz et.al.|[2507.08372](http://arxiv.org/abs/2507.08372)|null|
+|**2025-07-11**|**Understanding Driving Risks using Large Language Models: Toward Elderly Driver Assessment**|Yuki Yoshihara et.al.|[2507.08367](http://arxiv.org/abs/2507.08367)|null|
+|**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Jareen Anjom et.al.|[2507.08165](http://arxiv.org/abs/2507.08165)|null|
 |**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773](http://arxiv.org/abs/2507.07773)|null|
 |**2025-07-09**|**Automated Video Segmentation Machine Learning Pipeline**|Johannes Merz et.al.|[2507.07242](http://arxiv.org/abs/2507.07242)|null|
 |**2025-07-09**|**Aerial Maritime Vessel Detection and Identification**|Antonella Barisic Kulas et.al.|[2507.07153](http://arxiv.org/abs/2507.07153)|null|
@@ -5397,6 +5404,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
+|**2025-07-11**|**Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset**|Mathias Zinnen et.al.|[2507.08384](http://arxiv.org/abs/2507.08384)|null|
+|**2025-07-11**|**Spectroscopic Observations of Four Candidates for Blue Large-Amplitude Pulsators. No BLAPs at High Galactic Latitudes**|P. Pietrukowicz et.al.|[2507.08372](http://arxiv.org/abs/2507.08372)|null|
+|**2025-07-11**|**Understanding Driving Risks using Large Language Models: Toward Elderly Driver Assessment**|Yuki Yoshihara et.al.|[2507.08367](http://arxiv.org/abs/2507.08367)|null|
+|**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Jareen Anjom et.al.|[2507.08165](http://arxiv.org/abs/2507.08165)|null|
 |**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773](http://arxiv.org/abs/2507.07773)|null|
 |**2025-07-09**|**Automated Video Segmentation Machine Learning Pipeline**|Johannes Merz et.al.|[2507.07242](http://arxiv.org/abs/2507.07242)|null|
 |**2025-07-09**|**Aerial Maritime Vessel Detection and Identification**|Antonella Barisic Kulas et.al.|[2507.07153](http://arxiv.org/abs/2507.07153)|null|
