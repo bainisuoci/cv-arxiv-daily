@@ -3060,6 +3060,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Measuring the Impact of Rotation Equivariance on Aerial Object Detection**|Xiuyu Wu et.al.|[2507.09896](http://arxiv.org/abs/2507.09896)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Xiwei Xuan et.al.|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
 |**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
 |**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
@@ -5376,6 +5385,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Measuring the Impact of Rotation Equivariance on Aerial Object Detection**|Xiuyu Wu et.al.|[2507.09896](http://arxiv.org/abs/2507.09896)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Xiwei Xuan et.al.|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
 |**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
 |**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
