@@ -2914,6 +2914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
 |**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
 |**2025-07-08**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
@@ -3086,6 +3087,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
+|**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
+|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551](http://arxiv.org/abs/2507.11551)|null|
 |**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279](http://arxiv.org/abs/2507.11279)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
 |**2025-07-15**|**Combining Transformers and CNNs for Efficient Object Detection in High-Resolution Satellite Imagery**|Nicolas Drapier et.al.|[2507.11040](http://arxiv.org/abs/2507.11040)|null|
@@ -5419,6 +5428,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
+|**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
+|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551](http://arxiv.org/abs/2507.11551)|null|
 |**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279](http://arxiv.org/abs/2507.11279)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
 |**2025-07-15**|**Combining Transformers and CNNs for Efficient Object Detection in High-Resolution Satellite Imagery**|Nicolas Drapier et.al.|[2507.11040](http://arxiv.org/abs/2507.11040)|null|
