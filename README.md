@@ -3089,6 +3089,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
+|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
+|**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628](http://arxiv.org/abs/2507.13628)|null|
+|**2025-07-17**|**NSF-DOE Vera C. Rubin Observatory Observations of Interstellar Comet 3I/ATLAS (C/2025 N1)**|Colin Orion Chandler et.al.|[2507.13409](http://arxiv.org/abs/2507.13409)|null|
+|**2025-07-12**|**Butter: Frequency Consistency and Hierarchical Fusion for Autonomous Driving Object Detection**|Xiaojian Lin et.al.|[2507.13373](http://arxiv.org/abs/2507.13373)|null|
+|**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Atharv Goel et.al.|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
+|**2025-07-04**|**Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives**|Yang Zhou et.al.|[2507.13359](http://arxiv.org/abs/2507.13359)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
 |**2025-07-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al.|[2507.13085](http://arxiv.org/abs/2507.13085)|null|
@@ -5435,6 +5442,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
+|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
+|**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628](http://arxiv.org/abs/2507.13628)|null|
+|**2025-07-17**|**NSF-DOE Vera C. Rubin Observatory Observations of Interstellar Comet 3I/ATLAS (C/2025 N1)**|Colin Orion Chandler et.al.|[2507.13409](http://arxiv.org/abs/2507.13409)|null|
+|**2025-07-12**|**Butter: Frequency Consistency and Hierarchical Fusion for Autonomous Driving Object Detection**|Xiaojian Lin et.al.|[2507.13373](http://arxiv.org/abs/2507.13373)|null|
+|**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Atharv Goel et.al.|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
+|**2025-07-04**|**Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives**|Yang Zhou et.al.|[2507.13359](http://arxiv.org/abs/2507.13359)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
 |**2025-07-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al.|[2507.13085](http://arxiv.org/abs/2507.13085)|null|
