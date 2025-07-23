@@ -3063,6 +3063,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
+|**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
+|**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639](http://arxiv.org/abs/2507.16639)|null|
+|**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
+|**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506](http://arxiv.org/abs/2507.16506)|null|
+|**2025-07-22**|**Towards Railway Domain Adaptation for LiDAR-based 3D Detection: Road-to-Rail and Sim-to-Real via SynDRA-BBox**|Xavier Diaz et.al.|[2507.16413](http://arxiv.org/abs/2507.16413)|null|
+|**2025-07-22**|**MAN++: Scaling Momentum Auxiliary Network for Supervised Local Learning in Vision Tasks**|Junhao Su et.al.|[2507.16279](http://arxiv.org/abs/2507.16279)|null|
+|**2025-07-22**|**Edge-case Synthesis for Fisheye Object Detection: A Data-centric Perspective**|Seunghyeon Kim et.al.|[2507.16254](http://arxiv.org/abs/2507.16254)|null|
+|**2025-07-22**|**LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection**|Jijun Wang et.al.|[2507.16224](http://arxiv.org/abs/2507.16224)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155](http://arxiv.org/abs/2507.16155)|null|
 |**2025-07-21**|**Experimenting active and sequential learning in a medieval music manuscript**|Sachin Sharma et.al.|[2507.15633](http://arxiv.org/abs/2507.15633)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
 |**2025-07-20**|**Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection**|Aayush Atul Verma et.al.|[2507.15150](http://arxiv.org/abs/2507.15150)|null|
@@ -5422,6 +5432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
+|**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
+|**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639](http://arxiv.org/abs/2507.16639)|null|
+|**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624](http://arxiv.org/abs/2507.16624)|null|
+|**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506](http://arxiv.org/abs/2507.16506)|null|
+|**2025-07-22**|**Towards Railway Domain Adaptation for LiDAR-based 3D Detection: Road-to-Rail and Sim-to-Real via SynDRA-BBox**|Xavier Diaz et.al.|[2507.16413](http://arxiv.org/abs/2507.16413)|null|
+|**2025-07-22**|**MAN++: Scaling Momentum Auxiliary Network for Supervised Local Learning in Vision Tasks**|Junhao Su et.al.|[2507.16279](http://arxiv.org/abs/2507.16279)|null|
+|**2025-07-22**|**Edge-case Synthesis for Fisheye Object Detection: A Data-centric Perspective**|Seunghyeon Kim et.al.|[2507.16254](http://arxiv.org/abs/2507.16254)|null|
+|**2025-07-22**|**LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection**|Jijun Wang et.al.|[2507.16224](http://arxiv.org/abs/2507.16224)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155](http://arxiv.org/abs/2507.16155)|null|
 |**2025-07-21**|**Experimenting active and sequential learning in a medieval music manuscript**|Sachin Sharma et.al.|[2507.15633](http://arxiv.org/abs/2507.15633)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
 |**2025-07-20**|**Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection**|Aayush Atul Verma et.al.|[2507.15150](http://arxiv.org/abs/2507.15150)|null|
