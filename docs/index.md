@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2902,7 +2902,7 @@ layout: default
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
 |**2025-05-22**|**MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection**|Yichen Li et.al.|[2505.16442](http://arxiv.org/abs/2505.16442)|null|
-|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
+|**2025-07-23**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
 |**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741](http://arxiv.org/abs/2505.05741)|null|
 |**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797](http://arxiv.org/abs/2505.02797)|null|
 |**2025-04-30**|**Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors**|Richard Schmit et.al.|[2505.00044](http://arxiv.org/abs/2505.00044)|null|
@@ -3099,7 +3099,7 @@ layout: default
 |**2025-07-18**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
-|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-23**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
 |**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551](http://arxiv.org/abs/2507.11551)|null|
 |**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279](http://arxiv.org/abs/2507.11279)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
@@ -3157,7 +3157,7 @@ layout: default
 |**2025-07-03**|**Perception Activator: An intuitive and portable framework for brain cognitive exploration**|Le Xu et.al.|[2507.02311](http://arxiv.org/abs/2507.02311)|null|
 |**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
 |**2025-06-26**|**Multimodal Misinformation Detection Using Early Fusion of Linguistic, Visual, and Social Features**|Gautam Kishore Shahi et.al.|[2507.01984](http://arxiv.org/abs/2507.01984)|null|
-|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-23**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
 |**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
 |**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852](http://arxiv.org/abs/2507.00852)|null|
@@ -5468,7 +5468,7 @@ layout: default
 |**2025-07-18**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
-|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-23**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
 |**2025-07-13**|**Landmark Detection for Medical Images using a General-purpose Segmentation Model**|Ekaterina Stansfield et.al.|[2507.11551](http://arxiv.org/abs/2507.11551)|null|
 |**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279](http://arxiv.org/abs/2507.11279)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
@@ -5526,7 +5526,7 @@ layout: default
 |**2025-07-03**|**Perception Activator: An intuitive and portable framework for brain cognitive exploration**|Le Xu et.al.|[2507.02311](http://arxiv.org/abs/2507.02311)|null|
 |**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
 |**2025-06-26**|**Multimodal Misinformation Detection Using Early Fusion of Linguistic, Visual, and Social Features**|Gautam Kishore Shahi et.al.|[2507.01984](http://arxiv.org/abs/2507.01984)|null|
-|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-23**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
 |**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182](http://arxiv.org/abs/2507.01182)|null|
 |**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852](http://arxiv.org/abs/2507.00852)|null|
